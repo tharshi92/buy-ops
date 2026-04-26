@@ -1,1 +1,15 @@
 .DS_Store
+
+# Node / TypeScript
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Env
+.env
+.env.local
+
+# Pipeline run artifacts
+pipeline/runs/
+*.audit.json
+*.canonical.json

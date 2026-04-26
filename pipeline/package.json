@@ -1,0 +1,19 @@
+{
+  "name": "buy-ops-pipeline",
+  "version": "0.1.0",
+  "description": "Price list extraction pipeline: PDF -> verified canonical rows",
+  "type": "module",
+  "scripts": {
+    "harness": "tsx src/harness.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
