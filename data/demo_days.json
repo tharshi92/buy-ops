@@ -1,0 +1,63 @@
+{
+  "2026-04-23": {
+    "delivery_date": "2026-04-23",
+    "doc_ids": [
+      "supplier-a-2026-04-19",
+      "supplier-b-2026-04-19",
+      "supplier-c-2026-04-20",
+      "supplier-d-pt1-2026-04-19",
+      "supplier-d-pt2-2026-04-19",
+      "supplier-e-2026-04-18",
+      "supplier-f-2026-04-19",
+      "supplier-g-2026-04-19",
+      "supplier-h-2026-04-19",
+      "supplier-i-2026-04-19",
+      "supplier-j-2026-04-20",
+      "supplier-k-2026-04-19",
+      "supplier-l-2026-04-20",
+      "supplier-l-2026-04-21",
+      "supplier-m-2026-04-20",
+      "supplier-m-2026-04-21",
+      "supplier-m-2026-04-22",
+      "supplier-n-2026-04-17",
+      "supplier-o-2026-04-20",
+      "supplier-o-2026-04-23",
+      "supplier-p-2026-04-17",
+      "supplier-q-2026-04-21",
+      "supplier-r-2026-04-22",
+      "supplier-s-2026-04-20"
+    ]
+  },
+  "2026-04-24": {
+    "delivery_date": "2026-04-24",
+    "doc_ids": [
+      "supplier-a-2026-04-19",
+      "supplier-b-2026-04-19",
+      "supplier-c-2026-04-20",
+      "supplier-d-pt1-2026-04-19",
+      "supplier-d-pt2-2026-04-19",
+      "supplier-e-2026-04-18",
+      "supplier-f-2026-04-19",
+      "supplier-g-2026-04-19",
+      "supplier-h-2026-04-19",
+      "supplier-i-2026-04-19",
+      "supplier-j-2026-04-20",
+      "supplier-k-2026-04-19",
+      "supplier-l-2026-04-20",
+      "supplier-l-2026-04-21",
+      "supplier-m-2026-04-20",
+      "supplier-m-2026-04-21",
+      "supplier-m-2026-04-22",
+      "supplier-m-2026-04-23",
+      "supplier-m-2026-04-24",
+      "supplier-n-2026-04-17",
+      "supplier-n-2026-04-24",
+      "supplier-o-2026-04-20",
+      "supplier-o-2026-04-23",
+      "supplier-p-2026-04-17",
+      "supplier-q-2026-04-21",
+      "supplier-r-2026-04-22",
+      "supplier-s-2026-04-20"
+    ]
+  }
+}

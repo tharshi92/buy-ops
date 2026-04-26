@@ -1,0 +1,81 @@
+deliveryDate,id,name,description,quantity,nOrders
+2026-04-23,1,Banana Turning,40 lb,1,1
+2026-04-23,2,Brussels Sprouts,25 lb,1,1
+2026-04-23,3,Carrot,50 lb,6,6
+2026-04-23,4,Celery Stalks,24 stalks,4,1
+2026-04-23,5,Coriander / Cilantro,24 bunches,1,1
+2026-04-23,6,Cucumber Medium,12 pieces,2,2
+2026-04-23,7,Cucumber Large,12 pieces,2,1
+2026-04-23,8,Tomato Grape Cherry,12 x 1 lb,2,1
+2026-04-23,9,Onion Green,48 bunches,4,2
+2026-04-23,10,Pepper Green Jumbo,22 lb,6,6
+2026-04-23,11,Lemon,113 pieces,3,3
+2026-04-23,12,Lettuce Iceberg,24 heads,6,5
+2026-04-23,13,Onion Red Large,25 lb,8,6
+2026-04-23,14,Onion Cooking Medium,50 lb,1,1
+2026-04-23,15,Pepper Orange,25 lb,1,1
+2026-04-23,16,Pepper Red,25 lb,2,2
+2026-04-23,17,Strawberries,8 x 1 lb,10,1
+2026-04-23,18,Tomato 5x6,25 lb,2,1
+2026-04-23,19,Tomato Beefsteak Hot House,15 lb,5,2
+2026-04-23,20,Mushroom Portobello Local,5 lb,1,1
+2026-04-23,21,Spring Mix Heritage,3 lb,12,3
+2026-04-23,22,Coriander / Cilantro,60 bunches,2,2
+2026-04-23,23,Pepper Yellow,25 lb,1,1
+2026-04-23,24,Lettuce Iceberg Shredded,4 x 5 lb,6,2
+2026-04-23,25,Ginger Root,30 lb,1,1
+2026-04-23,26,Tomato 6x7,25 lb,4,1
+2026-04-23,27,Broccoli Crown,20 lb,1,1
+2026-04-23,28,Lettuce Green Leaf,24 heads,1,1
+2026-04-23,29,Spring Mix Mesclun,3 lb,2,1
+2026-04-23,30,Romaine Heart 6 Pack,7 packs,1,1
+2026-04-23,31,Tomato Roma,25 lb,11,7
+2026-04-23,32,Cantaloupe Jumbo,9 pieces,4,2
+2026-04-23,33,Onion Spanish Jumbo,50 lb,3,3
+2026-04-23,34,Potato Yukon Mini,50 lb,1,1
+2026-04-23,35,Mushroom Brown Caps Local,5 lb,1,1
+2026-04-23,36,Mushroom White Local,5 lb,1,1
+2026-04-23,37,Pineapple,6 pieces,3,2
+2026-04-23,38,Melon Honeydew Jumbo,5 pieces,4,1
+2026-04-23,39,Spinach Baby,2 x 2 lb,1,1
+2026-04-23,40,Apple Granny Smith,113 pieces,1,1
+2026-04-23,41,Apple Red Delicious,100 pieces,1,1
+2026-04-23,42,Coleslaw Mix,4 x 5 lb,5,2
+2026-04-23,43,Garlic Peeled,6 x 3 lb,5,5
+2026-04-23,44,Tomato 6x6,25 lb,1,1
+2026-04-23,45,Mint,12 bunches,2,2
+2026-04-23,46,Tomato Heirloom,10 lb,1,1
+2026-04-23,47,Cabbage Red,16 heads,1,1
+2026-04-23,48,Beans Fine French,14 x 400 g,8,1
+2026-04-23,49,Zucchini Yellow,20 lb,2,2
+2026-04-23,50,Orange Juicing,113 pieces,4,1
+2026-04-23,51,Romaine Lettuce,24 pieces,2,2
+2026-04-23,52,Lime,54 pieces,5,5
+2026-04-23,53,Mushroom Sliced Local,5 lb,3,2
+2026-04-23,54,Ginger Root,10 lb,1,1
+2026-04-23,55,Parsley Flat,12 x 40 g,1,1
+2026-04-23,56,Parsley Curly,12 x 40 g,1,1
+2026-04-23,57,Lemon,88 pieces,1,1
+2026-04-23,58,Parsley Flat,60 x 40 g,1,1
+2026-04-23,59,Orange Navel,50 pieces,2,1
+2026-04-23,60,Tomato Tomatillo,35 lb,2,1
+2026-04-23,61,Romaine Heart 3 Pack Andy Boy,12 packs,1,1
+2026-04-23,62,Mushroom White Choice Local,5 lb,15,5
+2026-04-23,63,Mushroom White Stuffers Local,5 lb,1,1
+2026-04-23,64,Lime,230 pieces,1,1
+2026-04-23,65,Mint,24 bunches,1,1
+2026-04-23,66,Lettuce Red Leaf,24 heads,1,1
+2026-04-23,67,Rosemary,12 bunches,1,1
+2026-04-23,68,Chives,12 bunches,1,1
+2026-04-23,69,Dill Weed,12 bunches,1,1
+2026-04-23,70,Thyme,12 bunches,1,1
+2026-04-23,71,Cucumber Medium Choice,14 pieces,40,13
+2026-04-23,72,Carrot Baby Peeled with Top,5 lb,2,1
+2026-04-23,73,Carrot Red,25 lb,6,2
+2026-04-23,74,Pea Shoots Living Local,6 packs,2,1
+2026-04-23,75,Onion Green Iced,48 bunches,2,1
+2026-04-23,76,Bean Sprouts Local,20 lb,4,3
+2026-04-23,77,Basil Thai,12 bunches,2,2
+2026-04-23,78,Bok Choy Shanghai Local,30 lb,1,1
+2026-04-23,79,Avocado Bagged 6 Pack,14 bags,1,1
+2026-04-23,80,Turnip,25 lb,5,2

@@ -1,0 +1,118 @@
+[2026-03-23, 7:49:29 PM] Jitto Team Member 2: Jitto Team Member 2 created group “Jitto Team Member 1 <> Supplier C”
+[2026-03-23, 7:49:29 PM] Jitto Team Member 1 <> Supplier C: Jitto Team Member 2 added you
+[2026-03-23, 7:49:46 PM] Jitto Team Member 2: Hey Supplier C Rep 1, we’re going to be forwarding our orders via this channel moving forward.
+[2026-03-23, 7:49:51 PM] Jitto Team Member 2: Supplier C - Mar 24
+3 - Cantaloupe - 12 pieces - $25.00
+3 - Cantaloupe Jumbo - 9 pieces - $24.00
+2 - Pepper Red - 25 lb - $50.00
+2 - Clementines Bagged - 15 x 2 lb - $32.00
+Total Cases Count: 10
+[2026-03-23, 7:49:56 PM] Jitto Team Member 2: Please confirm price and availability
+[2026-03-23, 7:56:06 PM] Supplier C Rep 1: Red pepper sold out. Rest is fine
+[2026-03-23, 8:10:35 PM] Jitto Team Member 2: Kk thanks
+[2026-03-24, 10:41:41 PM] Jitto Team Member 2: Supplier C - Mar 25
+2 - Cantaloupe - 12 pieces - $25.00
+Total Cases Count: 2
+[2026-03-25, 4:05:26 AM] Jitto Team Member 2: Add 1 honeydew 5J
+[2026-03-25, 4:15:46 AM] Jitto Team Member 2: Sorry take of honeydew
+[2026-03-25, 4:15:56 AM] Jitto Team Member 2: Coming to pay for lopes whenever ready
+[2026-03-25, 4:19:10 AM] Jitto Team Member 4: This message was deleted.
+[2026-03-25, 4:28:07 AM] Supplier C Rep 1: Ok I'll be there in 15 min
+[2026-03-25, 4:44:32 AM] Supplier C Rep 1: The bill is in the cash
+[2026-03-25, 8:48:30 PM] Jitto Team Member 4: Supplier C - March 26
+1 - Pepper Jalapeno - 30 lb - $75.00
+Total Cases Count: 1
+[2026-03-25, 8:49:11 PM] Supplier C Rep 1: Hey there. None of that left.
+New ones are $85
+[2026-03-25, 8:49:26 PM] Jitto Team Member 2: Ah shucks
+[2026-03-25, 8:49:29 PM] Jitto Team Member 2: Hold off on that
+[2026-03-25, 8:49:37 PM] Supplier C Rep 1: 👍
+[2026-03-25, 8:49:38 PM] Jitto Team Member 2: Will add on tomorrow if cant find it at 75
+[2026-03-25, 8:49:46 PM] Jitto Team Member 4: Thanks for update
+[2026-03-25, 8:49:52 PM] Supplier C Rep 1: You're welcome! 😊
+[2026-03-26, 4:31:22 AM] Jitto Team Member 2: Morning, I’ll take that $85 jalapeno
+[2026-03-30, 8:14:19 PM] Jitto Team Member 4: Hi tomorrow’s a busy one, confirm asap please
+Supplier C - March 31
+3 - Cantaloupe Jumbo - 9 pieces - $28.00
+1 - Cantaloupe - 12 pieces - $25.00
+Total Cases Count: 4
+[2026-03-30, 8:14:54 PM] Supplier C Rep 1: 9j loupes up to $32
+12 loupes are fine
+[2026-03-30, 9:36:38 PM] Jitto Team Member 4: Ok, we’ll pass on the 9j loupes
+[2026-03-30, 9:36:40 PM] Jitto Team Member 4: Thanks
+[2026-03-31, 3:36:40 AM] Jitto Team Member 4: Morning
+[2026-03-31, 3:36:54 AM] Jitto Team Member 4: Do you have green onions?
+[2026-03-31, 4:12:30 AM] Supplier C Rep 1: Good morning. We do not
+[2026-03-31, 11:49:47 PM] Jitto Team Member 1: Supplier C | DATE: APR 1
+1 Watermelon Large  4 Pieces  $65.00
+1 Cases Total
+[2026-04-01, 3:43:41 AM] Jitto Team Member 4: We’re at [location-code] to day
+[2026-04-01, 3:45:41 AM] Jitto Team Member 4: Good morning, do you have eggplant 24 pieces?
+[2026-04-01, 4:18:04 AM] Jitto Team Member 4: Confirmation please
+[2026-04-01, 4:18:41 AM] Jitto Team Member 2: Add 1 cantaloupe #12
+[2026-04-01, 4:29:17 AM] Supplier C Rep 1: Good morning. No cases of watermelon
+[2026-04-01, 4:29:42 AM] Supplier C Rep 1: $55 on eggplant 24ct
+[2026-04-01, 4:29:54 AM] Supplier C Rep 1: Cantaloupe is fine
+[2026-04-01, 4:30:16 AM] Jitto Team Member 2: Cancel eggplant
+[2026-04-02, 4:31:42 AM] Jitto Team Member 3: Hey can you add 2 watermelon small (8 pieces) ?
+[2026-04-02, 4:32:25 AM] Supplier C Rep 1: Good morning. No minis today
+[2026-04-02, 4:32:41 AM] Jitto Team Member 2: Pines?
+[2026-04-02, 4:32:54 AM] Supplier C Rep 1: No sir
+[2026-04-02, 4:32:58 AM] Jitto Team Member 2: Wait dont even think u carry those lol
+[2026-04-02, 4:33:00 AM] Jitto Team Member 2: Kk thanks
+[2026-04-02, 4:33:04 AM] Supplier C Rep 1: Sometimes
+[2026-04-08, 9:52:08 PM] Jitto Team Member 2: Hey Supplier C Rep 1 I know you’re on vacation but sending it here anyways, will drop by and talk with another sales guy if you’re not able to put the order in. Enjoy your time off
+[2026-04-08, 9:52:09 PM] Jitto Team Member 2: Supplier C - Apr 9
+5 - Honeydew - 5 pieces - $36.00
+3 - Cantaloupe - 9 pieces - $32.00
+Total Cases Count: 8
+[2026-04-08, 10:07:56 PM] Supplier C Rep 1: I'll ask someone to put it through and confirm the prices shortly
+[2026-04-08, 10:11:38 PM] Supplier C Rep 1: They may adjust pricing based on market conditions. The honeydews will likely be more. Either way the bill will be in the cash in the morning
+[2026-04-08, 10:20:09 PM] Jitto Team Member 2: Thank you sir
+[2026-04-13, 9:47:27 PM] Jitto Team Member 2: Do you have bagged clem for $30?
+[2026-04-14, 4:13:05 AM] Supplier C Rep 1: Morning. Yes
+[2026-04-14, 4:14:18 AM] Jitto Team Member 2: Sounds good
+[2026-04-14, 7:39:50 PM] Jitto Team Member 1: Supplier C | DATE: APR 15
+1 Guava  2 kg  $14.00
+2 Clementines Bagged  15 x 2 lb  $30.00
+3 Cases Total
+[2026-04-20, 8:39:59 PM] Jitto Team Member 2: Supplier C - Apr 21
+6 - Pepper Green Jumbo - 22 lb - $55.00
+1 - Pepper Jalapeno - 30 lb - $60.00
+1 - Watermelon Small - 8 pieces - $32.00
+6 - Melon Honeydew Jumbo - 5 pieces - $27.00
+Total Cases Count: 14
+[2026-04-20, 8:40:13 PM] Jitto Team Member 2: Supplier C Rep 1 possible to let me know availability on these items tonight?
+[2026-04-20, 9:24:32 PM] Supplier C Rep 1: Jalapeno are $85
+Pepper is $40
+Honeydew 5j is $30
+[2026-04-20, 9:24:38 PM] Supplier C Rep 1: Minis are fine ‎<This message was edited>
+[2026-04-20, 9:26:39 PM] Jitto Team Member 2: All are fine with me
+[2026-04-20, 9:26:47 PM] Jitto Team Member 2: Green pepper good? That’s a really good price
+[2026-04-20, 9:26:55 PM] Supplier C Rep 1: Ya it's good
+[2026-04-20, 9:27:01 PM] Jitto Team Member 2: Sounds good see ya tmr
+[2026-04-20, 9:27:06 PM] Supplier C Rep 1: Kk
+[2026-04-21, 4:46:24 AM] Jitto Team Member 2: Will you have these green peps all week or no?
+[2026-04-21, 7:57:59 PM] Jitto Team Member 1: Supplier C | DATE: APR 22
+2 Eggplant 32  25 lb  $25.00
+3 Watermelon Small  8 pieces  $32.00
+5 Cases Total
+[2026-04-21, 8:04:27 PM] Supplier C Rep 1: 👍
+[2026-04-22, 4:31:42 AM] Jitto Team Member 1: @⁨Supplier C Rep 1⁩ down here
+[2026-04-22, 4:32:00 AM] Supplier C Rep 1: Ok one second
+[2026-04-22, 10:39:51 PM] Jitto Team Member 1: Supplier C | DATE: APR 23
+6 Pepper Green Jumbo  22 lb  $40.00
+4 Melon Honeydew Jumbo  5 pieces  $30.00
+10 Cases Total
+[2026-04-23, 6:28:14 PM] Jitto Team Member 2: Supplier C - Apr 24
+2 - Eggplant - 32 count - $25.00
+2 - Pepper Green Jumbo - 22 lb - $40.00
+1 - Squash Butternut - 40 lb - $25.00
+Total Cases Count: 5
+[2026-04-24, 4:20:58 AM] Jitto Team Member 4: Morning @⁨Supplier C Rep 1⁩, do you have zucchini green 20 lb? If so how much
+[2026-04-24, 4:21:31 AM] Supplier C Rep 1: $20
+[2026-04-24, 4:22:16 AM] Jitto Team Member 2: Add 4
+[2026-04-24, 4:22:20 AM] Jitto Team Member 2: Please
+[2026-04-24, 4:22:58 AM] Jitto Team Member 4: Quality good?
+[2026-04-24, 4:23:05 AM] Supplier C Rep 1: Yes
+[2026-04-24, 4:24:39 AM] Jitto Team Member 4: Please add 4 of them

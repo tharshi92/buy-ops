@@ -1,0 +1,496 @@
+[2026-03-12, 12:52:03 PM] Jitto Team Member 1 <> Supplier A: You created group “Jitto Team Member 1 <> Supplier A”
+[2026-03-12, 12:52:29 PM] Jitto Team Member 1: Hi All
+we will use this channel going forward for all pricelists, pre-orders, shorts and communication. Thank you 🙏
+[2026-03-12, 4:49:56 PM] Jitto Team Member 3: Jitto Team Member 2 added Jitto Team Member 3
+[2026-03-12, 5:48:42 PM] Jitto Team Member 3: Supplier A - March 13
+22 - Cucumber Medium Choice - 14 pieces - $15.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+3 - Cucumber Medium - 12 pieces - $20.00
+3 - Mushroom Button Local - 5 lb - $15.00
+3 - Mushroom Shiitake Local - 3 lb - $25.00
+3 - Mushroom White Choice Local - 5 lb - $11.00
+3 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+2 - Mushroom Brown Packs Local - 12 x 8 oz - $20.00
+2 - Mushroom Oyster Local - 2 lb - $15.00
+1 - Mushroom Portobello Local - 5 lb - $19.00
+1 - Mushroom White Local - 5 lb - $13.00
+Total Cases: 48
+[2026-03-12, 6:02:34 PM] Jitto Team Member 3: Add 3 Tomatoes on the Vine too
+[2026-03-13, 3:41:49 AM] Jitto Team Member 3: Add 1 tomato beefsteak hot house as well
+[2026-03-13, 3:48:01 AM] Supplier A Rep 1: Ok thanks
+[2026-03-15, 8:15:12 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ update
+Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $24
+Cluster tomato $20
+#2 cucumber $15
+1# cucumber medium $20
+#1 cucumber large $23
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+[2026-03-15, 9:46:58 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ priceupdate?
+[2026-03-16, 3:34:11 AM] Supplier A Rep 1: @Supplier A Mushroom update
+Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $40
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $20
+#1 cucumber large $23
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+[2026-03-16, 5:43:52 PM] Jitto Team Member 2: Supplier A — Mar 17
+6 Cucumber Medium Choice — 14 pieces — $15.00
+4 Mushroom Button Local — 5 lb — $16.00
+4 Mushroom White Choice Local — 5 lb — $11.00
+4 Mushroom White Packs Local — 12 x 8 oz — $19.00
+3 Mushroom Brown Caps Local — 5 lb — $16.00
+1 Mushroom Brown Packs Local — 12 x 8 oz — $20.00
+1 Mushroom Portobello Local — 5 lb — $19.00
+1 Tomato Beefsteak Hot House — 15 lb — $38.00
+Total Cases: 24
+[2026-03-17, 3:35:34 AM] Supplier A Rep 1: Ok thanks
+[2026-03-17, 4:33:04 PM] Jitto Team Member 2: Supplier A — Mar 18
+11 Cucumber Medium Choice — 14 pieces — $15.00
+11 Mushroom White Choice Local — 5 lb — $11.00
+Total Cases: 22
+[2026-03-17, 9:23:03 PM] Supplier A Rep 1: Ok thanks
+[2026-03-18, 8:16:22 PM] Jitto Team Member 2: Supplier A — Mar 19
+21 Cucumber Medium Choice — 14 pieces — $15.00
+10 Mushroom White Choice Local — 5 lb — $11.00
+5 Mushroom Sliced Local — 5 lb — $14.00
+3 Mushroom White Local — 5 lb — $13.00
+2 Mushroom Lion's Mane — 2 lb — $20.00
+2 Mushroom Oyster Local — 2 lb — $15.00
+2 Mushroom Shiitake Local — 3 lb — $25.00
+1 Mushroom Brown Packs Local — 12 x 8 oz — $20.00
+1 Mushroom Button Local — 5 lb — $16.00
+7 Mushroom Brown Caps Local — 5 lb — $16.00
+Total Cases: 54
+[2026-03-18, 8:56:27 PM] Supplier A Rep 1: Ok thanks
+[2026-03-19, 4:06:38 AM] Jitto Team Member 2: Add 8 beefsteak tomatoes please
+[2026-03-19, 5:46:25 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ we didn’t get 8 hot house
+[2026-03-19, 5:46:33 AM] Jitto Team Member 1: Please send red one as much as possible
+[2026-03-19, 11:04:30 AM] Jitto Team Member 2: [image #24f7287d — content removed]
+[2026-03-19, 4:35:00 PM] Jitto Team Member 2: Supplier A — Mar 20
+17 Cucumber Medium Choice — 14 pieces — $15.00
+4 Mushroom Brown Caps Local — 5 lb — $16.00
+4 Mushroom Button Local — 5 lb — $16.00
+2 Mushroom Portobello Local — 5 lb — $19.00
+2 Mushroom Shiitake Local — 3 lb — $25.00
+1 Tomato on the Vine — 11 lb — $25.00
+Total Cases: 30
+[2026-03-19, 4:35:53 PM] Supplier A Rep 1: Ok thanks
+[2026-03-21, 8:32:51 PM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩
+@Supplier A Mushroom update
+Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $40
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $20
+#1 cucumber large $23
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+[2026-03-22, 7:26:39 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ please update pricing
+[2026-03-22, 7:28:45 AM] Supplier A Rep 1: @Supplier A Mushroom
+@Supplier A Mushroom update
+Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $40
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $22
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+Cluster tomato $28
+Hot house tomato $42
+[2026-03-23, 9:57:11 AM] Jitto Team Member 4: Jitto Team Member 2 added Jitto Team Member 4
+[2026-03-23, 7:48:35 PM] Jitto Team Member 2: Supplier A - Mar 24
+15 - Mushroom White Choice Local - 5 lb - $11.00
+13 - Cucumber Medium Choice - 14 pieces - $15.00
+4 - Mushroom Brown Caps Local - 5 lb - $16.00
+4 - Mushroom Shiitake Local - 3 lb - $25.00
+3 - Cucumber Medium - 12 pieces - $18.00
+3 - Mushroom Button Local - 5 lb - $16.00
+3 - Mushroom Sliced Local - 5 lb - $14.00
+3 - Mushroom White Local - 5 lb - $13.00
+3 - Cucumber Large - 12 pieces - $22.00
+2 - Mushroom Oyster Local - 2 lb - $15.00
+2 - Mushroom Portobello Local - 5 lb - $19.00
+1 - Mushroom Lion's Mane - 2 lb - $20.00
+1 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+Total Cases Count: 57
+[2026-03-23, 9:44:45 PM] Supplier A Rep 1: Ok thanks
+[2026-03-24, 4:00:17 AM] Supplier A Rep 1: Good morning 
+Ok thanks
+[2026-03-24, 10:27:30 AM] Jitto Team Member 2: You guys shorted us 4 mushrooms this morning
+[2026-03-24, 10:27:39 AM] Jitto Team Member 2: Choice mushrooms
+[2026-03-24, 10:27:44 AM] Jitto Team Member 2: Just curious what happened?
+[2026-03-24, 10:55:43 AM] Supplier A Rep 1: I think my guy made a mistake
+[2026-03-24, 10:56:10 AM] Supplier A Rep 1: How many was in the bill
+[2026-03-24, 10:56:27 AM] Jitto Team Member 2: 11 instead of 15
+[2026-03-24, 10:56:41 AM] Supplier A Rep 1: I mean in invoice
+[2026-03-24, 10:56:56 AM] Supplier A Rep 1: Can u send picture of it
+[2026-03-24, 10:41:27 PM] Jitto Team Member 2: Supplier A - Mar 25
+13 - Mushroom White Choice Local - 5 lb - $11.00
+6 - Cucumber Medium Choice - 14 pieces - $15.00
+1 - Cucumber Medium - 12 pieces - $18.00
+1 - Mushroom Oyster Local - 2 lb - $15.00
+1 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+Total Cases Count: 22
+[2026-03-25, 3:25:25 AM] Supplier A Rep 1: Ok thanks
+[2026-03-25, 8:46:22 PM] Jitto Team Member 4: Supplier A - March 26
+25 - Cucumber Medium Choice - 14 pieces - $15.00
+7 - Mushroom White Choice Local - 5 lb - $11.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+4 - Cucumber Medium - 12 pieces - $18.00
+4 - Mushroom Sliced Local - 5 lb - $14.00
+2 - Mushroom Lion's Mane - 2 lb - $20.00
+2 - Mushroom Oyster Local - 2 lb - $15.00
+2 - Mushroom Shiitake Local - 3 lb - $25.00
+2 - Mushroom White Stuffers Local - 5 lb - $16.00
+1 - Mushroom Brown Packs Local - 12 x 8 oz - $20.00
+1 - Mushroom Button Local - 5 lb - $16.00
+1 - Mushroom White Local - 5 lb - $13.00
+Total Cases Count: 56
+[2026-03-25, 9:11:52 PM] Supplier A Rep 1: Ok thanks
+[2026-03-25, 9:19:45 PM] Jitto Team Member 4: Thank you 😁
+[2026-03-26, 4:36:55 AM] Supplier A Rep 1: Good morning 
+Ok thanks
+[2026-03-26, 7:30:20 PM] Jitto Team Member 3: Supplier A - Mar 27
+18 - Cucumber Medium Choice - 14 pieces - $15.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+2 - Mushroom Button Local - 5 lb - $16.00
+2 - Mushroom Portobello Local - 5 lb - $19.00
+Case count: 27
+[2026-03-27, 3:31:24 AM] Supplier A Rep 1: Good morning thanks
+[2026-03-28, 10:54:42 AM] Jitto Team Member 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $40
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $22
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+Cluster tomato $28
+Hot house tomato $42
+[2026-03-28, 10:50:34 PM] Supplier A Rep 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $38
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $22
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+Cluster tomato $28
+Hot house tomato $38
+[2026-03-30, 8:11:42 PM] Jitto Team Member 4: Hi tomorrow’s a busy one, confirm asap please
+Supplier A - March 31
+21 - Cucumber Medium Choice - 14 pieces - $15.00
+20 - Mushroom White Choice Local - 5 lb - $11.00
+2 - Mushroom Oyster Local - 2 lb - $15.00
+1 - Mushroom Sliced Local - 5 lb - $14.00
+6 - Mushroom Button Local - 5 lb - $15.00
+6 - Mushroom Brown Caps Local - 5 lb - $16.00
+3 - Tomato on the Vine - 11 lb - $28.00
+2 - Mushroom Shiitake Local - 3 lb - $25.00
+1 - Mushroom Portobello Local - 5 lb - $19.00
+1 - Mushroom White Local - 5 lb - $13.00
+Total Cases Count: 63
+[2026-03-30, 9:01:09 PM] Supplier A Rep 1: Ok thanks
+[2026-03-31, 3:55:54 AM] Jitto Team Member 3: Please leave your pallet on brown [image #470563c8 — content removed]
+[2026-03-31, 3:55:55 AM] Jitto Team Member 3: Please leave your pallet on brown [image #7a7e475e — content removed]
+[2026-03-31, 3:57:22 AM] Jitto Team Member 4: Please add
+15 - tomato beefsteak - 15lb - $38
+[2026-03-31, 4:00:04 AM] Jitto Team Member 4: Missed voice call, ‎‎48 sec • ‎3 joined
+[2026-03-31, 7:09:15 PM] Jitto Team Member 4: Good evening,
+Supplier A - April 1
+15 - Cucumber Medium Choice - 14 pieces - $15.00
+2 - Mushroom Sliced Local - 5 lb - $14.00
+2 - Tomato Beefsteak Hot House - 15 lb - $38.00
+1 - Tomato on the Vine - 11 lb - $28.00
+2 - Mushroom Button Local - 5 lb - $16.00
+3 - Cucumber Medium - 12 pieces - $18.00
+Total Cases Count: 25
+[2026-03-31, 7:28:01 PM] Jitto Team Member 4: Please add
+1 - Mushroom White Choice Local - 5 lb - $11.00
+[2026-03-31, 11:52:29 PM] Jitto Team Member 1: Please Add
+6 Cucumber Medium Choice - 14 Pieces - $15 (Total 21)
+1 Mushroom Sliced local - 5 lb - $14 (Total 3)
+1 Mushroom White #1 - $13
+1 Mushroom Brown - 5 lb - $16
+Total Case Count : 35
+[2026-04-01, 3:34:00 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-01, 3:41:45 AM] Jitto Team Member 4: We’re at [location-code] to day ‎<This message was edited>
+[2026-04-01, 3:42:34 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-01, 3:43:02 AM] Jitto Team Member 4: Any shorts?
+[2026-04-01, 4:16:08 AM] Jitto Team Member 4: Confirmation please
+[2026-04-01, 4:49:37 AM] Supplier A Rep 1: Good morning 
+Sorry, no medium cucumber . I have only large $20.
+[2026-04-01, 4:50:22 AM] Jitto Team Member 2: Ok
+[2026-04-01, 4:50:23 AM] Jitto Team Member 2: Sure
+[2026-04-01, 8:25:35 PM] Jitto Team Member 3: Supplier A - Apr 2
+14 - Cucumber Medium Choice - 14 pieces - $15.00
+15 - Cucumber Mini - 20 lb - $15.00
+2 - Mushroom Lion's Mane - 2 lb - $20.00
+1 - Mushroom White Local - 5 lb - $13.00
+7 - Mushroom Brown Caps Local - 5 lb - $16.00
+6 - Mushroom Button Local - 5 lb - $16.00
+2 - Tomato Beefsteak Hot House - 15 lb - $38.00
+10 - Mushroom White Choice Local - 5 lb - $11.00
+2 - Mushroom Portobello Local - 5 lb - $19.00
+2 - Mushroom Shiitake Local - 3 lb - $25.00
+1 - Mushroom Brown Packs Local - 12 x 8 oz - $20.00
+Case count: 62
+[2026-04-02, 3:42:47 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-02, 3:44:02 AM] Jitto Team Member 3: Ok
+[2026-04-05, 8:02:16 AM] Jitto Team Member 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $38
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $22
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $15
+Cluster tomato $28
+Hot house tomato $38
+[2026-04-05, 8:04:42 AM] Supplier A Rep 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $36
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $20
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $12
+Cluster tomato $28
+Hot house tomato $38
+[2026-04-05, 8:04:57 AM] Supplier A Rep 1: Please send me payment for the two weeks last two weeks please thank you
+[2026-04-05, 8:05:08 AM] Jitto Team Member 1: I just paid 1 a few minutes ago
+[2026-04-05, 8:05:22 AM] Jitto Team Member 1: Will e-transfer other by Monday
+[2026-04-05, 8:05:36 AM] Supplier A Rep 1: OK, I just got it. Thank you.
+[2026-04-05, 8:12:10 AM] Jitto Team Member 1: Any salad tomatoes or peppers coming @⁨Supplier A Rep 1⁩
+[2026-04-05, 9:43:03 AM] Supplier A Rep 1: Yes 
+Red pepper $30 5kg
+Yellow pepper $30 5kg
+Orange pepper $30 5kg
+Grape tomatoes $32
+[2026-04-06, 7:33:16 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ update on cuke pricing? Let me know if #2 and others dropped
+[2026-04-06, 7:08:39 PM] Jitto Team Member 2: Supplier A - Apr 7
+16 - Mushroom White Choice Local - 5 lb - $11.00
+11 - Tomato Beefsteak Hot House - 15 lb - $36.00
+3 - Mushroom Brown Caps Local - 5 lb - $16.00
+3 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+2 - Mushroom Brown Packs Local - 12 x 8 oz - $20.00
+1 - Mushroom Button Local - 5 lb - $16.00
+1 - Mushroom Portobello Local - 5 lb - $19.00
+1 - Mushroom White Local - 5 lb - $13.00
+1 - Tomato on the Vine - 11 lb - $28.00
+6 - Tomato Grape Cherry - 12 x 1 lb - $32.00
+Total Cases Count: 45
+[2026-04-07, 4:22:50 AM] Supplier A Rep 1: Good morning 
+Hot house is gonna be 38 and no grip Tomato today
+[2026-04-07, 4:25:00 AM] Jitto Team Member 2: Ok thanks
+[2026-04-07, 11:00:15 PM] Jitto Team Member 2: Supplier A - Apr 8
+8 - Mushroom White Choice Local - 5 lb - $11.00
+4 - Tomato Beefsteak Hot House - 15 lb - $38.00
+1 - Mushroom Button Local - 5 lb - $16.00
+1 - Mushroom Oyster Local - 2 lb - $15.00
+1 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+Total Cases Count: 15
+[2026-04-08, 3:23:54 AM] Supplier A Rep 1: Ok thanks
+[2026-04-08, 4:41:17 AM] Supplier A Rep 1: Good morning 
+Ok thanks all good
+[2026-04-08, 4:43:49 AM] Jitto Team Member 3: We've only gotten beefsteak so far. Is the rest still on the way?
+[2026-04-08, 4:44:30 AM] Supplier A Rep 1: Yes
+[2026-04-08, 4:44:43 AM] Supplier A Rep 1: Please, I need payment
+[2026-04-08, 4:44:54 AM] Jitto Team Member 1: Supplier A Rep 1 I just got the statement
+[2026-04-08, 4:44:57 AM] Jitto Team Member 2: Jitto Team Member 1 is going to clear
+[2026-04-08, 4:45:06 AM] Jitto Team Member 1: I will sort it out today
+[2026-04-08, 9:50:58 PM] Jitto Team Member 2: Supplier A - Apr 9
+8 - Mushroom White Choice Local - 5 lb - $11.00
+6 - Mushroom Sliced Local - 5 lb - $14.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+3 - Mushroom White Local - 5 lb - $13.00
+2 - Mushroom Button Local - 5 lb - $16.00
+2 - Mushroom Lion's Mane - 2 lb - $20.00
+2 - Mushroom Oyster Local - 2 lb - $15.00
+2 - Mushroom Shiitake Local - 3 lb - $25.00
+1 - Tomato on the Vine - 11 lb - $28.00
+13 - Tomato Beefsteak Hot House - 15 lb - $38.00
+Total Cases Count: 44
+[2026-04-09, 3:27:51 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-09, 4:33:24 AM] Jitto Team Member 3: Still waiting on pallet. We're at [location-code].
+[2026-04-09, 4:38:05 AM] Supplier A Rep 1: Good morning 
+All good thanks
+[2026-04-09, 9:07:23 PM] Jitto Team Member 1: Supplier A | DATE: APR 10
+5 Mushroom White Choice Local  5 lb  $11.00
+3 Mushroom Button Local  5 lb  $16.00
+3 Tomato Beefsteak Hot House  15 lb  $38.00
+2 Mushroom Sliced Local  5 lb  $14.00
+1 Mushroom Portobello Local  5 lb  $19.00
+1 Mushroom Shiitake Local  3 lb  $25.00
+4 Mushroom Brown Caps Local  5 lb  $16.00
+3 Tomato Grape Cherry  12 x 1 lb  $32.00
+3 Tomato on the Vine  11 lb  $28.00
+25 Cases Total
+[2026-04-09, 9:18:45 PM] Supplier A Rep 1: Ok thanks
+[2026-04-10, 4:45:11 AM] Supplier A Rep 1: Good morning the only thing is missing Is the grape tomato? I’m gonna start next week with them steady.thanks
+[2026-04-10, 5:06:43 AM] Jitto Team Member 3: This message was deleted.
+[2026-04-12, 8:36:32 AM] Jitto Team Member 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $36
+Cluster tomato $28
+#2 cucumber $15
+1# cucumber medium $18
+#1 cucumber large $20
+Cucumber mini pkg 6x8 $22
+Mini cucumber lose #2 $12
+Cluster tomato $28
+Hot house tomato $38
+Prices for cucumbers#2 is $6-$7 now lmk if your price has dropped
+[2026-04-12, 3:10:51 PM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ update please
+[2026-04-12, 11:10:01 PM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ any updatE?
+[2026-04-13, 5:03:38 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ please let me know pricing
+[2026-04-13, 5:27:21 AM] Supplier A Rep 1: Supplier A Rep 1 Update? Cukes down now?
+Hot house tomatoes $45
+Cluster tomato $32
+#2 cucumber $10
+#1 cucumber large $15
+Cucumber mini pkg 6x8 $21
+Mini cucumber lose #2 $10
+Cluster tomato $32
+Hot house tomato $45
+Prices for cucumbers#2 is $6-$7 now lmk if your price has dropped
+[2026-04-13, 9:43:31 PM] Jitto Team Member 2: Supplier A - Apr 14
+18 - Mushroom White Choice Local - 5 lb - $11.00
+17 - Tomato Beefsteak Hot House - 15 lb - $37.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+5 - Mushroom Button Local - 5 lb - $16.00
+4 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+4 - Tomato Grape Cherry - 12 x 1 lb - $32.00
+3 - Mushroom Oyster Local - 2 lb - $15.00
+2 - Mushroom Brown Packs Local - 12 x 8 oz - $20.00
+2 - Mushroom Shiitake Local - 3 lb - $25.00
+2 - Mushroom White Local - 5 lb - $13.00
+1 - Mushroom Lion's Mane - 2 lb - $20.00
+1 - Mushroom Sliced Local - 5 lb - $14.00
+3 - Tomato on the Vine - 11 lb - $32.00
+Total Cases Count: 67
+[2026-04-14, 3:25:06 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-14, 5:26:50 AM] Supplier A Rep 1: Good morning all good beside the grape tomato no grape tomato today thanks
+[2026-04-14, 7:39:22 PM] Jitto Team Member 1: Supplier A | DATE: APR 15
+10 Mushroom White Choice Local  5 lb  $11.00
+1 Mushroom Portobello Local  5 lb  $19.00
+1 Tomato Beefsteak Hot House  15 lb  $45.00
+12 Cases Total
+[2026-04-15, 3:40:50 AM] Supplier A Rep 1: Good morning ok thanks
+[2026-04-15, 8:12:04 PM] Jitto Team Member 1: **please need red beefsteak**
+Supplier A | DATE: APR 16
+12 Mushroom White Choice Local  5 lb  $11.00
+5 Mushroom Button Local  5 lb  $16.00
+3 Mushroom Brown Caps Local  5 lb  $16.00
+3 Mushroom Sliced Local  5 lb  $14.00
+1 Mushroom Lion's Mane  2 lb  $20.00
+1 Mushroom Oyster Local  2 lb  $15.00
+1 Mushroom Shiitake Local  3 lb  $25.00
+1 Mushroom White Local  5 lb  $13.00
+9 Tomato Beefsteak Hot House  15 lb  $45.00
+2 Tomato on the Vine  11 lb  $32.00
+38 Cases Total
+Parking [location-code] ‎<This message was edited>
+[2026-04-15, 9:32:01 PM] Supplier A Rep 1: Ok thanks
+[2026-04-16, 5:16:53 AM] Supplier A Rep 1: Good morning 
+Ok thanks
+[2026-04-16, 7:24:05 AM] Jitto Team Member 1: You deleted this message.
+[2026-04-16, 8:26:28 AM] Jitto Team Member 1: [image #b811b289 — content removed]
+[2026-04-16, 8:27:05 AM] Jitto Team Member 1: @⁨Supplier A Rep 1⁩ we didn't get 5 white whole 12x8oz we got 5 Mushroom buttons
+I think this is an invoice error - please fix on your end (price and total is the same) but just letting you know
+[2026-04-16, 7:37:12 PM] Jitto Team Member 1: You deleted this message.
+[2026-04-16, 7:38:08 PM] Jitto Team Member 1: Supplier A | DATE: APR 17
+6 Mushroom White Choice Local  5 lb  $11.00
+5 Tomato on the Vine  11 lb  $32.00
+4 Tomato Beefsteak Hot House  15 lb  $45.00
+3 Tomato Grape Cherry  12 x 1 lb  $32.00
+2 Mushroom Button Local  5 lb  $16.00
+1 Mushroom Brown Caps Local  5 lb  $16.00
+1 Mushroom Portobello Local  5 lb  $19.00
+1 Mushroom White Packs Local  12 x 8 oz  $19.00
+23 Cases Total
+🚗 Parking [location-code]
+[2026-04-16, 8:44:30 PM] Supplier A Rep 1: Ok thanks
+[2026-04-17, 4:52:41 AM] Supplier A Rep 1: Good morning 
+Sorry no grape tomatoes today
+[2026-04-17, 4:53:03 AM] Jitto Team Member 1: Is the rest of the order coming
+[2026-04-17, 4:53:17 AM] Supplier A Rep 1: Yes
+[2026-04-17, 5:01:05 AM] Jitto Team Member 3: Still waiting on;
+- 2 white choice 5lbs
+- 2 white packs 12x8
+- 1 portobello
+[2026-04-17, 5:01:17 AM] Jitto Team Member 3: The rest has been recieved, thank you.
+[2026-04-18, 4:02:39 PM] Jitto Team Member 1: Supplier A Rep 1 Update? Cukes down now?
+#2 cucumber $10
+#1 cucumber large $15
+Cucumber mini pkg 6x8 $21
+Mini cucumber lose #2 $10
+Cluster tomato $32
+Hot house tomato $45
+Prices for cucumbers#2 is $6-$7 now lmk if your price has dropped
+[2026-04-19, 7:17:56 AM] Supplier A Rep 1: Supplier A Rep 1 Update? Cukes down now?
+Grape tomatoes $35
+#2 cucumber $10
+#1 cucumber large $14
+Cucumber mini pkg 6x8 $20
+Mini cucumber lose #2 $8
+Cluster tomato $38
+Hot house tomato $50
+Red pepper 5kg XXL $30
+Yellow pepper 5kg XXL $30
+Orange pepper 5kg XXL $31
+Prices for cucumbers#2 is $6-$7 now lmk if your price has dropped
+[2026-04-19, 7:20:24 AM] Supplier A Rep 1: Greens peppers 25 pound $65
+[2026-04-20, 8:39:42 PM] Jitto Team Member 2: Supplier A - Apr 21
+18 - Mushroom White Choice Local - 5 lb - $11.00
+9 - Mushroom Brown Caps Local - 5 lb - $16.00
+4 - Mushroom Button Local - 5 lb - $16.00
+4 - Mushroom Oyster Local - 2 lb - $15.00
+3 - Mushroom Shiitake Local - 3 lb - $25.00
+2 - Mushroom Lion's Mane - 2 lb - $20.00
+2 - Mushroom Sliced Local - 5 lb - $14.00
+2 - Mushroom White Local - 5 lb - $13.00
+1 - Mushroom Portobello Local - 5 lb - $19.00
+Total Cases Count: 45
+[2026-04-20, 8:43:24 PM] Jitto Team Member 2: [location-code]
+[2026-04-20, 10:02:24 PM] Supplier A Rep 1: Ok thanks
+[2026-04-21, 3:47:38 AM] Jitto Team Member 2: Add 8 beefsteak @ $50
+Add 3 tomato on the vine @ $38
+[2026-04-21, 4:28:15 AM] Jitto Team Member 2: Please confirm
+[2026-04-21, 5:37:03 AM] Supplier A Rep 1: Good morning 
+Ok 👍
+[2026-04-21, 7:57:28 PM] Jitto Team Member 1: Supplier A | DATE: APR 22
+8 Mushroom White Choice Local  5 lb  $11.00
+1 Mushroom White Packs Local  12 x 8 oz  $19.00
+1 Tomato Beefsteak Hot House  15 lb  $50.00
+10 Cases Total
+[2026-04-22, 4:19:06 AM] Supplier A Rep 1: Good morning thanks
+[2026-04-22, 4:19:35 AM] Jitto Team Member 1: [location-code] parking
+[2026-04-22, 5:02:10 AM] Supplier A Rep 1: Good morning all good
+[2026-04-22, 10:38:40 PM] Jitto Team Member 1: Supplier A | DATE: APR 23
+15 Mushroom White Choice Local  5 lb  $11.00
+5 Tomato Beefsteak Hot House  15 lb  $50.00
+3 Mushroom Sliced Local  5 lb  $14.00
+1 Mushroom Brown Caps Local  5 lb  $16.00
+1 Mushroom Portobello Local  5 lb  $19.00
+1 Mushroom White Local  5 lb  $13.00
+1 Mushroom White Stuffers Local  5 lb  $16.00
+27 Cases Total
+[2026-04-23, 3:47:11 AM] Jitto Team Member 3: Any shorts today?
+[2026-04-23, 4:07:19 AM] Supplier A Rep 1: Good morning 
+All good thank you
+[2026-04-23, 6:26:48 PM] Jitto Team Member 2: Supplier A - Apr 24
+8 - Tomato Beefsteak Hot House - 15 lb - $50.00
+5 - Mushroom Brown Caps Local - 5 lb - $16.00
+5 - Mushroom White Choice Local - 5 lb - $11.00
+3 - Mushroom Button Local - 5 lb - $16.00
+2 - Mushroom White Packs Local - 12 x 8 oz - $19.00
+1 - Mushroom Portobello Local - 5 lb - $19.00
+1 - Mushroom Shiitake Local - 3 lb - $25.00
+Total Cases Count: 25
+[2026-04-24, 5:14:46 AM] Supplier A Rep 1: Good morning 
+All good

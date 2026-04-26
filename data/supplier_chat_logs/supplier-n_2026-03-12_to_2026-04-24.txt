@@ -1,0 +1,385 @@
+[2026-03-12, 5:55:40 PM] Jitto Team Member 2: Jitto Team Member 2 created group “Jitto Team Member 1 <> Supplier N”
+[2026-03-12, 5:55:41 PM] Jitto Team Member 1 <> Supplier N: Jitto Team Member 2 added you
+[2026-03-12, 5:55:45 PM] Jitto Team Member 3: Supplier N - March 13
+4 - Pepper Red - 25 lb - $40.00
+2 - Pepper Orange - 25 lb - $38.00
+1 - Potato Sweet - 40 lb - $20.00
+Total Cases: 7
+[2026-03-12, 6:03:13 PM] Jitto Team Member 3: Add 3 Limes (230 count) as well please
+[2026-03-13, 3:48:34 AM] Jitto Team Member 3: Add 1 Cauliflower (12 heads) as well
+[2026-03-16, 5:45:59 PM] Jitto Team Member 2: Supplier N — Mar 17
+1 Lemon — 88 pieces — $37.00
+10 Potato White — 10 lb — $2.50
+3 Pepper Red — 25 lb — $35.00
+3 Potato Sweet — 40 lb — $20.00
+Total Cases: 17
+[2026-03-17, 3:58:16 AM] Jitto Team Member 2: Add 2 broccoli crown @ $27
+[2026-03-17, 3:59:02 AM] Supplier N Rep 1: No crowns 
+No red peppers at that price
+Red peppers are now $54
+[2026-03-17, 4:18:25 AM] Jitto Team Member 2: Ok just the lemon, white potatoes & sweet potatoes 👍
+[2026-03-17, 4:21:54 AM] Supplier N Rep 1: Ok
+[2026-03-17, 4:35:48 PM] Jitto Team Member 2: Supplier N — Mar 18
+1 Cucumber Medium — 12 pieces — $16.00
+1 Pepper Green Choice — 22 lb — $51.00
+1 Pepper Red — 25 lb — $54.00
+Total Cases: 3
+[2026-03-17, 4:36:20 PM] Supplier N Rep 1: No medium cukes
+[2026-03-17, 4:38:02 PM] Jitto Team Member 2: Add 1 yellow pepper 25lb @ $55
+[2026-03-17, 4:38:10 PM] Supplier N Rep 1: Ok
+[2026-03-18, 8:20:44 PM] Jitto Team Member 2: Supplier N — Mar 19
+9 Pepper Green Choice — 22 lb — $51.00
+2 Lemon — 113 pieces — $37.00
+3 Pepper Orange — 25 lb — $43.00
+1 Avocado Bagged 6 Pack — 14 bags — $37.00
+1 Parsley Curly — 60 x 40 g — $38.00
+Total Cases: 16
+[2026-03-18, 10:55:02 PM] Supplier N Rep 1: No 6pack avocados
+[2026-03-19, 3:24:35 AM] Jitto Team Member 2: Add 4 red pepper 25lb $52
+[2026-03-19, 3:25:03 AM] Supplier N Rep 1: Ok
+[2026-03-19, 3:25:18 AM] Jitto Team Member 2: Cauliflower still good or starting to yellow?
+[2026-03-19, 3:25:22 AM] Jitto Team Member 2: I need 2 caulis as well
+[2026-03-19, 3:25:30 AM] Jitto Team Member 2: @ $31
+[2026-03-19, 3:27:08 AM] Supplier N Rep 1: Ok
+[2026-03-19, 4:01:46 AM] Jitto Team Member 2: Supplier N Rep 1 what days are you off again
+[2026-03-19, 4:14:53 AM] Supplier N Rep 1: Tommorow, Sunday and Monday
+[2026-03-19, 4:16:08 AM] Jitto Team Member 2: Ahh okay, if we send a list Monday evening for Tues we should be good?
+[2026-03-23, 9:55:26 AM] Jitto Team Member 4: Jitto Team Member 2 added Jitto Team Member 4
+[2026-03-23, 7:54:51 PM] Jitto Team Member 2: Supplier N - Mar 24
+13 - Tomato Roma - 25 lb - $45.00
+1 - Ginger Root - 30 lb - $34.00
+1 - Lemon - 88 pieces - $37.00
+1 - Pepper Green Choice - 22 lb - $69.00
+5 - Potato Russet - 50 lb - $19.00
+7 - Onion Green - 48 bunches - $29.00
+4 - Carrot - 50 lb - $28.00
+3 - Pepper Green Jumbo - 22 lb - $60.00
+2 - Lemon - 113 pieces - $37.00
+1 - Potato White Large - 50 lb - $19.00
+1 - Potato Sweet - 40 lb - $17.00
+Total Cases Count: 39
+[2026-03-23, 8:10:51 PM] Jitto Team Member 2: Add 2 red peppers 25lb @ $58
+[2026-03-23, 11:35:56 PM] Supplier N Rep 1: No Romas
+No jumbo carrots
+[2026-03-24, 10:42:51 PM] Jitto Team Member 2: Supplier N - Mar 25
+2 - Potato Russet #80 - 50 lb - $19.00
+3 - Ginger Root - 30 lb - $34.00
+3 - Pepper Green Choice - 22 lb - $69.00
+1 - Pepper Orange - 11 lb - $32.00
+8 - Mango - 7 pieces - $12.00
+4 - Pepper Orange - 25 lb - $48.00
+2 - Tomato Roma - 25 lb - $45.00
+1 - Avocado Bagged 6 Pack - 14 bags - $38.00
+1 - Carrot - 50 lb - $28.00
+Total Cases Count: 25
+[2026-03-25, 3:30:02 AM] Jitto Team Member 4: Good morning, how much for yellow peppers?
+[2026-03-25, 3:30:35 AM] Supplier N Rep 1: Big box $60
+[2026-03-25, 3:31:48 AM] Supplier N Rep 1: FYI
+No green peppers
+No mangoes
+Orange peppers $60
+Romas are $79
+Carrots are $40
+[2026-03-25, 3:33:17 AM] Jitto Team Member 4: How much for pineapple 6 pack?
+[2026-03-25, 3:38:03 AM] Supplier N Rep 1: $23
+[2026-03-25, 3:39:32 AM] Jitto Team Member 4: Ok, add 2 please
+[2026-03-25, 9:09:50 PM] Jitto Team Member 4: Supplier N - March 26
+1 - Pepper Jalapeno - 30 lb - $78.00
+5 - Onion Green - 48 bunches - $29.00
+1 - Ginger Root - 30 lb - $34.00
+1 - Pepper Yellow - 11 lb - $30.00
+4 - Pepper Red - 25 lb - $58.00
+3 - Lemon - 113 pieces - $37.00
+2 - Beet Red - 25 lb - $22.00
+1 - Onion Green Iced - 48 bunches - $29.00
+Total Cases Count: 18
+[2026-03-26, 4:31:56 AM] Jitto Team Member 4: This message was deleted.
+[2026-03-26, 7:34:09 PM] Jitto Team Member 3: Supplier N - Mar 27
+4 - Potato Sweet - 40 lb - $17.00
+2 - Carrot - 50 lb - $28.00
+1 - Lemon - 88 pieces - $37.00
+1 - Lemon - 113 pieces - $37.00
+1 - Mango - 7 pieces - $12.00
+6 - Potato Russet - 50 lb - $19.00
+1 - Beet Red - 25 lb - $22.00
+1 - Watermelon Small - 8 pieces - $18.00
+Case count: 17
+[2026-03-27, 2:33:25 AM] Jitto Team Member 3: Also add 1 Pepper Green Choice (22lbs) @ $69
+[2026-03-27, 2:35:28 AM] Supplier N Rep 1: No watermelon 
+Beets are $25
+Carrots are)40
+Let me know what to do
+[2026-03-27, 2:39:31 AM] Jitto Team Member 3: Noted
+[2026-03-27, 2:40:20 AM] Jitto Team Member 3: Beets are okay, please skip the carrots though.
+[2026-03-27, 2:44:54 AM] Supplier N Rep 1: Ok
+[2026-03-27, 2:54:58 AM] Supplier N Rep 1: No choice peppers
+[2026-03-27, 3:04:34 AM] Jitto Team Member 3: Ok
+[2026-03-27, 3:55:34 AM] Jitto Team Member 3: Can you add 1 squash butternut 40 lbs @28
+[2026-03-30, 8:32:38 PM] Jitto Team Member 4: Hi tomorrow’s a busy one, confirm asap please
+Supplier N - March 31
+3 - Avocado Bagged 6 Pack - 14 bags - $38.00
+1 - Potato Garlic & Herb Little Potato Company - 6 x 1 lb - $18.00
+1 - Potato Sweet - 40 lb - $19.00
+5 - Pepper Red - 25lb - $45.00
+Total Cases Count: 10 ‎<This message was edited>
+[2026-03-31, 3:58:09 AM] Jitto Team Member 3: Please leave your pallet on pink. [image #f579aec3 — content removed]
+[2026-03-31, 3:58:10 AM] Jitto Team Member 3: Please leave your pallet on pink. [image #aeed5465 — content removed]
+[2026-03-31, 3:59:45 AM] Jitto Team Member 4: Good morning, please add
+7 - tomato grape cherry - 12x1 - $28
+[2026-03-31, 4:14:05 PM] Jitto Team Member 2: Supplier N REQUEST FOR QUOTE + AVAILABILITY (THIS IS NOT AN ORDER)
+35 Onion Spanish Colossal · 50 lb · $19.00
+23 Mango · 7 pieces · $13.00
+20 Onion Red Large · 25 lb · $11.00
+10 Cucumber Medium Choice · 14 pieces · $15.00
+7 Onion Cooking Medium · 50 lb · $18.00
+6 Garlic Peeled · 6 × 3 lb · $25.00
+6 Romaine Lettuce · 24 pieces · $32.00
+5 Carrot · 50 lb · $36.00
+5 Cauliflower · 12 heads · $28.00
+4 Turnip · 25 lb · $23.00
+3 Cabbage Green · 16 heads · $20.00
+3 Pepper Orange · 25 lb · $60.00
+3 Pepper Yellow · 25 lb · $58.00
+2 Beet Red · 25 lb · $21.50
+2 Cabbage Red · 16 heads · $25.00
+2 Celery Stalks · 24 stalks · $38.00
+2 Ginger Root · 30 lb · $32.00
+2 Lemon · 113 pieces · $34.00
+2 Lettuce Iceberg · 24 heads · $30.00
+2 Mango Ataulfo · 14 pieces · $14.00
+2 Onion Green · 48 bunches · $25.00
+2 Pepper Green Jumbo · 22 lb · $74.00
+2 Tomato Roma · 25 lb · $60.00
+1 Avocado · 48 pieces · $42.00
+1 Avocado Bagged 6 Pack · 14 bags · $38.00
+1 Cantaloupe · 12 pieces · $12.00
+1 Eggplant · 24 pieces · $27.00
+1 Onion White · 25 lb · $26.00
+1 Orange Navel · 72 pieces · $24.00
+1 Parsley Curly · 60 × 40 g · $38.00
+1 Pepper Red · 25 lb · $40.00
+1 Potato Russet · 50 lb · $15.00
+1 Potato Yukon Gold · 50 lb · $22.00
+1 Watermelon Small · 8 pieces · $18.00
+[2026-03-31, 4:14:11 PM] Jitto Team Member 2: Prices provided are market lows
+[2026-03-31, 4:18:30 PM] Supplier N Rep 1: Collosal onion no
+Mangoes ok
+Red onions no
+Medium cukes no
+Cooking onion ok
+Peeled garlic ok
+Romaine no
+Carrots ok
+Cauliflower ok
+Turnips no
+Cabbage no
+Orange peppers ok
+Yellow peppers ok
+Beets no
+Red cabbage ok
+Celery ok
+Ginger ok
+Lettuce (24) nA
+Ataoufo mangoes no
+Iced green onions ok
+Jumbo green peppers no
+Romas no
+Avocados 48 ok
+[2026-03-31, 4:19:33 PM] Jitto Team Member 2: Ok means available AND price matched?
+[2026-03-31, 4:19:43 PM] Jitto Team Member 2: or just available
+[2026-03-31, 4:19:45 PM] Supplier N Rep 1: Yes
+[2026-03-31, 4:19:50 PM] Jitto Team Member 2: Noted sounds good
+[2026-03-31, 7:20:10 PM] Jitto Team Member 4: Good evening @⁨Supplier N Rep 1⁩, please confirm list
+Supplier N - April 1
+3 - Pepper Orange - 25 lb - $60.00
+3 - Pepper Yellow - 25 lb - $58.00
+1 - Avocado Bagged 6 Pack - 14 bags - $38.00
+1 - Cantaloupe - 12 pieces - $12.00
+1 - Eggplant - 24 pieces - $27.00
+1 - Watermelon Small - 8 pieces - $18.00
+Total Cases Count: 10
+[2026-04-01, 12:06:47 AM] Supplier N Rep 1: No eggplant 
+No watermelon
+[2026-04-01, 2:52:58 AM] Jitto Team Member 4: Thank you
+[2026-04-01, 2:53:10 AM] Jitto Team Member 4: Everything else good?
+[2026-04-01, 2:53:36 AM] Supplier N Rep 1: Yes
+[2026-04-01, 2:57:17 AM] Jitto Team Member 4: Great!
+[2026-04-01, 3:43:19 AM] Jitto Team Member 4: We’re at [location-code] to day
+[2026-04-01, 3:43:32 AM] Supplier N Rep 1: Ok
+[2026-04-01, 3:44:29 AM] Jitto Team Member 4: This message was deleted.
+[2026-04-01, 8:29:13 PM] Jitto Team Member 3: Supplier N - Apr 2
+1 - Zucchini Yellow - 20 lb - $28.00
+1 - Onion Green - 48 bunches - $29.00
+2 - Watermelon Small - 8 pieces - $18.00
+1 - Avocado Bagged 6 Pack - 14 bags - $38.00
+1 - Cantaloupe - 12 pieces - $12.00
+1 - Carrot Bagged - 24 x 2 lb - $45.00
+1 - Potato White Large - 50 lb - $20.00
+Case count: 8
+[2026-04-02, 3:04:45 AM] Jitto Team Member 3: @⁨Supplier N Rep 1⁩ for today
+[2026-04-02, 3:05:43 AM] Supplier N Rep 1: Ok no watermelon
+[2026-04-02, 3:09:11 AM] Jitto Team Member 3: Ok can you also add 3 Pepper Red (25lb) - $45?
+[2026-04-02, 3:09:44 AM] Supplier N Rep 1: No more of those the only reds now are $78
+[2026-04-02, 3:10:45 AM] Jitto Team Member 3: Ok I might be taking those. I will confirm within 30 minutes.
+[2026-04-02, 3:10:59 AM] Supplier N Rep 1: Ok
+[2026-04-02, 3:57:35 AM] Jitto Team Member 4: We are at [location-code] Today
+[2026-04-02, 4:02:42 AM] Supplier N Rep 1: Ok
+[2026-04-02, 7:42:44 AM] Jitto Team Member 2: [image #51953555 — content removed]
+[2026-04-02, 7:43:08 AM] Jitto Team Member 2: Had a case of red pepper from Tues come back for bad quality. Spoke w checker but lady thats responsible for refunds is busy
+[2026-04-02, 7:43:18 AM] Jitto Team Member 2: Checker said credit should be ready next week
+[2026-04-02, 7:43:21 AM] Jitto Team Member 2: $45
+[2026-04-02, 7:43:32 AM] Supplier N Rep 1: No problem
+[2026-04-06, 7:11:21 PM] Jitto Team Member 2: Supplier N - Apr 7
+4 - Potato White - 10 lb - $2.50
+3 - Avocado - 48 pieces - $44.00
+2 - Onion Cooking Medium - 50 lb - $19.00
+3 - Potato Sweet - 40 lb - $24.00
+Total Cases Count: 12 ‎<This message was edited>
+[2026-04-06, 7:11:35 PM] Jitto Team Member 2: This message was deleted.
+[2026-04-06, 7:21:30 PM] Jitto Team Member 2: This message was deleted.
+[2026-04-06, 7:21:40 PM] Jitto Team Member 2: This message was deleted.
+[2026-04-07, 3:59:23 AM] Supplier N Rep 1: We don’t have the yams
+[2026-04-07, 4:01:30 AM] Jitto Team Member 2: Kk I’m downstairs when you’re ready
+[2026-04-07, 9:21:47 AM] Jitto Team Member 1: Supplier N Rep 1 thanks for being part of our social media, will share the link with you once we have it cleaned up 🙂 appreciate the insights
+[2026-04-07, 11:02:39 PM] Jitto Team Member 2: Supplier N - Apr 8
+3 - Onion Cooking Medium - 50 lb - $19.00
+1 - Watermelon Small - 8 pieces - $18.00
+Total Cases Count: 4
+[2026-04-08, 3:23:19 AM] Supplier N Rep 1: No watermelon
+[2026-04-08, 3:23:25 AM] Jitto Team Member 2: Thanks
+[2026-04-08, 9:54:18 PM] Jitto Team Member 2: Supplier N - Apr 9
+3 - Onion Cooking Medium - 50 lb - $19.00
+3 - Celery Stalks - 24 stalks - $40.00
+1 - Avocado Bagged 6 Pack - 14 bags - $38.00
+10 - Potato White - 10 lb - $2.50
+4 - Onion Green - 48 bunches - $27.00
+1 - Parsley Curly - 60 x 40 g - $38.00
+1 - Parsley Flat - 60 x 40 g - $38.00
+1 - Potato Sweet - 40 lb - $17.00
+Total Cases Count: 24
+[2026-04-09, 3:42:45 AM] Jitto Team Member 2: Add 1 asparagus $57
+[2026-04-09, 3:46:13 AM] Supplier N Rep 1: No green onions 
+No curly parsley
+[2026-04-09, 9:12:28 PM] Jitto Team Member 1: Supplier N | DATE: APR 10
+4 Watermelon Small  8 pieces  $18.00
+1 Lemon  88 pieces  $37.00
+1 Onion Green  48 bunches  $27.00
+4 Broccoli Crown  20 lb  $37.00
+1 Celery Stalks  24 stalks  $40.00
+1 Potato Sweet  40 lb  $17.00
+12 Cases Total
+[2026-04-13, 9:46:14 PM] Jitto Team Member 2: Supplier N - Apr 14
+4 - Avocado - 48 pieces - $44.00
+3 - Onion Green - 48 bunches - $28.00
+4 - Romaine Heart 3 Pack - 12 packs - $20.00
+3 - Cauliflower - 12 heads - $15.00
+4 - Garlic Peeled - 6 x 3 lb - $22.00
+3 - Potato Sweet - 40 lb - $24.00
+1 - Ginger Root - 30 lb - $25.00
+1 - Onion Cooking Medium - 50 lb - $19.00
+1 - Pepper Yellow - 25 lb - $48.00
+1 - Pepper Yellow - 11 lb - $26.00
+Total Cases Count: 25
+[2026-04-14, 3:19:02 AM] Jitto Team Member 2: Do you have shanghai bokchoy?
+[2026-04-14, 3:19:28 AM] Supplier N Rep 1: Yes 
+No avocados
+[2026-04-14, 3:36:09 AM] Supplier N Rep 1: Green onions are $32
+No jumbo yams
+I have small and at $21
+[2026-04-14, 3:40:42 AM] Supplier N Rep 1: Let me know what you want to do
+[2026-04-14, 3:41:13 AM] Jitto Team Member 2: Be there in a bit
+[2026-04-14, 7:41:20 PM] Jitto Team Member 1: Supplier N | DATE: APR 15
+1 Romaine Heart 3 Pack  12 packs  $20.00
+2 Avocado Bagged 6 Pack  14 bags  $38.00
+7 Cauliflower  12 heads  $15.00
+5 Onion Cooking Medium  50 lb  $19.00
+4 Garlic Peeled  6 x 3 lb  $22.00
+3 Ginger Root  30 lb  $25.00
+1 Pepper Yellow  25 lb  $48.00
+23 Cases Total
+[2026-04-15, 12:03:54 AM] Supplier N Rep 1: No avocados
+[2026-04-15, 12:04:34 AM] Jitto Team Member 1: Okay rest confirmed 👍
+[2026-04-15, 12:04:45 AM] Supplier N Rep 1: Yes
+[2026-04-15, 5:42:51 PM] Jitto Team Member 1: You deleted this message.
+[2026-04-15, 8:15:10 PM] Jitto Team Member 1: @⁨Supplier N Rep 1⁩ do you have tomato 5x6?
+[2026-04-15, 8:21:33 PM] Jitto Team Member 1: Supplier N | DATE: APR 16
+4 Garlic Peeled  6 x 3 lb  $22.00
+4 Onion Green  48 bunches  $32.00
+2 Leek  12 bunches  $35.00
+3 Pepper Yellow  25 lb  $48.00
+2 Romaine Heart 3 Pack  12 packs  $20.00
+1 Eggplant  24 pieces  $15.00
+1 Pepper Orange  25 lb  $35.00
+1 Potato Garlic & Herb Little Potato Company  6 x 1 lb  $18.00
+1 Potato White Large  50 lb  $20.00
+19 Cases Total
+[2026-04-15, 11:37:44 PM] Supplier N Rep 1: Leeks are $43
+Sold out of romaine hearts will arrive Friday at $46
+Sold out of eggplant until Friday
+Sold out of peeled garlic until Friday
+[2026-04-16, 3:06:19 AM] Jitto Team Member 1: @⁨Supplier N Rep 1⁩ here you go
+Supplier N | DATE: APR 16
+4 Onion Green  48 bunches  $32.00
+3 Pepper Yellow  25 lb  $48.00
+1 Pepper Orange  25 lb  $35.00
+1 Potato Garlic & Herb Little Potato Company  6 x 1 lb  $18.00
+1 Potato White Large  50 lb  $20.00
+4 Peeled Garlic @ $22
+14 Cases Total ‎<This message was edited>
+[2026-04-16, 3:06:44 AM] Supplier N Rep 1: The Peel garlic as arrived
+[2026-04-16, 3:07:40 AM] Jitto Team Member 1: okay add please updated above
+[2026-04-16, 3:07:44 AM] Supplier N Rep 1: Ok
+[2026-04-16, 3:41:14 AM] Jitto Team Member 4: Have any Peas Sugar snap @⁨Supplier N Rep 1⁩ ?
+[2026-04-16, 3:41:36 AM] Supplier N Rep 1: Yes $29
+[2026-04-16, 3:42:22 AM] Jitto Team Member 4: Add 3 please
+[2026-04-16, 3:42:30 AM] Jitto Team Member 4: Thank you 😁
+[2026-04-16, 3:48:42 AM] Supplier N Rep 1: Ok
+[2026-04-16, 7:42:15 PM] Jitto Team Member 1: Supplier N | DATE: APR 17
+1 Pepper Jalapeno  30 lb  $88.00
+12 Potato White  10 lb  $2.50
+3 Onion Green  48 bunches  $32.00
+1 Garlic Peeled  6 x 3 lb  $22.00
+1 Onion Cooking Medium  50 lb  $19.00
+1 Pepper Yellow  25 lb  $48.00
+1 Squash Butternut  40 lb  $26.00
+20 Cases Total
+🚗 Parking [location-code]
+[2026-04-16, 7:56:47 PM] Jitto Team Member 1: [location-code] Parking [image #40ee2500 — content removed]
+[2026-04-20, 8:42:58 PM] Jitto Team Member 2: Supplier N - Apr 21
+4 - Onion Green - 48 bunches - $34.00
+1 - Cucumber Medium - 12 pieces - $10.00
+2 - Onion Cooking Medium - 50 lb - $19.00
+2 - Potato Sweet - 40 lb - $24.00
+1 - Potato Russet Local - 70 pieces - $21.00
+1 - Tomato 5x6 - 25 lb - $105.00
+1 - Tomato 6x6 - 25 lb - $105.00
+Total Cases Count: 12
+[2026-04-20, 8:43:31 PM] Jitto Team Member 2: This message was deleted.
+[2026-04-20, 10:05:38 PM] Supplier N Rep 1: O tomatoes
+[2026-04-21, 2:39:30 AM] Supplier N Rep 1: No tomatoes
+[2026-04-21, 3:47:50 AM] Jitto Team Member 2: Add 1 avocado 48
+[2026-04-21, 3:48:13 AM] Jitto Team Member 2: On the way to you in 5
+[2026-04-21, 3:48:29 AM] Supplier N Rep 1: No 58
+[2026-04-21, 3:48:32 AM] Supplier N Rep 1: 48
+[2026-04-21, 3:48:39 AM] Jitto Team Member 2: What do u have
+[2026-04-22, 10:42:20 PM] Jitto Team Member 1: Supplier N | DATE: APR 23
+6 Onion Green  48 bunches  $34.00
+2 Cucumber Medium  12 pieces  $10.00
+1 Avocado Bagged 6 Pack  14 bags  $42.00
+1 Pepper Yellow  25 lb  $48.00
+1 Ginger Root  30 lb  $24.00
+1 Parsley Flat  60 x 40 g  $38.00
+12 Cases Total
+[2026-04-22, 11:21:47 PM] Supplier N Rep 1: Parsley is $54 it’s little bear
+No bagged avocados
+[2026-04-23, 6:30:47 PM] Jitto Team Member 2: Supplier N - Apr 24
+3 - Cucumber Medium - 12 pieces - $10.00
+12 - Potato White - 10 lb - $2.00
+2 - Onion Green - 48 bunches - $34.00
+2 - Potato Sweet - 40 lb - $24.00
+1 - Onion Cooking Medium - 50 lb - $19.00
+1 - Pepper Orange - 25 lb - $35.00
+1 - Potato Russet Local - 70 pieces - $21.00
+Total Cases Count: 22
+[2026-04-24, 3:44:18 AM] Jitto Team Member 2: Please add 4 red peppers 25lb
+[2026-04-24, 4:03:03 AM] Supplier N Rep 1: Ok
