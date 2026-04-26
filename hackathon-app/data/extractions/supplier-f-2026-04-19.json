@@ -1,0 +1,226 @@
+{
+  "doc_id": "supplier-f-2026-04-19",
+  "supplier": "supplier-f",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-f-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 31225,
+  "row_count": 43,
+  "rows": [
+    {
+      "commodity": "TOMATOES",
+      "cost": 110,
+      "raw_row_text": "5x6.. West Coast @ 110.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 100,
+      "raw_row_text": "5x6.. Lipman VR @ 100.00 (Just a few)"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 110,
+      "raw_row_text": "6x6.. Crimson @ 110.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 90,
+      "raw_row_text": "6x7.. Crimson @ 90.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 90,
+      "raw_row_text": "6x7.. West Coast @ 90.00"
+    },
+    {
+      "commodity": "GRAPE TOMATOES",
+      "cost": 36,
+      "raw_row_text": "Grapes.. Suncoast @ 36.00"
+    },
+    {
+      "commodity": "GRAPE TOMATOES",
+      "cost": 34,
+      "raw_row_text": "Grapes.. Lipman @ 34.00"
+    },
+    {
+      "commodity": "ROMA TOMATOES",
+      "cost": 80,
+      "raw_row_text": "Roma.. Crimson @ 80.00"
+    },
+    {
+      "commodity": "ROMA TOMATOES",
+      "cost": 75,
+      "raw_row_text": "Roma.. Produce house @ 75.00"
+    },
+    {
+      "commodity": "ROMA TOMATOES",
+      "cost": 72,
+      "raw_row_text": "Roma.. Suncoast @ 72.00"
+    },
+    {
+      "commodity": "GREEN PEPPERS",
+      "cost": 60,
+      "raw_row_text": "Green pepper.. Exlg Local GH @ 60.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 40,
+      "raw_row_text": "Lemons.. 95/75 @ 40.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "Lemons.. 115 @ 38.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 35,
+      "raw_row_text": "Grapefruit @ 35.00"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 30,
+      "raw_row_text": "Seedless Tangerines.. 10kg @ 30.00-35.00"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 45,
+      "raw_row_text": "Seedless Tangerines.. 15kg @ 45.00-48.00"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 7,
+      "raw_row_text": "Seedless Tangerines.. 1.8 Stem & Leaf @ 7.00"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 24,
+      "raw_row_text": "Seedless Tangerines.. 7kg Stem & Leaf @ 24.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 34,
+      "raw_row_text": "Navels.. 40 Sunkist @ 34.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "Navels.. 48/56 Sequoia @ 30.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 36,
+      "raw_row_text": "Navels.. 72 Sequoia @ 36.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "Off Shore.. Valencia.. 60/72 @ 30.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "Off Shore.. Valencia.. 80/88/113 @ 30.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 65,
+      "raw_row_text": "Kiwi.. 10x2 @ 65.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 36,
+      "raw_row_text": "Kiwi.. 10x600gm @ 36.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 45,
+      "raw_row_text": "Kiwi.. 9kg Loose @ 45.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 60,
+      "raw_row_text": "Kiwi.. Dole Loose @ 60.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "Pears.. Bosc @ 40.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "Pears.. Bartlet @ 40.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "Pears.. Danjou @ 40.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 42,
+      "raw_row_text": "Apples.. Ambrosia Bay @ 42.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 30,
+      "raw_row_text": "Apples.. Kiku @ 30.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 42,
+      "raw_row_text": "Apples.. Gala Bay @ 42.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "Apples.. Honey Crisp Bay @ 65.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 40,
+      "raw_row_text": "Misc Veg.. Broccoli Crowns @ 40.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 38,
+      "raw_row_text": "Misc Veg.. Jumbo Carrots @ 38.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 57,
+      "raw_row_text": "Misc Veg.. Celery @ 57.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "Misc Veg.. Cauliflower @ PTF"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": "Misc Veg.. Mex Lettuce @ PTF (Mid week)"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 30,
+      "raw_row_text": "Onions.. Super Colossal Spanish @ 30.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 30,
+      "raw_row_text": "Onions.. Colossal Spanish @ 30.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 30,
+      "raw_row_text": "Onions.. Jumbo Spanish @ 30.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18,
+      "raw_row_text": "Onions.. Jumbo Red @ 18.00"
+    }
+  ]
+}

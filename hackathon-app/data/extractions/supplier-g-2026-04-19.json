@@ -1,0 +1,851 @@
+{
+  "doc_id": "supplier-g-2026-04-19",
+  "supplier": "supplier-g",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-g-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 113202,
+  "row_count": 168,
+  "rows": [
+    {
+      "commodity": "APPLES",
+      "cost": 70,
+      "raw_row_text": "1035 Envy 72 40 lb US $ 70.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 50,
+      "raw_row_text": "1123 Fuji 64/72 40 lb US $ 50.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "1225 Gala 80 40 lb NZ $ 60.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 75,
+      "raw_row_text": "1215 Gala 80 40 lb US $ 75.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 75,
+      "raw_row_text": "1304 Golden Delicious 72 40 lb US $ 75.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 50,
+      "raw_row_text": "1422 Granny Smith 72 40 lb US $ 50.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 50,
+      "raw_row_text": "1422 Granny Smith 113 40 lb US $ 50.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 90,
+      "raw_row_text": "1631 Honeycrisp 64 40 lb US $ 90.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 45,
+      "raw_row_text": "1504 Pink Lady 60/70 40 lb US $ 45.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 50,
+      "raw_row_text": "1604 Red Delicious 64/72 40 lb US $ 50.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "1604 Red Delicious 100 40 lb US $ -"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 120,
+      "raw_row_text": "1041 Sugar Bee 64 40 lb US $ 120.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 55,
+      "raw_row_text": "1082 Rockit 6x3 12lb US $ 55.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 120,
+      "raw_row_text": "#### Posy Apple 40 lb NZ $ 120.00"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": null,
+      "raw_row_text": "1802 Blackberries 12x6 oz 4.5 lb US $ -"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 60,
+      "raw_row_text": "1904 Blueberries Pint 4.5 lb MX $ 60.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 38,
+      "raw_row_text": "1910 Blueberries 12x6 oz 4.5 lb PE $ 38.00"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": null,
+      "raw_row_text": "2005 Raspberries 6x12 oz 4.5 lb CA $ -"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": "2109 Strawberries 10x12 oz 1 lb MX $ -"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": "2105 Strawberries 10x28 oz 1 lb CA $ -"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 10,
+      "raw_row_text": "2110 Strawberries 4x2 lb 1 lb US $ 10.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": "2109 Strawberries 8x1 lb 1 lb US $ -"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 46,
+      "raw_row_text": "2810 Grapefruit 36 15 kg US $ 46.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 40,
+      "raw_row_text": "4125 Lemons 75 40 lb US $ 40.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 40,
+      "raw_row_text": "4125 Lemons 95/115 40 lb US $ 40.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 42,
+      "raw_row_text": "5708 Oranges - Blue Jays 48/56 40 lb US $ 42.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 40,
+      "raw_row_text": "5708 Navel Oranges - Sunkist 48/56 40 lb US $ 40.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 45,
+      "raw_row_text": "5708 Navel Oranges - Sunkist 72 40 lb US $ 45.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 54,
+      "raw_row_text": "2564 Clementines - Sun Candy 15x2 lb 30 lb MA $ 54.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 54,
+      "raw_row_text": "4131 Lemons - Sun Candy 15x2 lb 30 lb US $ 54.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 54,
+      "raw_row_text": "5819 Orange - Sun Candy 10x3 lb 30 lb US $ 54.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 54,
+      "raw_row_text": "5819 Cara Cara - Sun Candy 10x3 lb 30 lb US $ 54.00"
+    },
+    {
+      "commodity": "ORRI",
+      "cost": 68,
+      "raw_row_text": "2662 Orri 15x2 lb 30lb MA $ 68.00"
+    },
+    {
+      "commodity": "MANDARINES",
+      "cost": 50,
+      "raw_row_text": "2665 Mandarines Bulk 16 kg MA $ 50.00"
+    },
+    {
+      "commodity": "ORRI",
+      "cost": 68,
+      "raw_row_text": "2661 Orri Bulk 16 kg MA $ 68.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "7594 Aloha Pepper 12x2 ct XXL . CA $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 52,
+      "raw_row_text": "8934 Angel Sweet Grape Tomato 15x1 Pint . MX $ 52.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": null,
+      "raw_row_text": "9791 Baby Eggplant . 11 lb CA $ -"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 8,
+      "raw_row_text": "9221 English Cukes Small . CA $ 8.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8901 Campari 10x1 lb 1 lb CA $ -"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "9221 Cucumbers 12 ct Single Medium 12 ct CA $ -"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "9221 Cucumber 12 ct Single Large 12 ct CA $ 14.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "8901 Flavour Bomb 8x12 oz 6 lb CA $ 45.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 42,
+      "raw_row_text": "9075 Heirloom Tomato . 11 lb CA $ 42.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8901 Honeybomb 8x12 oz 10 lb CA $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 52,
+      "raw_row_text": "9075 Hot House Tomatoes . 15 lb CA $ 52.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8901 Kumato 10x1 lb 10x1 lb . CA $ -"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 22,
+      "raw_row_text": "9221 Mini Cucumber 12x6 lb . CA $ 22.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "9221 Mini Cukes 15x1 lb . CA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8901 Mini Kumato 15x1 Pint . CA $ -"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 39,
+      "raw_row_text": "4301 Green Leaf - Andy Boy 24 24 lb US $ 39.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 93,
+      "raw_row_text": "4251 Lettuce 24 25 lb US $ 93.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 100,
+      "raw_row_text": "4251 Lettuce - Andy Boy 30 25 lb US $ 100.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 36,
+      "raw_row_text": "4350 Red Leaf - Andy Boy 24 24 lb US $ 36.00"
+    },
+    {
+      "commodity": "ROMAINE",
+      "cost": 45,
+      "raw_row_text": "4401 Romaine - Andy Boy 24 24 lb US $ 45.00"
+    },
+    {
+      "commodity": "ROMAINE HEARTS",
+      "cost": 59,
+      "raw_row_text": "4420 Romaine Hearts 7x6 33 lb US $ 59.00"
+    },
+    {
+      "commodity": "ROMAINE HEARTS",
+      "cost": 50,
+      "raw_row_text": "4420 Romaine Hearts - Andy Boy 12x3 18 lb US $ 50.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 44,
+      "raw_row_text": "4255 Baby Gem Lettuce 14x3 19 lb US $ 44.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 90,
+      "raw_row_text": "9439 Boxed Watermelon - Little Bear 4 60 lb MX $ 90.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 80,
+      "raw_row_text": "9439 Boxed Watermelon - Amici 5 60 lb MX $ 80.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 34,
+      "raw_row_text": "4622 Cantaloupe 12 40 lb US $ 34.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 34,
+      "raw_row_text": "4622 Cantaloupe JBO 9 36 lb US $ 34.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 40,
+      "raw_row_text": "4670.2 Honeydew JBO 5 35 lb US $ 40.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 40,
+      "raw_row_text": "4670 Honeydew 6 30 lb US $ 40.00"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 42,
+      "raw_row_text": "9450 Mini Melons 8 35 lb MX $ 42.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 550,
+      "raw_row_text": "9460 Watermelon Seedless Bin 36 700 lb MX $ 550.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 550,
+      "raw_row_text": "9462 Watermelon Seedless Bin 60 700 lb MX $ 550.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 550,
+      "raw_row_text": "9461 Watermelon Seedless Bin 45 700 lb MX $ 550.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 55,
+      "raw_row_text": "6506 Anjou Pears 60/70 40 lb US $ 55.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 55,
+      "raw_row_text": "6808 Bosc Pears 70 40 lb US $ 55.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "7120 Packham Pears 70 28 lb ZA $ 40.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "7019 Fiorelli Pears 80 28 lb ZA $ 45.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 29,
+      "raw_row_text": "7595 Baby Bell Peppers 9x4 11 lb CA $ 29.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 80,
+      "raw_row_text": "7515 Cubanelle Peppers XL 25 lb US $ 80.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 63,
+      "raw_row_text": "7510 Green Peppers JBO 25 lb US $ 63.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 80,
+      "raw_row_text": "7591 Hungarian Wax Peppers Bulk 25 lb US $ 80.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 100,
+      "raw_row_text": "7525 Jalapeno Peppers Bulk 35 lb US $ 100.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 65,
+      "raw_row_text": "7576 Long Hot Peppers Bulk 25 lb US $ 65.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 36,
+      "raw_row_text": "7595 Pepper Pack Rainbow 8x3 lb 24 lb CA $ 36.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35,
+      "raw_row_text": "7578 Red Peppers Bulk 11 lb US $ 35.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 65,
+      "raw_row_text": "7553 Red Peppers Bulk 25 lb US $ 65.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 68,
+      "raw_row_text": "7501 Green Peppers Bulk 25 lb CA $ 68.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 40,
+      "raw_row_text": "9601 Red Finger Hot Bulk 4 kg ES $ 40.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 50,
+      "raw_row_text": "7559 Sheppard Peppers Bulk 4 kg ES $ 50.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "7556 Sheppard Peppers Bulk 15 lb MX $ -"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "7577 Yellow Peppers Bulk 11 lb MX $ 30.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "7594 Orange Peppers Bulk 11 lb MX $ 30.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 40,
+      "raw_row_text": "7605 Plums 50/55 20 lb IT $ 40.00"
+    },
+    {
+      "commodity": "LOQUATS",
+      "cost": 120,
+      "raw_row_text": "5601 Loquats GG 6 kg ES $ 120.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "9303 Zucchini Yellow Medium 25 lb MX $ -"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 22,
+      "raw_row_text": "9301 Zucchini Green Fancy 25 lb MX $ 22.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 24,
+      "raw_row_text": "9302 Zucchini Green Medium 40 lb MX $ 24.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 39,
+      "raw_row_text": "9314 Zucchini Grey Fancy 25 lb MX $ 39.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 34,
+      "raw_row_text": "9358 Butternut Squash Bulk 25 lb MX $ 34.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 38,
+      "raw_row_text": "9358 Buttercup Squash Medium 25 lb MX $ 38.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 44,
+      "raw_row_text": "7595 One Sweet Pepper 12x1 lb . MX $ 44.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8901 One Sweet Tomato 15x1 lb 10 lb US $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "OR8767 Organic TOV Poly 11 lb CA $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "OR8901 Organic Grape Tomato 12x1 lb . CA $ -"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 65,
+      "raw_row_text": "9621 Shishito Pepper Poly 16x8 oz 8 lb MX $ 65.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 40,
+      "raw_row_text": "8901 Sugar Bomb Tomato 8x12 oz 6 lb CA $ 40.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "8901 Sweet Grape Tomatoes 12x1 lb 12 lb CA $ 45.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "8935 Tomato on the Vine Poly 11 lb CA $ 38.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "8934 Wild Wonders 12x12 oz 8 lb MX $ 45.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "8934 Wild Wonders 6x12 . CA $ 45.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "8934 Zima Orange Tomato 15x1 10 lb MX $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "8934 Sprinkel Tomato 15x1 10lb $ 45.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 55,
+      "raw_row_text": "9002 Roma Tomato XL 25 lb MX $ 55.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "9050 Tomato 5x6 25 lb US $ -"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "9051 Tomato 6x6 25 lb US $ -"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": 18,
+      "raw_row_text": "8602 Ataulfo Mangos 14/16/18 4 kg MX $ 18.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 48,
+      "raw_row_text": "8678 Avocados 14x5 25 lb MX $ 48.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 45,
+      "raw_row_text": "8679 Avocados 14x6 25 lb MX $ 45.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 48,
+      "raw_row_text": "8676 Avocados 36 25 lb MX $ 48.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 48,
+      "raw_row_text": "8676 Avocados 48 25 lb MX $ 48.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": null,
+      "raw_row_text": "2705 Figs (Tray) 10/12 2.2 lb GR $ -"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 15,
+      "raw_row_text": "2740 Figs (Tray) 3 rows x8 . BR $ 15.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 28,
+      "raw_row_text": "8651 Pineapples - Pink Pelican 5 12 kg CR $ 28.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 28,
+      "raw_row_text": "8651 Pineapples - Pink Pelican 6 12 kg CR $ 28.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 28,
+      "raw_row_text": "8651 Pineapples - Pink Pelican 7 12 kg CR $ 28.00"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 24,
+      "raw_row_text": "8749 Pomegrantes 5/6/8 . TR $ 24.00"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 27,
+      "raw_row_text": "8723 Pomegrantes 6 . PE $ 27.00"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": 14,
+      "raw_row_text": "8601 Tommy Mangos 6-10 4 kg MX $ 14.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 26,
+      "raw_row_text": "8679 Persimmons . 2.3 kg BR $ 26.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 28,
+      "raw_row_text": "EP6606 Asian Pears 28-32 10 kg CN $ 28.00"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": 24,
+      "raw_row_text": "EP2002 Baby Mango Bulk 2 kg CO $ 24.00"
+    },
+    {
+      "commodity": "DRAGONFRUIT",
+      "cost": 28,
+      "raw_row_text": "EP1023 Dragonfruit Whiteflesh 6/7 10 lb EC $ 28.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 12,
+      "raw_row_text": "EP1123 Fuji (Giftbox) 12 1.9 kg CN $ 12.00"
+    },
+    {
+      "commodity": "COCONUT",
+      "cost": 22,
+      "raw_row_text": "EP2040 Young Coconut 9 10 kg VN $ 22.00"
+    },
+    {
+      "commodity": "POMELO",
+      "cost": 55,
+      "raw_row_text": "EP4194 Pomelo Red 10 14 kg VN $ 55.00"
+    },
+    {
+      "commodity": "TAMARIND",
+      "cost": 90,
+      "raw_row_text": "###### Sweet Tamarind . 20x400 TH $ 90.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 20,
+      "raw_row_text": "9525 Beets - Bagged . 20 lb MX $ 20.00"
+    },
+    {
+      "commodity": "ANISE",
+      "cost": 53,
+      "raw_row_text": "9111 Anise - Andy Boy 18 25 lb US $ 53.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 76,
+      "raw_row_text": "9106 Asparagus Large 28 lb MX $ 76.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 66,
+      "raw_row_text": "9144 Broccoli - Andy Boy 18 25 lb US $ 66.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 15,
+      "raw_row_text": "EP9360 Carrots JBO 22 lb CN $ 15.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 70,
+      "raw_row_text": "9257 Chinese Eggplant Bulk 30 lb MX $ 70.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 70,
+      "raw_row_text": "EP4231 Flat Cabbage Bulk 40 lb MX $ 70.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 32,
+      "raw_row_text": "EP9289 Garlic 50x3 1 lb CN $ 32.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 32,
+      "raw_row_text": "EP9289 Garlic Bulk 10 kg CN $ 32.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 45,
+      "raw_row_text": "EP2010 Ginger Bulk 30 lb PE $ 45.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 50,
+      "raw_row_text": "EP9255 Indian Eggplant Bulk 30 lb MX $ 50.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 50,
+      "raw_row_text": "EP4232 Napa Cabbage Bulk 50 lb US $ 50.00"
+    },
+    {
+      "commodity": "OKRA",
+      "cost": null,
+      "raw_row_text": "EP9380 Okra Bindhi Bulk 14 lb HN $ -"
+    },
+    {
+      "commodity": "TURMERIC",
+      "cost": 50,
+      "raw_row_text": "EP2015 Organic Turmeric Bulk 9 kg PE $ 50.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 28,
+      "raw_row_text": "9328 Cilantro 24 24lb MX $ 28.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 42,
+      "raw_row_text": "9219 Crown Broccoli Bulk 20 lb US $ 42.00"
+    },
+    {
+      "commodity": "BROCCOLINI",
+      "cost": 43,
+      "raw_row_text": "9128 Broccolini - Andy Boy 18 40 lb US $ 43.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 35,
+      "raw_row_text": "9161 Cauliflower 9 25 lb CA $ 35.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 45,
+      "raw_row_text": "9171 Cauliflower 12 36 lb US $ 45.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 67,
+      "raw_row_text": "9182 Celery 24 50 lb US $ 67.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 110,
+      "raw_row_text": "9202 Corn (BI Color) 48 25 lb US $ 110.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 29,
+      "raw_row_text": "9316 Dill Weed . 24 lb MX $ 29.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 49,
+      "raw_row_text": "9242 Eggplant 18 25 lb MX $ 49.00"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": 40,
+      "raw_row_text": "9262 Green Onions (Iced) 48 15 lb MX $ 40.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": null,
+      "raw_row_text": "9375 Leeks 12 24 lb MX $ -"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 72,
+      "raw_row_text": "9281 Rapini - Andy Boy 20 30 lb US $ 72.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 110,
+      "raw_row_text": "9202 Yellow Corn 48 25 lb US $ 110.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 68,
+      "raw_row_text": "3116 Red Sdls Grapes Bagged XL 18 lb PE $ 68.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 68,
+      "raw_row_text": "3611 Green Sdls Grapes Bagged XL 18 lb ZA $ 68.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 46,
+      "raw_row_text": "9122 Green Beans Bulk 20 lb US $ 46.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": null,
+      "raw_row_text": "9276 French Beans 14x1 14 lb MX $ -"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 52,
+      "raw_row_text": "9124 Yellow Beans Bulk 15 lb US $ 52.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 62,
+      "raw_row_text": "4001 Gold Kiwi Loose 6 kg IT $ 62.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 55,
+      "raw_row_text": "4008 Green Kiwi Loose 9 kg IT $ 55.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 62,
+      "raw_row_text": "4069 Green Kiwi 10x600 g 13 lb IT $ 62.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 64,
+      "raw_row_text": "4016 Kiwi Green 8x2 16 lb IT $ 64.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 64,
+      "raw_row_text": "4084 Kiwi Gold 8x2 16 lb IT $ 64.00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "buy-ops-hackathon",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:linkage": "tsx scripts/test_linkage.ts",
+    "test:extract": "tsx scripts/test_extract.ts",
+    "test:managed": "tsx scripts/test_managed_agents.ts",
+    "build-index": "tsx scripts/build_index.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.2.119",
+    "@anthropic-ai/sdk": "^0.91.1",
+    "@types/node": "^25.6.0",
+    "dotenv": "^17.4.2",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.12",
+    "tailwindcss": "^4.2.4"
+  }
+}

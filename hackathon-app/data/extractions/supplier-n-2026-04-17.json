@@ -1,0 +1,686 @@
+{
+  "doc_id": "supplier-n-2026-04-17",
+  "supplier": "supplier-n",
+  "date": "2026-04-17",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-n-2026-04-17.pdf",
+  "format": "pdf",
+  "duration_ms": 107671,
+  "row_count": 135,
+  "rows": [
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 56,
+      "raw_row_text": "AS030 STANDARD. 11 LB. 57.00 * 56.00 *"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 43,
+      "raw_row_text": "AS035 SLENDER SLIM 11 LB.CARTON. 44.00 * 43.00 *"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 62,
+      "raw_row_text": "AS050 LARGE. 11 LB.CARTON 63.00 * 62.00 *"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 64,
+      "raw_row_text": "AS105 BUNCHED 11 LB. CARTON 65.00 * 64.00 * PURPLE ASPARAGUS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 58,
+      "raw_row_text": "AV490 5 LB RED HOT PEPPERS 59.00 * 58.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 39,
+      "raw_row_text": "PE255 FINGERLINGS 16 X 1.5 LBS. 40.00 * 39.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "PE260 PURELY PURPLE 8 X 1.5 LBS. 22.00 * 21.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 39,
+      "raw_row_text": "PE265 BABY BOMMER 16 X 1.5 LBS. 40.00 * 39.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 39,
+      "raw_row_text": "PE270 BLUSHING BELLE 16X1.5 LBS. 40.00 * 39.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 39,
+      "raw_row_text": "PE275 TERRIFIC TRIO 16X1.5 LBS. 40.00 * 39.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE310 1LB. SAVOURY HERB BLEND 19.00 * 18.00 * LITTLE POTATO - ZINGERS"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE320 1LB. LEMON & GARDEN HERB 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE330 1LB. HOT HONEY 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE340 1 LB. GARLIC & PARSLEY 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE360 1 LB. GARLIC & HERB 19.00 * 18.00 * LPC - JAZZ ROASTERS"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE370 1 LB. ONION & CHIVE 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE380 1 LB. ROSEMARY THYME 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PE390 1 LB. GARLIC & PARMESAN 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "ENGLISH CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "EC002 LARGE CARTON 15.00 * 14.00 *"
+    },
+    {
+      "commodity": "ENGLISH CUCUMBERS",
+      "cost": 10,
+      "raw_row_text": "EC004 SMALL CARTON 10.00 * 10.00 *"
+    },
+    {
+      "commodity": "ENGLISH CUCUMBERS",
+      "cost": 9,
+      "raw_row_text": "EC006 #2 GRADE CARTON 10.00 * 9.00 *"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "HH030 EXTRA LARGE 5 KG.CARTON 33.00 * 32.00 * HOTHOUSE RED PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "HH040 EXTRA LARGE 5 KG.CARTON 21.00 * 20.00 * HOTHOUSE YELLOW PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "HH035 EXTRA LARGE 5 KG.CARTON 21.00 * 20.00 * HOTHOUSE ORANGE PEPPERS"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 45,
+      "raw_row_text": "CC008 CROWNS CARTON 45.00 * 45.00 *"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 68,
+      "raw_row_text": "CC045 24 SIZE CARTON 69.00 * 68.00 *"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 24,
+      "raw_row_text": "CA003 50 LBS. CARTON 25.00 * 24.00 * GREEN CABBAGE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 23,
+      "raw_row_text": "CA005 12 SIZE CARTON 24.00 * 23.00 *"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 28,
+      "raw_row_text": "CA010 16 SIZE CARTON 29.00 * 28.00 * RED CABBAGE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 28,
+      "raw_row_text": "CA025 12 SIZE CARTON 29.00 * 28.00 * SAVOY CABBAGE"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 55,
+      "raw_row_text": "PU322 A-SIZE 50 LB BAG 56.00 * 55.00 * YUKON GOLD POTATOES (FLA.)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 47,
+      "raw_row_text": "PU225 B SIZE 50 LB BAG 48.00 * 47.00 * WHITE POTATOES (FLA)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 47,
+      "raw_row_text": "PU025 B SIZE 50 LB PAPER 48.00 * 47.00 * RED POTATOES(FLORIDA)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 43,
+      "raw_row_text": "PU030 A SIZE 50 LB PAPER 44.00 * 43.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 20,
+      "raw_row_text": "PO205 LARGE 50 LB PAPER 21.00 * 20.00 * WHITE POTATOES (ONT)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 2,
+      "raw_row_text": "PO210 REGULAR 10 LB PAPER 2.25 * 2.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 35,
+      "raw_row_text": "PO250 A SIZE 50 LB CARTON 36.00 * 35.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 34,
+      "raw_row_text": "PO255 B SIZE 50 LB PAPER 35.00 * 34.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 23,
+      "raw_row_text": "PO305 LARGE 50 LB PAPER 24.00 * 23.00 * YUKON GOLD POTATOES (ONT)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 2,
+      "raw_row_text": "PO310 REGULAR 10 LB PAPER 2.25 * 2.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 35,
+      "raw_row_text": "PO350 A SIZE 50 LB CARTON 36.00 * 35.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PO160 60 COUNT 50 LB CARTON 19.00 * 18.00 * RUSSET POTATOES (ONT)"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 20,
+      "raw_row_text": "PO110 50 COUNT 50 LB CARTON 21.00 * 20.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "PO100 100 COUNT 50 LB CARTON 19.00 * 18.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 19,
+      "raw_row_text": "PO190 90 COUNT 50 LB CARTON 20.00 * 19.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 20,
+      "raw_row_text": "PO180 80 COUNT 50 LB CARTON 21.00 * 20.00 *"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "PO170 70 COUNT 50 LB CARTON 22.00 * 21.00 *"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 60,
+      "raw_row_text": "CT001 REGULAR 24 X 2 LB MASTER 61.00 * 60.00 *"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 47,
+      "raw_row_text": "CT020 JUMBO 50 LB BAG 48.00 * 47.00 *"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 27,
+      "raw_row_text": "CT055 5LB. CARTON BULK 28.00 * 27.00 * RAINBOW CARROTS"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 27,
+      "raw_row_text": "PC005 5LB. CARTON 28.00 * 27.00 * FRESH MINI CARROTS"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 26,
+      "raw_row_text": "BE008 MEDIUM 25 LB BAG 27.00 * 26.00 * RED BEETS"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 28,
+      "raw_row_text": "BE010 MEDIUM 12 X 2 LB MASTER 29.00 * 28.00 *"
+    },
+    {
+      "commodity": "PARSNIPS",
+      "cost": 25,
+      "raw_row_text": "PA005 - 25 LB BAG 25.00 * 25.00 *"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 19,
+      "raw_row_text": "ON005 LARGE 50 LB BAG 20.00 * 19.00 * COOKING ONIONS"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 20,
+      "raw_row_text": "ON020 MEDIUM 24 X 2 LB MASTER 21.00 * 20.00 *"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 32,
+      "raw_row_text": "ON035 COLLOSAL 50 LB BAG 33.00 * 32.00 * SPANISH ONIONS"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 20,
+      "raw_row_text": "ON044 JUMBO 25 LB BAG 21.00 * 20.00 * RED ONIONS"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 33,
+      "raw_row_text": "ON049 JUMBO 25 LB BAG 34.00 * 33.00 * WHITE ONIONS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 105,
+      "raw_row_text": "TO005 5 X 6 SIZE CARTON (LIGHT PINK) 106.00 * 105.00 *"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 105,
+      "raw_row_text": "TO006 6 X 6 SIZE. 25 LB. CARTON. 106.00 * 105.00 *"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 70,
+      "raw_row_text": "TO027 REGULAR 25 LB. CARTON. 71.00 * 70.00 * ROMA TOMATOES(MEXICAN)"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 88,
+      "raw_row_text": "TO030 TOMATILLO 30 LB. CARTON. 89.00 * 88.00 * FIELD TOMATOES(MEX.)"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 55,
+      "raw_row_text": "CU020 REG 50 LB. CRATE 56.00 * 55.00 * DILL CUCUMBERS (MEXICAN)"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 37,
+      "raw_row_text": "BN003 - WIREBOUND CRATE 38.00 * 37.00 * GREEN BEANS"
+    },
+    {
+      "commodity": "ROMAINE",
+      "cost": 50,
+      "raw_row_text": "LE050 12 X 3 CARTON 51.00 * 50.00 * ROMAINE HEARTS"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 37,
+      "raw_row_text": "LE070 24 SIZE CARTON 38.00 * 37.00 *"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": 37,
+      "raw_row_text": "LE075 24 SIZE CARTON 38.00 * 37.00 *"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 101,
+      "raw_row_text": "LE030 30 SIZE-WRAPPED CARTON 102.00 * 101.00 * HEAD LETTUCE"
+    },
+    {
+      "commodity": "ROMAINE",
+      "cost": 54,
+      "raw_row_text": "LE005 24 SIZE CARTON 55.00 * 54.00 *"
+    },
+    {
+      "commodity": "TURNIPS",
+      "cost": 32,
+      "raw_row_text": "TU005 - 50 LB CARTON 33.00 * 32.00 *"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 28,
+      "raw_row_text": "SQ003 REGULAR CARTON 29.00 * 28.00 * GREEN ZUCCHINI (MEXICAN)"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 28,
+      "raw_row_text": "SQ005 REGULAR 1 1/9 BUSHEL CARTON. 29.00 * 28.00 * GREEN ZUCCHINI"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 27,
+      "raw_row_text": "SQ008 STRAIGHT NECK 20 LB. CARTON. 28.00 * 27.00 * YELLOW ZUCHINNI"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 26,
+      "raw_row_text": "SQ012 - 1-1/9 BUS. CASE 27.00 * 26.00 * BUTTERNUT SQUASH"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 42,
+      "raw_row_text": "SQ015 - 1 1/9 CARTON. 43.00 * 42.00 * BUTTERCUP SQUASH"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 32,
+      "raw_row_text": "SQ105 X-FANCY 25LB. CARTON. 33.00 * 32.00 * MEXICAN-GRAY SQUASH."
+    },
+    {
+      "commodity": "BRUSSEL SPROUTS",
+      "cost": 50,
+      "raw_row_text": "CA050 - 25 LB. CARTON 51.00 * 50.00 *"
+    },
+    {
+      "commodity": "SNOW PEAS",
+      "cost": 25,
+      "raw_row_text": "VE007 - 10 LB. CARTON 25.00 * 25.00 *"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 58,
+      "raw_row_text": "VE016 LARGE 1,1/9 BUSHEL CARTON 59.00 * 58.00 * GREEN PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 50,
+      "raw_row_text": "VE018 EXTRA LARGE. 1,1/9 BUSHEL CARTON 51.00 * 50.00 *"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 58,
+      "raw_row_text": "VE023 EXTRA LARGE. 1-1/9 BUS.CARTON 59.00 * 58.00 * RED BELL PEPPERS (MEXICAN)"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 65,
+      "raw_row_text": "VE037 JUMBO. 1,1/9 BUSHEL CARTON 66.00 * 65.00 * GREEN PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 85,
+      "raw_row_text": "VE041 JUMBO DRC - DISPLAY PACK 86.00 * 85.00 *"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 93,
+      "raw_row_text": "VE042 - WIREBOUND CRATE 94.00 * 93.00 * BI-COLOUR CORN"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 29,
+      "raw_row_text": "VE061 10 X 1KG CASE 30.00 * 29.00 * GARLIC (CHINESE)"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 6,
+      "raw_row_text": "VE063 PEELED. 3 LB.(VACUUM PACKED) 6.00 * 6.00 *"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 21,
+      "raw_row_text": "VE064 6 X 3LB.PEELED 6 X 3 LB. CARTON. 22.00 * 21.00 * GARLIC(MEXICAN)"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 19,
+      "raw_row_text": "VE067 50 X 3 7.5 KG. 20.00 * 19.00 *"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 15,
+      "raw_row_text": "VE080 LARGE. 11 LB. CARTON. 16.00 * 15.00 *"
+    },
+    {
+      "commodity": "SHANGHAI CHOY",
+      "cost": 54,
+      "raw_row_text": "VE100 - 30'S CARTON. 55.00 * 54.00 *"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 75,
+      "raw_row_text": "VE115 REGULAR 40 LB.CARTON. 75.00 * 75.00 * CHINESE-EGGPLANT."
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 24,
+      "raw_row_text": "VE130 LARGE. 30 LB.CARTON. 25.00 * 24.00 * GINGER (CHINESE)"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 50,
+      "raw_row_text": "VE165 BUNCHED CARTON 50.00 * 50.00 *"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 88,
+      "raw_row_text": "VE171 1 1/9 BUSHEL 89.00 * 88.00 * JALAPENO PEPPER"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 38,
+      "raw_row_text": "VE186 12 X 3 CARTON 39.00 * 38.00 *"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 47,
+      "raw_row_text": "VE219 LARGE 25 LB. 48.00 * 47.00 * ORANGE BELL PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 48,
+      "raw_row_text": "VE220 LARGE CARTON 49.00 * 48.00 * YELLOW BELL PEPPERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 43,
+      "raw_row_text": "VE221 X-LARGE 1 1/9 BUS.CARTON. 44.00 * 43.00 * YELLOW BELL PEPPERS (MEXICAN)"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 43,
+      "raw_row_text": "VE225 EXTRA LG. 1 1/9 BUS.CARTON. 44.00 * 43.00 * ORANGE PEPPERS(MEXICO)"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 38,
+      "raw_row_text": "VE228 5 DOZEN CARTON 39.00 * 38.00 * PLAIN PARSLEY"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 38,
+      "raw_row_text": "VE229 5 DOZEN CARTON 39.00 * 38.00 * CURLY PARSLEY"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 58,
+      "raw_row_text": "VE251 - 1 1/9 BUS.CARTON. 59.00 * 58.00 * HUNGARIAN WAX PEPPER"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "VE255 25 LB. CARTON 61.00 * 60.00 * LONG HOT PEPPER"
+    },
+    {
+      "commodity": "SNAP PEAS",
+      "cost": 25,
+      "raw_row_text": "VE290 10 LBS. CARTON 25.00 * 25.00 *"
+    },
+    {
+      "commodity": "CORIANDER",
+      "cost": 40,
+      "raw_row_text": "VE305 2 DOZEN CARTON 40.00 * 40.00 *"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 19,
+      "raw_row_text": "VE309 9 SIZE CASE 20.00 * 19.00 *"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": 34,
+      "raw_row_text": "VE101 48 SIZE CARTON 35.00 * 34.00 *"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": 44,
+      "raw_row_text": "VE102 2 X 24 CELLO ICELESS 45.00 * 44.00 *"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 24,
+      "raw_row_text": "VE074 JUMBO 40 LB. CARTON. 25.00 * 24.00 *"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 21,
+      "raw_row_text": "VE076 SMALL 40 LB. CARTON. 22.00 * 21.00 *"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 35,
+      "raw_row_text": "VE093 REGULAR LARGE 36.00 * 35.00 *"
+    },
+    {
+      "commodity": "SEED POTATOES",
+      "cost": 33,
+      "raw_row_text": "SP020 B SIZE 50LB BAG 34.00 * 33.00 * SEED SUPERIOR"
+    },
+    {
+      "commodity": "SEED POTATOES",
+      "cost": 33,
+      "raw_row_text": "SP025 B SIZE 50LB BAG 34.00 * 33.00 * SEED YUKON GOLD"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 42,
+      "raw_row_text": "FR061 14 X 6 PKG. CASE 43.00 * 42.00 *"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 45,
+      "raw_row_text": "FR062 14 X 5 PKG CASE 46.00 * 45.00 *"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 50,
+      "raw_row_text": "FR065 SIZE 48 CASE 51.00 * 50.00 *"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 47,
+      "raw_row_text": "FR066 SIZE 36 CASE 48.00 * 47.00 *"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 47,
+      "raw_row_text": "FR069 SIZE 40 CASE 48.00 * 47.00 *"
+    },
+    {
+      "commodity": "AVOCADOES",
+      "cost": 50,
+      "raw_row_text": "FR072 SIZE 60 CASE 51.00 * 50.00 *"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 27,
+      "raw_row_text": "FR136 SIZE 6 CASE 28.00 * 27.00 *"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "FR167 SIZE 7 CASE 17.00 * 16.00 *"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 10,
+      "raw_row_text": "FR168 SIZE 8 CASE 11.00 * 10.00 *"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 18,
+      "raw_row_text": "FR180 - CASE 19.00 * 18.00 * ATAULFO MANGOES"
+    },
+    {
+      "commodity": "SET ONIONS",
+      "cost": 60,
+      "raw_row_text": "SO001 REGULAR 25 X 3 60.00 * 60.00 * SET ONION GARLIC"
+    },
+    {
+      "commodity": "SET ONIONS",
+      "cost": 40,
+      "raw_row_text": "SO006 SHALLOT 25 X 10 40.00 * 40.00 * SET ONION MULIPLIER"
+    },
+    {
+      "commodity": "SET ONIONS",
+      "cost": 35,
+      "raw_row_text": "SO016 REGULAR 25 X 100 35.00 * 35.00 * SET ONION SPANISH"
+    },
+    {
+      "commodity": "SET ONIONS",
+      "cost": 35,
+      "raw_row_text": "SO024 REGULAR 25 X 100 PACKAGE. 35.00 * 35.00 * SET ONION WHITE"
+    },
+    {
+      "commodity": "SET ONIONS",
+      "cost": 32,
+      "raw_row_text": "SO028 REGULAR 25 X 100 32.00 * 32.00 * SET ONION YELLOW"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 29,
+      "raw_row_text": "AV640 56 SIZE - 30.00 * 29.00 *"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 39,
+      "raw_row_text": "AV650 72 SIZE - 40.00 * 39.00 *"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 29,
+      "raw_row_text": "AV660 48 SIZE CASE 30.00 * 29.00 *"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 75,
+      "raw_row_text": "FR282 175'S CARTON 76.00 * 75.00 *"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 35,
+      "raw_row_text": "FR360 75 COUNT CARTON 36.00 * 35.00 *"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 42,
+      "raw_row_text": "FR361 115 COUNT CARTON 43.00 * 42.00 *"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "doc_id": "supplier-s-2026-04-20",
+  "supplier": "supplier-s",
+  "date": "2026-04-20",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-s-2026-04-20.txt",
+  "format": "txt",
+  "duration_ms": 9767,
+  "row_count": 2,
+  "rows": [
+    {
+      "commodity": "APPLES",
+      "cost": 35,
+      "raw_row_text": "Apple idared $35"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 35,
+      "raw_row_text": "Apple red delicious $35"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "doc_id": "supplier-d-pt2-2026-04-19",
+  "supplier": "supplier-d-pt2",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-d-pt2-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 40763,
+  "row_count": 60,
+  "rows": [
+    {
+      "commodity": "BANANAS",
+      "cost": 32,
+      "raw_row_text": "BANA0007 Dole Banana $32.00"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": null,
+      "raw_row_text": "BANA0001 Turbana Banana"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 43,
+      "raw_row_text": "MBBA0009 Organic Banana $43.00"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 31,
+      "raw_row_text": "COOK0001 Cooking Banana $31.00"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 34,
+      "raw_row_text": "MANZ0001 Manzano Banana $34.00"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 30,
+      "raw_row_text": "BANA0005 Del Monte Banana $30.00"
+    },
+    {
+      "commodity": "PLANTAINS",
+      "cost": 67,
+      "raw_row_text": "PLAN0004 Yellow Plantain (Gas) $67.00"
+    },
+    {
+      "commodity": "PLANTAINS",
+      "cost": 67,
+      "raw_row_text": "PLAN0001 Green Plantain (No Gas) $67.00"
+    },
+    {
+      "commodity": "PLANTAINS",
+      "cost": 32,
+      "raw_row_text": "Plan0002 Burro Plantain $32.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 28,
+      "raw_row_text": "PINE0005 Honeyglow (Size 6) $28.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 24,
+      "raw_row_text": "PINE0004 KAPI ORO (Size 5) 24.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "PINE0001 KAPI ORO (Size 6) SOLD"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "PINE0010 Honeyglow (Size 5)"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 17,
+      "raw_row_text": "PINE0005 Pineapple (Size 5) $17.00"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": null,
+      "raw_row_text": "MAND0003 Regular Mangos PTF"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": null,
+      "raw_row_text": "MANG0001 Air Mangos"
+    },
+    {
+      "commodity": "MANGOS",
+      "cost": null,
+      "raw_row_text": "MANG0002 Ataulfo Mangos"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": null,
+      "raw_row_text": "GING0001 Ginger"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 66,
+      "raw_row_text": "Pink Pineapple $66.00"
+    },
+    {
+      "commodity": "COCONUTS",
+      "cost": 57,
+      "raw_row_text": "COCO0002 Dry Coconuts (Size 20) $57.00"
+    },
+    {
+      "commodity": "COCONUTS",
+      "cost": 25,
+      "raw_row_text": "COCO0003 Green Coconuts (Size 10) $25.00"
+    },
+    {
+      "commodity": "MALANGA",
+      "cost": null,
+      "raw_row_text": "MALA0001 Malanga Coco"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "Pepp0003 Red Habanero PTF"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 160,
+      "raw_row_text": "Pepp0004 Thai Chili $160.00 ###"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "Pepp0002 Mix Habanero PTF"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN0001 Lemon 100's"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN0002 Lemon 113's"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN003 Lemon 72's"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN0004 Lemon 80's"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN005 Lemon 88's"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "LEMN0006 Lemon 8kg"
+    },
+    {
+      "commodity": "ALOE",
+      "cost": 24,
+      "raw_row_text": "ALOE0001 Aloe Vera $24.00"
+    },
+    {
+      "commodity": "SOURSOP",
+      "cost": 60,
+      "raw_row_text": "SSOP0002 Soursop 6 KG $60.00"
+    },
+    {
+      "commodity": "YUCCA",
+      "cost": 48,
+      "raw_row_text": "CASA0001 Yucca 35 LBS $48.00"
+    },
+    {
+      "commodity": "EDDOES",
+      "cost": 50,
+      "raw_row_text": "EDDO0001 Eddoes 35 LBS $50.00"
+    },
+    {
+      "commodity": "CHAYOTES",
+      "cost": 48,
+      "raw_row_text": "CHCH0001 Chayotes 35 LBS $48.00"
+    },
+    {
+      "commodity": "TOMATILLOS",
+      "cost": 85,
+      "raw_row_text": "TTIL0001 Tamatillo $85.00"
+    },
+    {
+      "commodity": "SUGAR CANE",
+      "cost": 25,
+      "raw_row_text": "SGCAN0001 Sugar Cane $25.00"
+    },
+    {
+      "commodity": "RAMBUTAN",
+      "cost": null,
+      "raw_row_text": "RAMB0001 Rambutan"
+    },
+    {
+      "commodity": "GRANADILLA",
+      "cost": 130,
+      "raw_row_text": "PASS0001 Granadilla $130.000"
+    },
+    {
+      "commodity": "JACKFRUIT",
+      "cost": null,
+      "raw_row_text": "JACK0001 Jack Fruit"
+    },
+    {
+      "commodity": "PUMPKIN",
+      "cost": null,
+      "raw_row_text": "PUMP0001 Pumpkin"
+    },
+    {
+      "commodity": "CACTUS",
+      "cost": 45,
+      "raw_row_text": "CACL0001 Cactus Leaf $45.00"
+    },
+    {
+      "commodity": "CACTUS",
+      "cost": null,
+      "raw_row_text": "PEAR0001 Cactus Pear"
+    },
+    {
+      "commodity": "DRAGON FRUIT",
+      "cost": null,
+      "raw_row_text": "DRGF0003 Red Dragon Fruit"
+    },
+    {
+      "commodity": "DRAGON FRUIT",
+      "cost": null,
+      "raw_row_text": "DRGF0004 Yellow Dragon Fruit"
+    },
+    {
+      "commodity": "KAKI",
+      "cost": null,
+      "raw_row_text": "PERSO0001 Kaki"
+    },
+    {
+      "commodity": "CASSAVA",
+      "cost": 48,
+      "raw_row_text": "CASA0001 Cassava $48.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "MBAV0006 Avocado Size 12's PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "MBAV0008 Avocado Size 60 PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "AVOC0012 Avocado Size 36s PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "AVOC0005 Avocado Size 48's PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "MBAV0004 Avocado size 40 PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "MBAV0007 Avocado 14x5 PTF"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "MBAV0010 Avocado 14x6 PTF"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": null,
+      "raw_row_text": "PAPA0001 Papaya 30 LB Box PTF"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": 48,
+      "raw_row_text": "PAPA0006 Formosa Papaya $48.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": "LIME0002 Limes 200's"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": "LIME0007 Limes175"
+    },
+    {
+      "commodity": "CORN",
+      "cost": null,
+      "raw_row_text": "Corn0001 White Corn/Blue"
+    }
+  ]
+}

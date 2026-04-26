@@ -1,0 +1,21 @@
+{
+  "doc_id": "supplier-r-2026-04-22",
+  "supplier": "supplier-r",
+  "date": "2026-04-22",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-r-2026-04-22.txt",
+  "format": "txt",
+  "duration_ms": 14121,
+  "row_count": 2,
+  "rows": [
+    {
+      "commodity": "BANANAS",
+      "cost": 42,
+      "raw_row_text": "Banana organic 40 lb $42"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 26,
+      "raw_row_text": "Avocado premium 12 ct $26"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "doc_id": "supplier-a-2026-04-19",
+  "supplier": "supplier-a",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-a-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 18230,
+  "row_count": 19,
+  "rows": [
+    {
+      "commodity": "TOMATOES",
+      "cost": 35,
+      "raw_row_text": "Grape tomatoes $35"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 10,
+      "raw_row_text": "#2 cucumber $10"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "#1 cucumber large $14"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 20,
+      "raw_row_text": "Cucumber mini pkg 6x8 $20"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 8,
+      "raw_row_text": "Mini cucumber lose #2 $8"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "Cluster tomato $38"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 50,
+      "raw_row_text": "Hot house tomato $50"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "Red pepper 5kg XXL $30"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "Yellow pepper 5kg XXL $30"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 31,
+      "raw_row_text": "Orange pepper 5kg XXL $31"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 65,
+      "raw_row_text": "Greens peppers 25 pound $65"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 11,
+      "raw_row_text": "Mushroom White - Choice - 5 lb per case - $11.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "Mushroom Brown Caps - 5 lb per case - $16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14,
+      "raw_row_text": "Mushroom Sliced - 5 lb per case - $14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "Mushroom Button - 5 lb per case - $16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "Mushroom Portobello - 5 lb per case - $19.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 20,
+      "raw_row_text": "Mushroom Brown Packs - 12 packs, 8 oz each per case - $20.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 30,
+      "raw_row_text": "Mushroom King Oyster - 5 lb per case - $30.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 20,
+      "raw_row_text": "Lions mane mushrooms $20"
+    }
+  ]
+}

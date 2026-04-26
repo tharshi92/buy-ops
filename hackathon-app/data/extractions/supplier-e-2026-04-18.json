@@ -1,0 +1,221 @@
+{
+  "doc_id": "supplier-e-2026-04-18",
+  "supplier": "supplier-e",
+  "date": "2026-04-18",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-e-2026-04-18.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 33550,
+  "row_count": 42,
+  "rows": [
+    {
+      "commodity": "ONIONS",
+      "cost": 32,
+      "raw_row_text": "Spanish Onions (Super Colossal/Colossal/Jumbo) – 32.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 22,
+      "raw_row_text": "Ontario Onions (Large) – 22.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18,
+      "raw_row_text": "Red Onions (Jumbo) – 18.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 55,
+      "raw_row_text": "Hot House (15lb) – 55.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 42,
+      "raw_row_text": "Cluster T.O.V (11lb) – 42.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 72,
+      "raw_row_text": "Jumbo Roma (Mexico) – 72.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 30,
+      "raw_row_text": "Potatoes (48ct/56ct) – 30.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 37,
+      "raw_row_text": "Potatoes (72ct) – 37.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 23,
+      "raw_row_text": "Yukon – 23.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "White – 21.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 38,
+      "raw_row_text": "Carrots (Jumbo) – 38.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 21,
+      "raw_row_text": "Carrots (Vac Orange) – 21.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 28,
+      "raw_row_text": "Carrots (Vac Rainbow) – 28.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 15,
+      "raw_row_text": "Indian Carrots – 15.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "Green Peppers XL (25lb) – 60.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 55,
+      "raw_row_text": "Red Peppers Jumbo (25lb) – 55.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 40,
+      "raw_row_text": "Orange Peppers XL (25lb) – 40.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 36,
+      "raw_row_text": "Mini Sweet Peppers (12x1lb) – 36.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 95,
+      "raw_row_text": "Jalapeño Peppers XL (40lb) – 95.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 15,
+      "raw_row_text": "Elite Mangoes (12ct/14ct/16ct) – 15.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 14,
+      "raw_row_text": "Haden Mangoes (7ct/8ct/9ct) – 14.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 38,
+      "raw_row_text": "Tree Ripe Haden (12/14ct) – 38.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 12.5,
+      "raw_row_text": "Tommy Mangoes (6ct/7ct/8ct) – 12.50"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 45,
+      "raw_row_text": "Parsley (60ct) – 45.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 40,
+      "raw_row_text": "Kale (24ct) – 40.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 42,
+      "raw_row_text": "Broccoli Crown – 42.00"
+    },
+    {
+      "commodity": "GREEN BEANS",
+      "cost": 50,
+      "raw_row_text": "Green Beans (Light/French) – 50.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 35,
+      "raw_row_text": "Eggplant (24s) – 35.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 26,
+      "raw_row_text": "Zucchini (22lb) – 26.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 57,
+      "raw_row_text": "Celery – 57.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 60,
+      "raw_row_text": "Lettuce (24s) – 60.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 55,
+      "raw_row_text": "Cauliflower (9s) – 55.00"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": 36,
+      "raw_row_text": "Green Onions – 36.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 32,
+      "raw_row_text": "Strawberries – 32.00"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 40,
+      "raw_row_text": "Raspberries – 40.00"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 34,
+      "raw_row_text": "Blackberries – 34.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 28,
+      "raw_row_text": "Limes (10lb) – 28.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 60,
+      "raw_row_text": "Asparagus – 60.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 90,
+      "raw_row_text": "White Asparagus – 90.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 12,
+      "raw_row_text": "Figs – 12.00"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 29,
+      "raw_row_text": "Bananas – 29.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 40,
+      "raw_row_text": "60ct – 40.00"
+    }
+  ]
+}

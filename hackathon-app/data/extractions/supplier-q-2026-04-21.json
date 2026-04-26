@@ -1,0 +1,271 @@
+{
+  "doc_id": "supplier-q-2026-04-21",
+  "supplier": "supplier-q",
+  "date": "2026-04-21",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-q-2026-04-21.txt",
+  "format": "txt",
+  "duration_ms": 29029,
+  "row_count": 52,
+  "rows": [
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 18,
+      "raw_row_text": "ONT :flag-ca: STRAWBERRY LRG 8x1lb  - $18"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 28,
+      "raw_row_text": "STEM AND LEAF CLEM 7kg SPAIN - $28"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 32,
+      "raw_row_text": "POMEGRANATE PERU 12ct - $32"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 56,
+      "raw_row_text": "RED DEL APPLE ONT :flag-ca: 72ct -$56"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "GALA APPLE 100ct  - $52"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 56,
+      "raw_row_text": "GOLDEN APPLE ONT :flag-ca: 72ct-$56"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 49,
+      "raw_row_text": "GRANNY APPLE 100ct - $49"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 55,
+      "raw_row_text": "GRANNY APPLE 72ct - $55"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 79,
+      "raw_row_text": "HONEYCRISP ONT :flag-ca: 72ct - $79"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 49,
+      "raw_row_text": "BARTLETT PEARARG 110ct - $49"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 25,
+      "raw_row_text": "PINEAPPLE 8ct - $25"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 95,
+      "raw_row_text": "LIME 175ct - $95"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 25,
+      "raw_row_text": "Oranges 72ct - $25"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": 55,
+      "raw_row_text": "PAPAYA 12ct - $55"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 24,
+      "raw_row_text": "SPRINKLE MEDELY TOMATOES 20x100g - $24"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "TOMATO FLAVOR BOMBS :flag-ca: 8x12oz - $36"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 48,
+      "raw_row_text": "WILD WONDER MEDLEY 15x1  :flag-ca:- $48"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 32,
+      "raw_row_text": "HEIRLOOM TOMATO 10lb :flag-ca: - $32"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "CAMPARI 8x1 - $38 :flag-ca:"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 36,
+      "raw_row_text": "TRI COLOR PEPPER 9x4 bag :flag-ca:- $36"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12,
+      "raw_row_text": "ENGLISH CUCUMBER MED 12ct :flag-ca:- $12"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 15,
+      "raw_row_text": "MINI CUCUMBER 12/6 pack :flag-ca:- $15"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35,
+      "raw_row_text": "5KG RED PEPPERS HOL $35"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 24,
+      "raw_row_text": "YELLOW PEPPER 5kg $24 :flag-ca:"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 26,
+      "raw_row_text": "ORANGE PEPPER 5kg $26"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 32,
+      "raw_row_text": "SPINACH BUNCH- $32"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 28,
+      "raw_row_text": "CAULIFLOWER 9 - $28"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 28,
+      "raw_row_text": "CAULIFLOWER 12 - $28"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 28,
+      "raw_row_text": "EGGPLANT 32 - $28"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 45,
+      "raw_row_text": "EGGPLANT CHINESE- $45"
+    },
+    {
+      "commodity": "METHI",
+      "cost": 48,
+      "raw_row_text": "METHI-$48"
+    },
+    {
+      "commodity": "POBLANOS",
+      "cost": 95,
+      "raw_row_text": "POBLANOS  - $95"
+    },
+    {
+      "commodity": "JALAPENOS",
+      "cost": 105,
+      "raw_row_text": "JALAPENO - $105"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 85,
+      "raw_row_text": "YELLOW HOT- $85"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "LONG HOT   - $60"
+    },
+    {
+      "commodity": "CUBANELLE",
+      "cost": 85,
+      "raw_row_text": "CUBANELLE- $85"
+    },
+    {
+      "commodity": "KARELLA",
+      "cost": 55,
+      "raw_row_text": "KARELLA- $55"
+    },
+    {
+      "commodity": "TOMATILLOS",
+      "cost": 68,
+      "raw_row_text": "TOMATILLO Husk- $68"
+    },
+    {
+      "commodity": "TOMATILLOS",
+      "cost": 65,
+      "raw_row_text": "TOMATILLO No Husk - $65"
+    },
+    {
+      "commodity": "TURNIPS",
+      "cost": 28,
+      "raw_row_text": "TURNIP- $28"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 34,
+      "raw_row_text": "CELLO RADISH - $34"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 24,
+      "raw_row_text": "BUTTERNUT - $24"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 39,
+      "raw_row_text": "BUTTERCUP- $39"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 29,
+      "raw_row_text": "SPAGHETTI- $29"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 35,
+      "raw_row_text": "ACORN - $35"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 60,
+      "raw_row_text": "SWEET POT - CARB - $60"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 58,
+      "raw_row_text": "CILANTRO 60 Root - $58"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 60,
+      "raw_row_text": "LONG SQUASH- $60"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 20,
+      "raw_row_text": "ZUCHINI FCY - $20"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 27,
+      "raw_row_text": "ZUCCHINI GREY - $27"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 20,
+      "raw_row_text": "MINT - $20"
+    },
+    {
+      "commodity": "SNOWPEAS",
+      "cost": 35,
+      "raw_row_text": "SNOPEAS/SNAPS - $35"
+    }
+  ]
+}

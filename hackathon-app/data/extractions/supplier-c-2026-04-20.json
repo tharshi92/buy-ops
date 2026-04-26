@@ -1,0 +1,391 @@
+{
+  "doc_id": "supplier-c-2026-04-20",
+  "supplier": "supplier-c",
+  "date": "2026-04-20",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-c-2026-04-20.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 47299,
+  "row_count": 76,
+  "rows": [
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 30,
+      "raw_row_text": "GTM 9J Cantaloupe $30.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 25,
+      "raw_row_text": "GTM 9R Cantaloupe $25.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 32,
+      "raw_row_text": "GTM 12 Cantaloupe $32.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 24,
+      "raw_row_text": "BRAZIL 9 Cantaloupe $24.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 30,
+      "raw_row_text": "GTM 15 cantaloupe $30.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 26,
+      "raw_row_text": "GTM/HDR 4J Honeydew SOL $26.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 27,
+      "raw_row_text": "MEX/GTM 5R Honeydew $27.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 25,
+      "raw_row_text": "MEX/GTM 6 Honeydew $25.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 24,
+      "raw_row_text": "MEX 8 Honeydew $24.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": null,
+      "raw_row_text": "GTM 8 Honeydew N/A"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 30,
+      "raw_row_text": "GTM 5 Raptor Melon $30.00"
+    },
+    {
+      "commodity": "CANARY",
+      "cost": 26,
+      "raw_row_text": "Brazil 5 Canary $26.00"
+    },
+    {
+      "commodity": "HAMI",
+      "cost": 30,
+      "raw_row_text": "GTM Hami 5R/6R $30.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 30,
+      "raw_row_text": "5J Honeydew $30.00"
+    },
+    {
+      "commodity": "HAMI",
+      "cost": 25,
+      "raw_row_text": "11 Hami $25.00"
+    },
+    {
+      "commodity": "MINIS",
+      "cost": 32,
+      "raw_row_text": "MEX 8 Mini $32.00"
+    },
+    {
+      "commodity": "MINIS",
+      "cost": 32,
+      "raw_row_text": "MEX 9 Mini $32.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 450,
+      "raw_row_text": "MEX Unlimited WAM 36ct $450.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 450,
+      "raw_row_text": "MEX Unlimited WAM 60ct $450.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 450,
+      "raw_row_text": "MEX Unlimited WAM 80ct $450.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "USA Long Hot N/A"
+    },
+    {
+      "commodity": "JALAPENO",
+      "cost": 60,
+      "raw_row_text": "USA/MEX Jalapeno Bushel $60.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "USA/MEX Yellow Hot Bushel $60.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "USA Cubanelle Bushel N/A"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "MEX 25lb Red Peppers XLG $60.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 55,
+      "raw_row_text": "MEX JBO 25lb Green Pepper GP $55.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 55,
+      "raw_row_text": "MEX 25lb XLG Green Pepper $55.00"
+    },
+    {
+      "commodity": "CHILI",
+      "cost": null,
+      "raw_row_text": "DR 30LB Thai Chili N/A"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "EGY Red/Green Finger Hot 3kg $30.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 25,
+      "raw_row_text": "MEX Fancy Eggplant 32 GP $25.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 42,
+      "raw_row_text": "MEX Fancy Eggplant 18 GP $42.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 40,
+      "raw_row_text": "MEX Fancy Eggplant 24 GP $40.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 22,
+      "raw_row_text": "ONT 16 Green Cabbage $22.00"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": null,
+      "raw_row_text": "EGY Green Onions 36ct N/A"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": null,
+      "raw_row_text": "EGY Green Onions 48ct N/A"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "MEX Jumbo Roma Tomatoes N/A"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 28,
+      "raw_row_text": "ONT Red Cabbage 16ct $28.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 40,
+      "raw_row_text": "MEX Delicata $40.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 25,
+      "raw_row_text": "MEX Butternut 1 1/9 $25.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 35,
+      "raw_row_text": "MEX Acorn 1 1/9 $35.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 35,
+      "raw_row_text": "MEX Kabocha $35.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 35,
+      "raw_row_text": "MEX Spaghetti $35.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "MEX Fairytale Squash N/A"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 450,
+      "raw_row_text": "MEX Bin Butternut $450.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 22,
+      "raw_row_text": "MEX Fancy Zucchini (GP) $22.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 22,
+      "raw_row_text": "MEX Med Zucchini $22.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "MEX Bushel Zucchini N/A"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "MEX Grey Zucchini N/A"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "MEX Yellow Zucchini N/A"
+    },
+    {
+      "commodity": "GUAVA",
+      "cost": 15,
+      "raw_row_text": "EGY Guava $15.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 28,
+      "raw_row_text": "TUR Grapefruit 15kg $28.00"
+    },
+    {
+      "commodity": "CLEMENTINE",
+      "cost": null,
+      "raw_row_text": "TUR Clementine 15x 2 N/A"
+    },
+    {
+      "commodity": "MURCOTT",
+      "cost": 20,
+      "raw_row_text": "TUR Murcott 10kg $20.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 45,
+      "raw_row_text": "EGY Garlic 5KG $45.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": "CALI Blood 36CT 20LB N/A"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 525,
+      "raw_row_text": "CALI Navel 750lb Bin $525.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "CALI Navel 40/48/56 $30.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 28,
+      "raw_row_text": "EGY Valencia 15KG $28.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 38,
+      "raw_row_text": "CALI Navel 72/88 $38.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 45,
+      "raw_row_text": "CALI Cara Cara 48/56 $45.00"
+    },
+    {
+      "commodity": "MINNEOLA",
+      "cost": 45,
+      "raw_row_text": "CALI Minneola 56 $45.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "CALI Lemon 140 $38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 40,
+      "raw_row_text": "CALI Lemon 75 $40.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "CALI Lemon 115 $38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "CALI 64 seedless $38.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 13.5,
+      "raw_row_text": "ONT White #1 5LB $13.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15,
+      "raw_row_text": "ONT Brown #1 5LB $15.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "ONT Button #1 5LB $16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "ONT Oyster 2LB $16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 24,
+      "raw_row_text": "ONT Shiitake XL 3LB $24.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14,
+      "raw_row_text": "ONT Sliced White $14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "ONT Portobello $19.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 20,
+      "raw_row_text": "ONT White CELLO $20.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 21,
+      "raw_row_text": "ONT Cremini CELLO $21.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 17,
+      "raw_row_text": "ONT Premium White $17.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 18,
+      "raw_row_text": "ONT Premium Cremini $18.00"
+    }
+  ]
+}

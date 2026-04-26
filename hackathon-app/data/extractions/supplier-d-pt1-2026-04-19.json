@@ -1,0 +1,621 @@
+{
+  "doc_id": "supplier-d-pt1-2026-04-19",
+  "supplier": "supplier-d-pt1",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-d-pt1-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 74494,
+  "row_count": 122,
+  "rows": [
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "RED DELS Superfresh 80 $52.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 49,
+      "raw_row_text": "RED DELS Superfresh 100 $49.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 49,
+      "raw_row_text": "RED DELS Superfresh 113 $49.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 72,
+      "raw_row_text": "GOLDEN DEL 80 $72.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "GOLDEN DEL 100/113 TOS"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "Cosmic CrIsp Euro 45 $52.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 45,
+      "raw_row_text": "Hunnyz Gee Whiz 12x2lb $45.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 95,
+      "raw_row_text": "Nova Scotia Honeycrisp 64/72/80 $95.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "Ambrosia 80 tos"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 55,
+      "raw_row_text": "Ambrosia 20x2lb $55.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "Sweet Tango 20x2lb tos"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 47,
+      "raw_row_text": "Cortland 80 $47.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "GRANNY SMITH GeewWhiz Yellowbox 72 $65.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "GeeWhiz Yellowbox 80 $64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "Elite GeeWhiz 88 tos"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 47,
+      "raw_row_text": "Superfresh 113 $47.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "GeeWhiz Yellowbox 12x3lb $54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 37,
+      "raw_row_text": "AFC GeeWhiz 100 $37.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 75,
+      "raw_row_text": "ROYAL GALA GeeWhiz Yellow 80 $75.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "Superfresh 72 TOS"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 70,
+      "raw_row_text": "Superfresh 88/100 $70.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 68,
+      "raw_row_text": "Superfresh 113 $68.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "AFC GeeWhiz 80/100 tos"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "Superfresh 12X3LB $65.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Superfresh Organic 12x2lb $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 77,
+      "raw_row_text": "Superfresh Organic 80 $77.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "PINK LADY 48 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 50,
+      "raw_row_text": "GeeWhiz 72 $50.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Superfresh 80 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": "FUJI Superfresh 'Cowboy' 64 TOS"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "Superfresh Premium 72 $52.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": null,
+      "raw_row_text": "Pears Washington Bartlett Duckwall 70 tos"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": null,
+      "raw_row_text": "Bartlett Duckwall 120 tos"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": null,
+      "raw_row_text": "Anjou Duckwall 70 tos"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 31,
+      "raw_row_text": "Bosc Duckwall 120 $31.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": null,
+      "raw_row_text": "Forelle Duckwall 90 tos"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 29,
+      "raw_row_text": "Asian Pears 28 $29.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 28,
+      "raw_row_text": "VALENCIA ORANGES 60 $28.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 26,
+      "raw_row_text": "MORROCO 90 $26.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 63,
+      "raw_row_text": "BROCCOLI CROWNS 25lb $63.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": null,
+      "raw_row_text": "BROCCOLI 18 PTF"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 67,
+      "raw_row_text": "CAULIFLOWER CALI 12 $67.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "CAULIFLOWER 9 PTF"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 38,
+      "raw_row_text": "CARROTS 50LB JUMBO (CF) ON $38.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 54,
+      "raw_row_text": "CARROTS Cello 24X2/10X5/16X3 ON $54.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 63,
+      "raw_row_text": "CELERY USA 24,s $63.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 63,
+      "raw_row_text": "CELERY 30's $63.00"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": null,
+      "raw_row_text": "GREEN ONIONS 24X2Lg PTF"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 60,
+      "raw_row_text": "LETTUCE********MEX 24's $60.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 36,
+      "raw_row_text": "ICEBERG cello 24's PTF $36.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": "ICEBERG JUMBO 30's PTF"
+    },
+    {
+      "commodity": "ROMAINE",
+      "cost": 58,
+      "raw_row_text": "ROMAINE 24,s $58.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 45,
+      "raw_row_text": "Green Leaf 24,s $45.00"
+    },
+    {
+      "commodity": "ROMAINE",
+      "cost": 54,
+      "raw_row_text": "RomaineHearts 12X3 $54.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": null,
+      "raw_row_text": "FLORIDA CORN Peaches and Cream PTF"
+    },
+    {
+      "commodity": "CORN",
+      "cost": null,
+      "raw_row_text": "FLORIDA CORN Yellow PTF"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 42,
+      "raw_row_text": "Oranges Calif. Fancy 40 $42.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 42,
+      "raw_row_text": "Fancy 48 $42.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 49,
+      "raw_row_text": "Fancy 88 $49.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 45,
+      "raw_row_text": "Fancy 72 $45.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 39,
+      "raw_row_text": "Choice 72 $39.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": "Fancy 113 TOS"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 46,
+      "raw_row_text": "Cara Cara 56 $46.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 50,
+      "raw_row_text": "NEW VALENCIA's 10 X 4 BAG $50.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 23,
+      "raw_row_text": "EGYPT JUICE ORANGE 113s $23.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 58,
+      "raw_row_text": "Grapefruit Florida 32 $58.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 48,
+      "raw_row_text": "Grapefruit 48 $48.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 48,
+      "raw_row_text": "Grapefruit 56 $48.00"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 32,
+      "raw_row_text": "MELONS HONEYDEW 6 DELMONTE $32.00"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 32,
+      "raw_row_text": "MAG MELON J9 DELMONTE $32.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 36,
+      "raw_row_text": "Cantaloupe JUMBO 9 DELMONTE $36.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 26,
+      "raw_row_text": "Cantaloupe 12'S DELMONTE $26.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 27,
+      "raw_row_text": "Cantaloupe JUMBO 9 VF DELMONTE $27.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 28,
+      "raw_row_text": "WATERMELON 6'S DELMONTE $28.00"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 33,
+      "raw_row_text": "WAXED TURNIP LARGE CARTON $33.00"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 26,
+      "raw_row_text": "WAXED TURNIP SMALL CARTON $26.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "Cluster Tomatoes 11lb PTF"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "grape Tomatoes pint PTF"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "Beefsteak (hothouse) ON PTF"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": "Roma Tomatoes 25lb PTF"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 25,
+      "raw_row_text": "Cooking Onion (ON) 50lb $25.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 5,
+      "raw_row_text": "Large 10lbs ONIONS ON $5.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 50,
+      "raw_row_text": "Red onions 16x3 $50.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 5.5,
+      "raw_row_text": "Red onions M/L 10LB $5.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 14,
+      "raw_row_text": "RED ONIONS 25LB. $14.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 25,
+      "raw_row_text": "Beets 25lbs 25lb $25.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": null,
+      "raw_row_text": "beets 50lbs 50lb N/A"
+    },
+    {
+      "commodity": "PARSNIPS",
+      "cost": 32,
+      "raw_row_text": "Parsnips 12X1LB $32.00"
+    },
+    {
+      "commodity": "PARSNIPS",
+      "cost": 36,
+      "raw_row_text": "Parsnips 25lb $36.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 48,
+      "raw_row_text": "Org GINGER PERU 30LBS $48.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 38,
+      "raw_row_text": "GINGER CHINESE 30LBS $38.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 28,
+      "raw_row_text": "Garlic CHINESE 10X1 KG $28.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 26,
+      "raw_row_text": "Garlic CHINESE 10KG. $26.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 26,
+      "raw_row_text": "Cello 2lb, 3lb, 5lb onion $26.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 3.5,
+      "raw_row_text": "yukon Potatoes 10lb $3.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 3.75,
+      "raw_row_text": "RED Potatoes A 10 lb $3.75"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 22,
+      "raw_row_text": "WHITE MANITOBA ONT 10lb $22.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 23,
+      "raw_row_text": "Large YUKON 50lb USA $23.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 22,
+      "raw_row_text": "SPANISH COLOSSAL OLD CROP $22.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 70,
+      "raw_row_text": "Yams Calif NEW CROP Reg. Classic 40lb $70.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 75,
+      "raw_row_text": "Yams Oriental Jumbo 40lb $75.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 90,
+      "raw_row_text": "Yams Oriental Medium 40lb $90.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 120,
+      "raw_row_text": "Yams Oriental Large 40lb $120.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 27,
+      "raw_row_text": "Booth Small 40lb. $27.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 27,
+      "raw_row_text": "Jumbo 40lb. $27.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 22,
+      "raw_row_text": "POTATOES 50LB LARGE YELLOW MANITOBA $22.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 19,
+      "raw_row_text": "50LB RUSSET BAG IDAHO $19.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "70 CT RUSSET IDAHO $21.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 30,
+      "raw_row_text": "BUTTER POTATOES ONT $30.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "Red Pepper XL 11LB"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "Yellow Pepper XL 11LB"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": "Orange Pepper XL 11LB"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 38,
+      "raw_row_text": "Green med choice 25LB $38.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 42,
+      "raw_row_text": "GREEN Large choice 25LB $42.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "Zucchini Green MED"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12,
+      "raw_row_text": "MINI CUKE ON $12.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": "GRAPES RED XL Chile"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "KENT MANGOES 6, 7 PERU"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "TOMMY MANGO MEX"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 28,
+      "raw_row_text": "PINEAPPLE 5 AND 6 AMI $28.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12,
+      "raw_row_text": "ENGLISH CUKES large $12.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "SWEET ONIONS COLOSSAL $28.00"
+    }
+  ]
+}

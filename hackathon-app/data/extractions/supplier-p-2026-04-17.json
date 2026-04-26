@@ -1,0 +1,1826 @@
+{
+  "doc_id": "supplier-p-2026-04-17",
+  "supplier": "supplier-p",
+  "date": "2026-04-17",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-p-2026-04-17.pdf",
+  "format": "pdf",
+  "duration_ms": 231117,
+  "row_count": 363,
+  "rows": [
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "APPLE AMBROSIA ALGOMA 72 CT 64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 38,
+      "raw_row_text": "APPLE AMBROSIA BAG VINELAND 12X3 LB 38.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "APPLE COSMIC CRISP RAINIER 45 CT 64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "APPLE COURTLAND ALGOMA 80 CT 54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "APPLE EMPIRE ALGOMA 88 CT 54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 56,
+      "raw_row_text": "APPLE FUJI RAINIER 72 CT 56.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "APPLE FUJI RAINIER 80 CT 58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "APPLE GALA GAUCHO ELEGIDO 100 CT 54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "APPLE GALA GAUCHO ELEGIDO 110 CT 65.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "APPLE GALA GAUCHO ELEGIDO 120 CT 54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 40,
+      "raw_row_text": "APPLE GALA BAG ALGOMA 12X3 LB 40.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "APPLE GALA LOCAL ALGOMA 80 CT 64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 72,
+      "raw_row_text": "APPLE GALA PREMIUM KELSTON 80 CT 72.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 72,
+      "raw_row_text": "APPLE GALA PREMIUM KELSTON 90 CT 72.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 72,
+      "raw_row_text": "APPLE GALA PREMIUM UNIFRUTTI 90 CT 72.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 38,
+      "raw_row_text": "APPLE GOLDEN DELICIOUS BAG ALGOMA 12X3 LB 38.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "APPLE GOLDEN DELICIOUS LOCAL ALGOMA 100 CT 48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 62,
+      "raw_row_text": "APPLE GOLDEN DELICIOUS LOCAL ALGOMA 80 CT 62.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 56,
+      "raw_row_text": "APPLE GRANNY SMITH RAINIER 80 CT 56.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 84,
+      "raw_row_text": "APPLE HONEY CRISP RAINIER 72 CT 84.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 88,
+      "raw_row_text": "APPLE HONEY CRISP LOCAL ALGOMA 72 CT 88.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 80,
+      "raw_row_text": "APPLE HONEY CRISP LOCAL ALGOMA 80 CT 80.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 600,
+      "raw_row_text": "APPLE HONEY CRISP LOCAL ALGOMA 1/2 BIN 600.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "APPLE HONEY CRISP LOCAL BAG ALGOMA 12X3 LB 60.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "APPLE MACINTOSH ALGOMA 88 CT 58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 35,
+      "raw_row_text": "APPLE MACINTOSH VINELAND 12X3 LB 35.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "APPLE PINK LADY RAINIER 80 CT 58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 38,
+      "raw_row_text": "APPLE PINK LADY BAG RAINIER 12X3 LB 38.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 42,
+      "raw_row_text": "APPLE RED DELICIOUS VINELAND 88 CT 42.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 34,
+      "raw_row_text": "APPLE RED DELICIOUS BAG VINELAND 12X3 LB 34.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 40,
+      "raw_row_text": "APPLE RED DELICIOUS LOCAL ALGOMA 100 CT 40.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 40,
+      "raw_row_text": "APPLE RED DELICIOUS LOCAL ALGOMA 113 CT 40.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 380,
+      "raw_row_text": "APPLE RED DELICIOUS LOCAL ALGOMA 1/2 BIN 380.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "APPLE RED DELICIOUS LOCAL GIBSON FARMS 80 CT 52.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "APPLE WILD TWIST RAINIER 45CT 28LB 64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "APPLE WILD TWIST RAINIER 55CT 28LB 64.00"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 20,
+      "raw_row_text": "BLACKBERRIES PARADISE 12X6 OZ 20.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 44,
+      "raw_row_text": "BLUEBERRIES ATHOS 12X6 OZ 44.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 38,
+      "raw_row_text": "BLUEBERRIES PARADISE 12X6 OZ 38.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 84,
+      "raw_row_text": "BLUEBERRIES FRUITIST 12X1 PT 84.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 48,
+      "raw_row_text": "BLUEBERRIES \"SUPER BERRY\" ATHOS 12X6 OZ 48.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 54,
+      "raw_row_text": "ORG. BLUEBERRIES \"SUPER BERRY\" ATHOS 12X6 OZ 54.00"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 48,
+      "raw_row_text": "RASPBERRIES PARADISE 12X6 OZ 48.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 32,
+      "raw_row_text": "STRAWBERRIES CLAM MAIN STREET 8X1 LB 32.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 32,
+      "raw_row_text": "STRAWBERRIES CLAM WELL PICT 8X1 LB 32.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 36,
+      "raw_row_text": "STRAWBERRIES SMUCCIE LOCAL MUCCI 10X340 g 36.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 48,
+      "raw_row_text": "CLEMENTINES BAG LOLA 15X2 LB 48.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 34,
+      "raw_row_text": "CLEMENTINES ORRI 1XX ALFASI FRUIT 7 KG 34.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 32,
+      "raw_row_text": "CLEMENTINES ORRI 1XXX ALFASI FRUIT 7 KG 32.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 25,
+      "raw_row_text": "CLEMENTINES ORRI 1XXX ALFASI FRUIT P.P. 25.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 30,
+      "raw_row_text": "CLEMENTINES STEM&LEAF 1X SINFONIA 7 KG 30.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 30,
+      "raw_row_text": "CLEMENTINES STEM&LEAF 1XX SINFONIA 7 KG 30.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 30,
+      "raw_row_text": "GRAPEFRUIT DALTEX 48 CT 30.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 30,
+      "raw_row_text": "GRAPEFRUIT DALTEX 50/55 CT 30.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 30,
+      "raw_row_text": "GRAPEFRUIT JANA FRESH 50/55 CT 30.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 30,
+      "raw_row_text": "GRAPEFRUIT JANA FRESH 36 CT 30.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 44,
+      "raw_row_text": "GRAPEFRUIT PCA 32 CT 44.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 26,
+      "raw_row_text": "GRAPEFRUIT BAG JANA FRESH 8X3 LB 26.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMONS 100CT ALLIANCE 15 KG 38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMONS 113CT ALLIANCE 15 KG 38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 40,
+      "raw_row_text": "LEMONS CHOICE PCA 95 CT 40.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 45,
+      "raw_row_text": "LEMONS CHOICE PCA 115 CT 45.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMONS CHOICE 100CT ALLIANCE 15 KG 38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMONS CHOICE 113CT ALLIANCE 15 KG 38.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 42,
+      "raw_row_text": "LEMONS FANCY PARAMOUNT 75 CT 42.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 42,
+      "raw_row_text": "LEMONS FANCY PCA 75 CT 42.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 105,
+      "raw_row_text": "LIMES CARDELA 175 CT 105.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 105,
+      "raw_row_text": "LIMES CARDELA 200 CT 105.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 105,
+      "raw_row_text": "LIMES CARDELA 230 CT 105.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGES 113CT JANA FRESH 15 KG 24.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 44,
+      "raw_row_text": "ORANGES CARA CARA WONDERFUL 48 CT 44.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 36,
+      "raw_row_text": "ORANGES FANCY PARAMOUNT 40 CT 36.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 38,
+      "raw_row_text": "ORANGES FANCY PARAMOUNT 48 CT 38.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 40,
+      "raw_row_text": "ORANGES FANCY PARAMOUNT 72 CT 40.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 48,
+      "raw_row_text": "ORANGES MINNEOLA PARAMOUNT 56 CT 48.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 22,
+      "raw_row_text": "ORANGES OPEN TOP JANA FRESH 40 CT 22.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 22,
+      "raw_row_text": "ORANGES VALENCIA JUICE JANA FRESH 88 CT 22.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGES VALENCIA JUICE JANA FRESH 113 CT 24.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 22,
+      "raw_row_text": "ORANGES VALENCIA JUICE JANA FRESH 100 CT 22.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 40,
+      "raw_row_text": "ORANGES VALENCIA JUICE ROYAL CROWN 100 CT 40.00"
+    },
+    {
+      "commodity": "CACTUS PEARS",
+      "cost": 18,
+      "raw_row_text": "CACTUS PEARS TRAY-PACK COLGREENS 3X3 CT 18.00"
+    },
+    {
+      "commodity": "GUAVA",
+      "cost": 85,
+      "raw_row_text": "GUAVA FRUIT DOUBLE GREEN CASE 85.00"
+    },
+    {
+      "commodity": "BITTER MELON",
+      "cost": 44,
+      "raw_row_text": "INDIAN BITTER MELON BAYSHORE 30 LB 44.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 16,
+      "raw_row_text": "MANGO MINGOLO DSD 2 KG 16.00"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": 38,
+      "raw_row_text": "PAPAYAS MAGDALENA 9 CT 38.00"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": 38,
+      "raw_row_text": "PAPAYAS MAGDALENA 12 CT 38.00"
+    },
+    {
+      "commodity": "PAPAYAS",
+      "cost": 38,
+      "raw_row_text": "PAPAYAS TROPICAL 12 CT 38.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 64,
+      "raw_row_text": "GRAPES COTTON CANDY FRUTERA LINDEROS XL 64.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 36,
+      "raw_row_text": "GRAPES COTTON CANDY CLAMS FRUTERA LINDEROS 10X1 LB 36.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 80,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP QUELENS 2J 80.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 74,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP SANTA ELENA 2J 74.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 70,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP SANTA ELENA JMB 70.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 84,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP 3J 84.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 84,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP TOCORNAL 3J 84.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 90,
+      "raw_row_text": "GRAPES GREEN AUTUMN CRISP TOCORNAL 4J 90.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 60,
+      "raw_row_text": "GRAPES MUSCAT BEAUTY SANTA ELENA 16 LB 60.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 40,
+      "raw_row_text": "GRAPES MUSCAT BEAUTY CLAM SANTA ELENA 10X1 LB 40.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 60,
+      "raw_row_text": "GRAPES RED JACKS SALUTE SANTA ELENA JMB 60.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 60,
+      "raw_row_text": "GRAPES RED KRISSY SANTA ELENA 2J 60.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 47.8,
+      "raw_row_text": "GRAPES RED SEEDLESS EXSER XL 47.80"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 56,
+      "raw_row_text": "GRAPES RED SWEET CELEBRATION QUELEN FRUIT JMB 56.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 28,
+      "raw_row_text": "CANTALOUPE DEL LAGO 9 CT 28.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 26,
+      "raw_row_text": "CANTALOUPE DEL LAGO 12 CT 26.00"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 30,
+      "raw_row_text": "CANTALOUPE JUMBO DELLAGO 9 CT 30.00"
+    },
+    {
+      "commodity": "HONEYDEWS",
+      "cost": 35,
+      "raw_row_text": "HONEYDEWS DP 6 CT 35.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 400,
+      "raw_row_text": "WATERMELON SEEDLESS BIN GROWERALLIANCE 80 CT 400.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 400,
+      "raw_row_text": "WATERMELON SEEDLESS BIN TRIPPPLE 80 CT 400.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 320,
+      "raw_row_text": "WATERMELON SEEDLESS BIN PICACHO 36 CT 320.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 400,
+      "raw_row_text": "WATERMELON SEEDLESS BIN TRIPPLE 60 CT 400.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 400,
+      "raw_row_text": "WATERMELON SEEDLESS BIN TRIPPPLE 60 CT 400.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 38,
+      "raw_row_text": "PEAR ABATE GAUCHO ELEGIDO 30CT 9KG 38.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 38,
+      "raw_row_text": "PEAR ABATE GAUCHO ELEGIDO 35CT 9KG 38.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 36,
+      "raw_row_text": "PEAR ABATE GAUCHO ELEGIDO 40CT 9KG 36.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 28,
+      "raw_row_text": "PEAR ABATE OPERA 16 CT 28.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 64,
+      "raw_row_text": "PEAR ANJOU GAUCHO 70 CT 64.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 54,
+      "raw_row_text": "PEAR ANJOU FANCY RAINIER 100 CT 54.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 64,
+      "raw_row_text": "PEAR BARTLETT GAUCHO 70CT 40LB 64.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 58,
+      "raw_row_text": "PEAR BARTLETT GAUCHO 80CT 40LB 58.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 52,
+      "raw_row_text": "PEAR BARTLETT GAUCHO ELEGIDO 90CT 40LB 52.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 50,
+      "raw_row_text": "PEAR BARTLETT GAUCHO ELEGIDO 100CT 40LB 50.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR BOSC APPLE A DAY 52CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR BOSC APPLE A DAY 60CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 32,
+      "raw_row_text": "PEAR BOSC APPLE A DAY 70CT 28LB 32.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 58,
+      "raw_row_text": "PEAR BOSC BLUE STAR 70CT 40LB 58.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 62,
+      "raw_row_text": "PEAR BOSC GAUCHO 70CT 40LB 62.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 58,
+      "raw_row_text": "PEAR BOSC GAUCHO 80CT 40LB 58.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 54,
+      "raw_row_text": "PEAR BOSC GAUCHO ELEGIDO 90CT 40LB 54.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 50,
+      "raw_row_text": "PEAR BOSC GAUCHO ELEGIDO 100CT 40LB 50.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 48,
+      "raw_row_text": "PEAR BOSC GAUCHO ELEGIDO 110CT 40LB 48.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR CHEEKY DUTOIT 45CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR CHEEKY DUTOIT 60CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR CHEEKY DUTOIT 70CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 34,
+      "raw_row_text": "PEAR CHEEKY DUTOIT 80CT 28LB 34.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE 60 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE TULPIESKRAAL 60 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE 70 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE TULPIESKRAAL 70 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE 80 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 45,
+      "raw_row_text": "PEAR FORELLE TULPIESKRAAL 80 CT 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 44,
+      "raw_row_text": "PEAR ROCHA ROCHINHA 70/75 CT 44.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 44,
+      "raw_row_text": "PEAR ROCHA ROCHINHA 75/80 CT 44.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "PEAR ROCHA BAGS LA PORTUG 10X2.5 LB 40.00"
+    },
+    {
+      "commodity": "CHERRIES",
+      "cost": 155,
+      "raw_row_text": "CHERRIES 10 ROW DELTA 16 LB 155.00"
+    },
+    {
+      "commodity": "CHERRIES",
+      "cost": 175,
+      "raw_row_text": "CHERRIES 9 ROW DELTA 16 LB 175.00"
+    },
+    {
+      "commodity": "CHERRIES",
+      "cost": 165,
+      "raw_row_text": "CHERRIES 9.5 ROW DELTA 16 LB 165.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 46,
+      "raw_row_text": "PLUM BLACK 50/55 ALESSANDRINI 9 KG 46.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 46,
+      "raw_row_text": "PLUM BLACK CLAMSHELL ROYAL 10X2 LB 46.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 34,
+      "raw_row_text": "PLUM BLACK CLAMSHELL ROYAL 8X2 LB 34.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 36,
+      "raw_row_text": "PLUM RED V/F ALLESANDRINI 50/55 CT 36.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 60,
+      "raw_row_text": "AVOCADOS 32 CT 60.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 60,
+      "raw_row_text": "AVOCADOS ST CARLOS 32 CT 60.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 60,
+      "raw_row_text": "AVOCADOS ST CARLOS 40 CT 60.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 58,
+      "raw_row_text": "AVOCADOS ST CARLOS 48 CT 58.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 56,
+      "raw_row_text": "AVOCADOS ST CARLOS 60 CT 56.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 45,
+      "raw_row_text": "AVOCADOS BAG LOS MIGUELES 14X6 CT 45.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 48,
+      "raw_row_text": "AVOCADOS BAG ST CARLOS 14X6 CT 48.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 56,
+      "raw_row_text": "AVOCADOS BAG ST CARLOS 14X5 CT 56.00"
+    },
+    {
+      "commodity": "DATES",
+      "cost": 60,
+      "raw_row_text": "DATES FRESH CLAMS ATHOS 12X320 g 60.00"
+    },
+    {
+      "commodity": "DATES",
+      "cost": 32,
+      "raw_row_text": "DATES FRESH ON BRANCH ATHOS 2 KG 32.00"
+    },
+    {
+      "commodity": "DRAGON FRUIT",
+      "cost": 36,
+      "raw_row_text": "DRAGON FRUIT RED 10CT CAMPOSOL 10 LB 36.00"
+    },
+    {
+      "commodity": "DRAGON FRUIT",
+      "cost": 36,
+      "raw_row_text": "DRAGON FRUIT RED 8CT CAMPOSOL 10 LB 36.00"
+    },
+    {
+      "commodity": "DRAGON FRUIT",
+      "cost": 40,
+      "raw_row_text": "DRAGON FRUIT YELLOW ETNICO 2.5 KG 40.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 10,
+      "raw_row_text": "FIGS BLACK TRAY ATHOS 12CT 600g 10.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 10,
+      "raw_row_text": "FIGS BLACK TRAY ATHOS 14CT 600g 10.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 10,
+      "raw_row_text": "FIGS BLACK TRAY ATHOS 16CT 600g 10.00"
+    },
+    {
+      "commodity": "FIGS",
+      "cost": 13,
+      "raw_row_text": "FIGS BROWN LACARINI 3X8 CT 13.00"
+    },
+    {
+      "commodity": "GOLDEN BERRIES",
+      "cost": 32,
+      "raw_row_text": "GOLDEN BERRIES CLAMS ATHOS 12X200 g 32.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 48,
+      "raw_row_text": "KIWI CLAM JINGOLD 10X600 g 48.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 50,
+      "raw_row_text": "KIWI V/F 25s JINGOLD 9 KG 50.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 17,
+      "raw_row_text": "MANGO ATAULFO BRUNA 16 CT 17.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 17,
+      "raw_row_text": "MANGO ATAULFO BRUNA 18 CT 17.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 26,
+      "raw_row_text": "MANGO BABY 2 KG 26.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 16,
+      "raw_row_text": "MANGO HADEN BRUNA 10 CT 16.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 16,
+      "raw_row_text": "MANGO HADEN BRUNA 12 CT 16.00"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 50,
+      "raw_row_text": "MANGO TREE-RIPE PERU 6 KG 50.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 26,
+      "raw_row_text": "PERSIMMON FUYU MBR 16 CT 26.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 8,
+      "raw_row_text": "PERSIMMON FUYU SITIO KAWABATA 5 CT 8.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 8,
+      "raw_row_text": "PERSIMMON FUYU SITIO KAWABATA 6 CT 8.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 7,
+      "raw_row_text": "PERSIMMON FUYU SITIO KAWABATA 7 CT 7.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 7,
+      "raw_row_text": "PERSIMMON FUYU SITIO KAWABATA 8 CT 7.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 26,
+      "raw_row_text": "PERSIMMON FUYU TROP CAN 14 CT 26.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 26,
+      "raw_row_text": "PERSIMMON FUYU TROP CAN 18 CT 26.00"
+    },
+    {
+      "commodity": "PERSIMMONS",
+      "cost": 26,
+      "raw_row_text": "PERSIMMON FUYU TROPICANA 18 CT 26.00"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 28,
+      "raw_row_text": "PINEAPPLE PERFECT 6 CT 28.00"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 25,
+      "raw_row_text": "PINEAPPLE PERFECT 8 CT 25.00"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 28,
+      "raw_row_text": "PINEAPPLE CROWNLESS SIZE 6s PERFECT 8 CT 28.00"
+    },
+    {
+      "commodity": "PINEAPPLE",
+      "cost": 25,
+      "raw_row_text": "PINEAPPLE GOLDEN 6 CT 25.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 24,
+      "raw_row_text": "POMEGRANATE INCA 8 CT 24.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 24,
+      "raw_row_text": "POMEGRANATE INCA 9 CT 24.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 24,
+      "raw_row_text": "POMEGRANATE SIEMBRA ALTA 7 CT 24.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 20,
+      "raw_row_text": "POMEGRANATE SIEMBRA ALTA 10 CT 20.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 20,
+      "raw_row_text": "POMEGRANATE SIEMBRA ALTA 12 CT 20.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 18,
+      "raw_row_text": "POMEGRANATE INCA 14 CT 18.00"
+    },
+    {
+      "commodity": "POMEGRANATE",
+      "cost": 18,
+      "raw_row_text": "POMEGRANATE SIEMBRA ALTA 14 CT 18.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 15,
+      "raw_row_text": "CUCUMBERS ENGLISH LARGE GOMES CASE 15.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 9,
+      "raw_row_text": "CUCUMBERS ENGLISH MEDIUM POLICELLA CASE 9.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12.5,
+      "raw_row_text": "CUCUMBERS ENGLISH MEDIUM TOPLINE CASE 12.50"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 9,
+      "raw_row_text": "CUCUMBERS ENGLISH SMALL GOMES CASE 9.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 10,
+      "raw_row_text": "CUCUMBERS ENGLISH SMALL TOPLINE CASE 10.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 21,
+      "raw_row_text": "CUCUMBERS MINI FARM FRESH 12X6 CT 21.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 20,
+      "raw_row_text": "CUCUMBERS MINI SUNSET 20 LB 20.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 32,
+      "raw_row_text": "EGGPLANT BABY TOPLINE CASE 32.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 40,
+      "raw_row_text": "EGGPLANT OPEN TOP GREEN POINT 18 CT 40.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 40,
+      "raw_row_text": "EGGPLANT V/F FRESH FARMS 24 CT 40.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 42,
+      "raw_row_text": "EGGPLANT V/F GREENPOINT 24 CT 42.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 94,
+      "raw_row_text": "GARLIC PURPLE EKSA EURO 30 LB 94.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 20,
+      "raw_row_text": "ONION RED JUMBO BAG BLUE BABY 25 LB 20.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 20,
+      "raw_row_text": "ONION RED JUMBO BAG LADY O RED 25 LB 20.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": "ONION SPANISH COLOSSAL BAG BLUE BABY 50 LB 34.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": "ONION SPANISH COLOSSAL BAG MISTER P 50 LB 34.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 32,
+      "raw_row_text": "ONION SPANISH JUMBO RIO RICO 50 LB 32.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 46,
+      "raw_row_text": "ONION SUPER SWEET MAYAN SWEET 40 LB 46.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": "ONION WHITE JUMBO MISTER P 25 LB 34.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 25,
+      "raw_row_text": "ZUCCHINI FANCY AGRO FESA 22 LB 25.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 25,
+      "raw_row_text": "ZUCCHINI FANCY FARMERS BEST 22 LB 25.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 25,
+      "raw_row_text": "ZUCCHINI FANCY GREEN POINT 22 LB 25.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 26,
+      "raw_row_text": "ZUCCHINI FANCY GREENPOINT 22 LB 26.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 15,
+      "raw_row_text": "ZUCCHINI FANCY ROBINSON FRESH 22 LB 15.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 29,
+      "raw_row_text": "ZUCCHINI GREY SQUASH FANCY SUNFED 22 LB 29.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 29,
+      "raw_row_text": "ZUCCHINI GREY SQUASH FANCY TRIPPPLE 22 LB 29.00"
+    },
+    {
+      "commodity": "OKRA",
+      "cost": 50,
+      "raw_row_text": "OKRA BULK INDIAN DOUBLE GREEN 6 KG 50.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 48,
+      "raw_row_text": "RADISH DAIKON DOUBLE GREEN CASE 48.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 42,
+      "raw_row_text": "KALE GREEN JJ LOOP 24 CT 42.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 16,
+      "raw_row_text": "LETT. LIVING GREEN BUTTERHEAD MUCCI 12X1 CT 16.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 16,
+      "raw_row_text": "LETT. NAKED GR.LEAF BUTTERHEAD MUCCI 8X2 CT 16.00"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 42,
+      "raw_row_text": "LETTUCE ENDIVE OCEAN MIST CASE 42.00"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": 62,
+      "raw_row_text": "LETTUCE ESCAROLE OCEAN MIST CASE 62.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 36,
+      "raw_row_text": "LETTUCE GREEN LEAF ANDY BOY 24 CT 36.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 105,
+      "raw_row_text": "LETTUCE HEAD JUMBO OCEAN MIST 30 CT 105.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 98,
+      "raw_row_text": "LETTUCE HEAD WRAPPED ANDY BOY 24 CT 98.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 94,
+      "raw_row_text": "LETTUCE HEAD WRAPPED BENGARD 24 CT 94.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 95,
+      "raw_row_text": "LETTUCE HEAD WRAPPED ROTH FARM 24 CT 95.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 42,
+      "raw_row_text": "LETTUCE LITTLE GEM ANDY BOY 14X3 CT 42.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 16,
+      "raw_row_text": "LETTUCE NAKED LEAF BOSTON MIX MUCCI 8X2 CT 16.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 16,
+      "raw_row_text": "LETTUCE NAKED LEAF TRIO MUCCI 8X2 CT 16.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 34,
+      "raw_row_text": "LETTUCE RED LEAF ANDY BOY 24 CT 34.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 56,
+      "raw_row_text": "ROMAINE HEART ANDY BOY 7X6 CT 56.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 56,
+      "raw_row_text": "ROMAINE HEART BENGARD 7X6 CT 56.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 56,
+      "raw_row_text": "ROMAINE HEART OCEAN MIST 7X6 CT 56.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 48,
+      "raw_row_text": "ROMAINE HEART ANDY BOY 12X3 CT 48.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 46,
+      "raw_row_text": "ROMAINE HEART BENGARD 12X3 CT 46.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 45,
+      "raw_row_text": "ROMAINE LETTUCE ANDY BOY 24 CT 45.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 44,
+      "raw_row_text": "ROMAINE LETTUCE BENGARD 24 CT 44.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 17,
+      "raw_row_text": "ROMAINE LETTUCE LOCAL MUCCI 24 CT 17.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 38,
+      "raw_row_text": "SPINACH BUNCHED BENGARD 24 CT 38.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 38,
+      "raw_row_text": "SPINACH BUNCHED CONTENDER 24 CT 38.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "MUSHROOMS BROWN CELLO ONT 12X8 OZ 19.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 13,
+      "raw_row_text": "MUSHROOMS BROWN SHIMEGI N/A 40X150 g 13.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "MUSHROOMS BROWN SLICED N/A 5 LB 16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "MUSHROOMS BROWN SLICED ONT 12X8 OZ 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "MUSHROOMS BUTTON BROWN ONT 5 LB 16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "MUSHROOMS BUTTON WHITE ONT 5 LB 16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15,
+      "raw_row_text": "MUSHROOMS CREMINI ONT 5 LB 15.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 24,
+      "raw_row_text": "MUSHROOMS KING OYSTER BOX ONT 3 LB 24.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 35,
+      "raw_row_text": "MUSHROOMS KING OYSTER CELLO ONT 10X400 g 35.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 17,
+      "raw_row_text": "MUSHROOMS MAITAKE ONT 6X150 g 17.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 13,
+      "raw_row_text": "MUSHROOMS OYSTER ONT 2 LB 13.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 62,
+      "raw_row_text": "MUSHROOMS PORCINI ONT 1 LB 62.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 12,
+      "raw_row_text": "MUSHROOMS PORTOBELLINI ONT 3 LB 12.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "MUSHROOMS PORTOBELLO ONT 5 LB 19.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "MUSHROOMS PORTOBELLO CAP N/A 6X12 OZ 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "MUSHROOMS SHITAKE MEDIUM ONT 3 LB 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 25,
+      "raw_row_text": "MUSHROOMS SHITAKE XL ONT 3 LB 25.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "MUSHROOMS SLICED PORTOBELLO N/A 8X6 OZ 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15,
+      "raw_row_text": "MUSHROOMS SLICED THICK ONT 5 LB 15.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15,
+      "raw_row_text": "MUSHROOMS SLICED THIN ONT 5 LB 15.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 17,
+      "raw_row_text": "MUSHROOMS SLICED THIN PAI ONT 5 LB 17.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14,
+      "raw_row_text": "MUSHROOMS STUFFER ONT 5 LB 14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14,
+      "raw_row_text": "MUSHROOMS WHITE ONT 5 LB 14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "MUSHROOMS WHITE CELLO ONT 12X8 OZ 19.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14,
+      "raw_row_text": "MUSHROOMS WHITE SELECT #1 ONT 5 LB 14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 50,
+      "raw_row_text": "MUSHROOMS WHITE SHIMEGI N/A 40X150 g 50.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 13,
+      "raw_row_text": "MUSHROOMS WHITE SHIMEGI N/A 6X150 g 13.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "MUSHROOMS WHITE SLICED ONT 12X8 OZ 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 11,
+      "raw_row_text": "MUSHROOMS WHITE UTILITY ONT 5 LB 11.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 80,
+      "raw_row_text": "POTATO RED MINI BOX ANNIES BEST 50 LB 80.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 60,
+      "raw_row_text": "POTATO WHITE A BOX SUNKING 50 LB 60.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 45,
+      "raw_row_text": "POTATO WHITE B BAG SUNKING 50 LB 45.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 60,
+      "raw_row_text": "POTATO WHITE CHEF BOX SUNKING 50 LB 60.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 4.95,
+      "raw_row_text": "POTATO YUKON TF 10 LB 4.95"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 58,
+      "raw_row_text": "POTATO YUKON A BOX SUNKING 50 LB 58.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 58,
+      "raw_row_text": "POTATO YUKON CHEF BOX SUNKING 50 LB 58.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 80,
+      "raw_row_text": "POTATO YUKON MINI BOX FRESH PICK 50 LB 80.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 48,
+      "raw_row_text": "YAMS SWEET POTATO #1 FIFTH GENERATION 40 LB 48.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 48,
+      "raw_row_text": "YAMS SWEET POTATO #1 MRF 40 LB 48.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 32,
+      "raw_row_text": "YAMS SWEET POTATO COMMERCIAL HOG WILD 40 LB 32.00"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 32,
+      "raw_row_text": "YAMS SWEET POTATO JUMBO HOG WILD 40 LB 32.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 115,
+      "raw_row_text": "PEPPER GREEN CHILI DSD CASE 115.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 68,
+      "raw_row_text": "PEPPER GREEN JUMBO BUSHEL SUNSATION 1-1/9 68.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 78,
+      "raw_row_text": "PEPPER GREEN LOCAL BUSHEL GREENHOUSE 1-1/9 78.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 48,
+      "raw_row_text": "PEPPER MINI SWEET BAG MUCCI 12X1 LB 48.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "PEPPER ORANGE RUSTICO MUCCI 11 LB 32.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 38,
+      "raw_row_text": "PEPPER ORANGE XL MUCCI 11 LB 38.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "PEPPER RED RUSTICO MUCCI 11 LB 34.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 38,
+      "raw_row_text": "PEPPER RED XXL CK 11 LB 38.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 38,
+      "raw_row_text": "PEPPER RED XXL MUCCI 11 LB 38.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 82,
+      "raw_row_text": "PEPPER THAI CHILI DOUBLE GREEN 30 LB 82.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "PEPPER YELLOW RUSTICO MUCCI 11 LB 32.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 38,
+      "raw_row_text": "PEPPER YELLOW XXL MUCCI 11 LB 38.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 30,
+      "raw_row_text": "SQUASH ACORN FRESH FARMS CASE 30.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 30,
+      "raw_row_text": "SQUASH BUTTERNUT GREENPOINT CASE 30.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 44,
+      "raw_row_text": "SQUASH KABOCHA HERMOSILLO CASE 44.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 33,
+      "raw_row_text": "SQUASH SPAGHETTI FRESH FARMS CASE 33.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 42,
+      "raw_row_text": "TOMATO CHERRY KINDRED ON VINE MUCCI 8X12 OZ 42.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 32,
+      "raw_row_text": "TOMATO CHERRY ON THE VINE MUCCI 8X12 OZ 32.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 42,
+      "raw_row_text": "TOMATO CLUSTER MUCCI 11 LB 42.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 44,
+      "raw_row_text": "TOMATO CLUSTER SUNSET 11 LB 44.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 44,
+      "raw_row_text": "TOMATO CLUSTER TOPLINE 11 LB 44.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "TOMATO GOURMET MEDLEY MUCCI 12X1 PT 38.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "TOMATO GRAPE CHERRY FRESH FARMS 12X1 PT 36.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 40,
+      "raw_row_text": "TOMATO HEIRLOOM MUCCI 10 LB 40.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 54,
+      "raw_row_text": "TOMATO HOTHOUSE SONNY 28 CT 54.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 58,
+      "raw_row_text": "TOMATO HOTHOUSE SUNSET 22 CT 58.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 76,
+      "raw_row_text": "TOMATO ROMA EXTRA LARGE RENE 25 LB 76.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 78,
+      "raw_row_text": "TOMATO ROMA JUMBO FRESH FARMS 25 LB 78.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 78,
+      "raw_row_text": "TOMATO ROMA JUMBO MASTERS TOUCH 25 LB 78.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 30,
+      "raw_row_text": "TOMATO SAPORI MUCCI 10X1 LB 30.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 22,
+      "raw_row_text": "TOMATO SAVORRIES MUCCI 8X12 OZ 22.00"
+    },
+    {
+      "commodity": "FENNEL",
+      "cost": 54,
+      "raw_row_text": "ANISE/FENNEL ANDY BOY 18 CT 54.00"
+    },
+    {
+      "commodity": "ARTICHOKES",
+      "cost": 50,
+      "raw_row_text": "ARTICHOKES ANDY BOY 12 CT 50.00"
+    },
+    {
+      "commodity": "ARTICHOKES",
+      "cost": 62,
+      "raw_row_text": "ARTICHOKES OCEAN MIST 30 CT 62.00"
+    },
+    {
+      "commodity": "ARTICHOKES",
+      "cost": 32,
+      "raw_row_text": "ARTICHOKES PURPLE OCEAN MIST 18 CT 32.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 74,
+      "raw_row_text": "ASPARAGUS LARGE MELON ACRES 11 LB 74.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 74,
+      "raw_row_text": "ASPARAGUS LARGE R & A 11 LB 74.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 48,
+      "raw_row_text": "BEANS FRENCH BAG BORN 14X400 g 48.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 55,
+      "raw_row_text": "BEANS GREEN 5 BROTHERS 25 LB 55.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 60,
+      "raw_row_text": "BEANS YELLOW/WAX 5 BROTHERS 15 LB 60.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 44,
+      "raw_row_text": "BEET RED BUNCHED JJ LOOP 24 CT 44.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 78,
+      "raw_row_text": "BROCCOLI ANDY BOY 18 CT 78.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 78,
+      "raw_row_text": "BROCCOLI BENGARD 18 CT 78.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 42,
+      "raw_row_text": "BROCCOLI CROWNS ASIAN CUT JI PING 20 LB 42.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 42,
+      "raw_row_text": "BROCCOLI CROWNS ASIAN CUT STERLING 20 LB 42.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 20,
+      "raw_row_text": "BROCCOLI FLORETTES 20 LB 20.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "BROCCOLI SWEET BABY ANDY BOY 18 CT 44.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 42,
+      "raw_row_text": "CAULIFLOWER NATURES REWARD 9 CT 42.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 42,
+      "raw_row_text": "CAULIFLOWER OCEAN MIST 12 CT 42.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 56,
+      "raw_row_text": "CELERY DANDY 24 CT 56.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 64,
+      "raw_row_text": "CELERY OCEAN MIST 24 CT 64.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 54,
+      "raw_row_text": "CELERY SLEEVED DANDY 24 CT 54.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 54,
+      "raw_row_text": "CELERY SLEEVED OCEAN MIST 30 CT 54.00"
+    },
+    {
+      "commodity": "COLLARDS",
+      "cost": 30,
+      "raw_row_text": "COLLARDS JJ LOOP 24 CT 30.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 110,
+      "raw_row_text": "CORN BI-COLOUR ROUGE RIVER 48 CT 110.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 110,
+      "raw_row_text": "CORN BI-COLOUR WILKINSON COOPER 48 CT 110.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 46,
+      "raw_row_text": "LEEKS BUNCHED OCEAN MIST 12 CT 46.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 16,
+      "raw_row_text": "LETTUCE NAKED GREEN LEAF MUCCI 8X2 CT 16.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 38,
+      "raw_row_text": "ONION GREEN ICED R & A 48 CT 38.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 38,
+      "raw_row_text": "ONION GREEN ICED ROADRUNNER 48 CT 38.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 39,
+      "raw_row_text": "ONION GREEN ICELESS ALTAR 2X24 CT 39.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 39,
+      "raw_row_text": "ONION GREEN ICELESS R & A 2X24 CT 39.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 39,
+      "raw_row_text": "ONION GREEN ICELESS ROADRUNNER 2X24 CT 39.00"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 72,
+      "raw_row_text": "RAPINI ANDY BOY 26 CT 72.00"
+    },
+    {
+      "commodity": "BRUSSEL SPROUTS",
+      "cost": 56,
+      "raw_row_text": "SPROUT BRUSSEL BULK FALSTAFF 25 LB 56.00"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 48,
+      "raw_row_text": "SWISS CHARD GREEN JJ LOOP 24 CT 48.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 27,
+      "raw_row_text": "SPINACH BABY SALAD FARM 5X2 LB 27.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 56,
+      "raw_row_text": "CILANTRO/CORRIANDER MRS LEAF 60 CT 56.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 28,
+      "raw_row_text": "CILANTRO/CORRIANDER ST CARLOS 24 CT 28.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 35,
+      "raw_row_text": "PARSLEY CURLY (5 DZN) JJ LOOP 60 CT 35.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 35,
+      "raw_row_text": "PARSLEY ITALIAN PLAIN (5 DZN) JJ LOOP 60 CT 35.00"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 30,
+      "raw_row_text": "BASIL CLAM LOVIN' FRESH 12X65 g 30.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 36,
+      "raw_row_text": "DILLWEED JJ LOOP 24 CT 36.00"
+    },
+    {
+      "commodity": "METHI",
+      "cost": 24,
+      "raw_row_text": "METHI BAYSHORE CASE 24.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 37,
+      "raw_row_text": "GINGER FRESH GINGER 30 LB 37.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 24,
+      "raw_row_text": "GINGER JENGIBRE 30 LB 24.00"
+    }
+  ]
+}

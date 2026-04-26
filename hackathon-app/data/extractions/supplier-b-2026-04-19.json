@@ -1,0 +1,376 @@
+{
+  "doc_id": "supplier-b-2026-04-19",
+  "supplier": "supplier-b",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-b-2026-04-19.redacted.pdf",
+  "format": "pdf",
+  "duration_ms": 41109,
+  "row_count": 73,
+  "rows": [
+    {
+      "commodity": "POTATOES",
+      "cost": 4,
+      "raw_row_text": "10 lb White $4.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 3,
+      "raw_row_text": "10 lb Russet $3.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 4,
+      "raw_row_text": "10 lb Red $4.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 4,
+      "raw_row_text": "10 lb Yukon/YF $4.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "50 lb Large White $21.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21,
+      "raw_row_text": "50 lb Large Russet $21.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 16.5,
+      "raw_row_text": "50 lb Regular $16.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 75,
+      "raw_row_text": "50 lb Fingerling $75.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 22,
+      "raw_row_text": "50 lb Yukon $22.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 37,
+      "raw_row_text": "50 lb \"A\" Red $37.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "50 lb \"B\" Red N/A"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "50 lb \"C\" Red N/A"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 37,
+      "raw_row_text": "50 lb \"A\" White $37.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 25,
+      "raw_row_text": "50 lb \"B\" White $25.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "50 lb \"C\" White N/A"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 37,
+      "raw_row_text": "50 lb \"A\" Yellow $37.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "50 lb \"C\" Yellow N/A"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 42,
+      "raw_row_text": "25 lb Fingerling $42.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 29,
+      "raw_row_text": "50 lb Bakers 60's $29.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 29,
+      "raw_row_text": "50 lb Bakers 70's $29.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 28,
+      "raw_row_text": "50 lb Bakers 80's $28.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 25,
+      "raw_row_text": "50 lb Bakers 90's $25.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 24,
+      "raw_row_text": "50 lb Bakers 100's $24.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 30,
+      "raw_row_text": "Vanco \"B\" Red $30.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 25,
+      "raw_row_text": "Vanco \"B\" Yellow $25.00"
+    },
+    {
+      "commodity": "PEI POTATOES",
+      "cost": 23,
+      "raw_row_text": "50 lb Yellow Fresh $23.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 35,
+      "raw_row_text": "50 lb Jumbo Carrot $35.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": null,
+      "raw_row_text": "50 lb Super Jumbo Carrot N/A"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 32,
+      "raw_row_text": "25 lb Red Carrot $32.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 9.5,
+      "raw_row_text": "10 lb Carrot $9.50"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 49,
+      "raw_row_text": "10/5 lb Carrot $49.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 49,
+      "raw_row_text": "16/3 lb Carrot $49.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 49,
+      "raw_row_text": "24/2 lb Carrot $49.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 21,
+      "raw_row_text": "12 Size Green $21.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 21,
+      "raw_row_text": "16 Size Green $21.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 25,
+      "raw_row_text": "12 Size Red $25.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 25,
+      "raw_row_text": "16 Size Red $25.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": null,
+      "raw_row_text": "Savoy N/A"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": null,
+      "raw_row_text": "50lb Bag Green N/A"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 32,
+      "raw_row_text": "50 lb Spanish Onion $32.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 21,
+      "raw_row_text": "50 lb Large Cooking Onion $21.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": null,
+      "raw_row_text": "50 lb Medium Cooking Onion N/A"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 26,
+      "raw_row_text": "10/5 lb Onion $26.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 26,
+      "raw_row_text": "16/3 lb Onion $26.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 26,
+      "raw_row_text": "24/2 lb Onion $26.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 5,
+      "raw_row_text": "10 lb Large Onion $5.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 3.75,
+      "raw_row_text": "10 lb Med Onions $3.75"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 48,
+      "raw_row_text": "16/3 lb Red Onion $48.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": "24's N/A"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": "48's N/A"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "12 Size N/A"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "9' Size N/A"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 15,
+      "raw_row_text": "25 lb Red Onion $15.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 6,
+      "raw_row_text": "10 lb Med Red Onion $6.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 5.5,
+      "raw_row_text": "10 lb Pre Pak Red Onion $5.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18,
+      "raw_row_text": "10 lb Shallot Onion $18.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": null,
+      "raw_row_text": "25 lb Turnip N/A"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": null,
+      "raw_row_text": "50 lb Large N/A"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 25,
+      "raw_row_text": "25 lb Medium $25.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 25,
+      "raw_row_text": "25 lb Large $25.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 450,
+      "raw_row_text": "Butternut Bin 1000LBS $450.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "Butternut Case N/A"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "Buttercup Bin N/A"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "Buttercup Case N/A"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": null,
+      "raw_row_text": "80 Count N/A"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": null,
+      "raw_row_text": "80 Count Yellow N/A"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "Buttercup Bin N/A"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": null,
+      "raw_row_text": "Butternut Bin N/A"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 34,
+      "raw_row_text": "40 lb #1 Yam $34.00"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 25,
+      "raw_row_text": "40 lb Jumbo Yam $25.00"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 25,
+      "raw_row_text": "40 lb Small Yam $25.00"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 50,
+      "raw_row_text": "40 lb Oriental Yam $50.00"
+    },
+    {
+      "commodity": "SWEET POTATOES",
+      "cost": 40,
+      "raw_row_text": "40 lb Purple Yam $40.00"
+    }
+  ]
+}

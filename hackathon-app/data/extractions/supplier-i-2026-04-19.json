@@ -1,0 +1,2456 @@
+{
+  "doc_id": "supplier-i-2026-04-19",
+  "supplier": "supplier-i",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-i-2026-04-19.pdf",
+  "format": "pdf",
+  "duration_ms": 272538,
+  "row_count": 489,
+  "rows": [
+    {
+      "commodity": "ARTICHOKES",
+      "cost": 49,
+      "raw_row_text": "ARTICHOKES US 24'S 49.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 86,
+      "raw_row_text": "ASPARAGUS WHITE PER 11LBS 86.00*"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 105,
+      "raw_row_text": "WHITE LONG BEAN MEX 30LBS 105.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 52.5,
+      "raw_row_text": "BEETS BABY GOLD US 24'S 52.50*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 52.5,
+      "raw_row_text": "BEETS BABY RED US 24'S 52.50*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 52.5,
+      "raw_row_text": "BEETS BABY STRIPE US 24'S 52.50*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 43,
+      "raw_row_text": "BEETS BUNCH US 12'S 43.00*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 61.5,
+      "raw_row_text": "BEETS BUNCH US 24'S 61.50*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 43,
+      "raw_row_text": "BEETS CDN 50LBS 43.00*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 26.5,
+      "raw_row_text": "BEETS GOLD CDN 25LBS 26.50*"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 26,
+      "raw_row_text": "BEETS MEX 25LBS 26.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 28.5,
+      "raw_row_text": "BEETS STRIPE CDN 25LBS 28.50*"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 53.5,
+      "raw_row_text": "ASPARATION US 18'S 53.50*"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 46,
+      "raw_row_text": "BROCCOLI CROWNS US CASE 46.00*"
+    },
+    {
+      "commodity": "BRUSSELS",
+      "cost": 56.5,
+      "raw_row_text": "BRUSSELS GOURMET US 4X5LBS 56.50*"
+    },
+    {
+      "commodity": "BRUSSELS",
+      "cost": 51,
+      "raw_row_text": "BRUSSELS SPROUTS MEX 25LBS 51.00*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 77.5,
+      "raw_row_text": "CABBAGE FLAT MEX 77.50*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 77.5,
+      "raw_row_text": "CABBAGE FLAT US 77.50*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 24.5,
+      "raw_row_text": "CABBAGE GREEN CDN 12'S 24.50"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 24.5,
+      "raw_row_text": "CABBAGE GREEN CDN 16'S 24.50"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 29.5,
+      "raw_row_text": "CABBAGE RED CDN 12'S 29.50*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 29.5,
+      "raw_row_text": "CABBAGE RED CDN 16'S 29.50*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 32,
+      "raw_row_text": "CABBAGE SAVOY CDN 12'S 32.00*"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 52.5,
+      "raw_row_text": "CABBAGE SOUR CDN 12KG 52.50"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 115,
+      "raw_row_text": "CABBAGE SOUR CDN 18X1KG 115.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 53.5,
+      "raw_row_text": "CARROTS BABY PEELED US 15X2LBS 53.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 53.5,
+      "raw_row_text": "CARROTS BABY PEELED US 30X1LBS 53.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 53.5,
+      "raw_row_text": "CARROTS BABY PEELED US 40X12OZ 53.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 41,
+      "raw_row_text": "CARROTS BABY TOPS US 24'S 41.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 43,
+      "raw_row_text": "CARROTS BABY YELLOW US 24'S 43.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 63.5,
+      "raw_row_text": "CARROTS BUNCHED ORG MEX 24'S 63.50"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 56.5,
+      "raw_row_text": "CARROTS CELLO US 24X2LBS 56.50"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 20.5,
+      "raw_row_text": "CARROTS CH 10KG 20.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 16.25,
+      "raw_row_text": "CARROTS INDIAN CH 10KG 16.25*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 41,
+      "raw_row_text": "CARROTS JUMBO CDN 50LBS 41.00*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 41,
+      "raw_row_text": "CARROTS JUMBO CH 50LBS 41.00*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 48,
+      "raw_row_text": "CARROTS JUMBO MEX 50LBS 48.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 43,
+      "raw_row_text": "CARROTS MATCHTIX US 24X10OZ 43.00*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 45,
+      "raw_row_text": "CARROTS PEELED CDN 22LBS 45.00*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 43,
+      "raw_row_text": "CARROTS ROUND US 24'S 43.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 3.75,
+      "raw_row_text": "CARROTS STICKS US 1LB 3.75"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 24.5,
+      "raw_row_text": "CARROTS TRI COLOR CDN 25LBS 24.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 43,
+      "raw_row_text": "CARROTS TRI COLOR TOPS US 24'S 43.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 32.5,
+      "raw_row_text": "CARROTS VACCUM TRI COLOR 5LBS 32.50*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 26,
+      "raw_row_text": "CARROTS VACUUM GUAT 5LBS 26.00*"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 32.5,
+      "raw_row_text": "CARROTS YELLOW CDN 25LBS 32.50"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 41,
+      "raw_row_text": "CAULIFLOWER US 12'S 41.00*"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 61.5,
+      "raw_row_text": "CELERY STALKS US 24'S 61.50*"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 61.5,
+      "raw_row_text": "CELERY STALKS US 30'S 61.50*"
+    },
+    {
+      "commodity": "BOK CHOY",
+      "cost": 60.5,
+      "raw_row_text": "BOK CHOY BABY MEX 30LBS 60.50*"
+    },
+    {
+      "commodity": "BOK CHOY",
+      "cost": 38.5,
+      "raw_row_text": "BOK CHOY MEX 45LBS 38.50"
+    },
+    {
+      "commodity": "BOK CHOY",
+      "cost": 54,
+      "raw_row_text": "BOK CHOY SHANGHAI MEX 30LBS 54.00*"
+    },
+    {
+      "commodity": "BOK MUI",
+      "cost": 51,
+      "raw_row_text": "BOK MUI MEX 25LBS 51.00"
+    },
+    {
+      "commodity": "CHAYOTTE",
+      "cost": 48,
+      "raw_row_text": "CHAYOTTE CR 16KG 48.00*"
+    },
+    {
+      "commodity": "CHOY SUM",
+      "cost": 48,
+      "raw_row_text": "CHOY SUM US 30LBS 48.00*"
+    },
+    {
+      "commodity": "DAIKON",
+      "cost": 51,
+      "raw_row_text": "DAIKON TOPS LG US 45LBS 51.00"
+    },
+    {
+      "commodity": "DAIKON",
+      "cost": 35.5,
+      "raw_row_text": "DAIKON US 40LBS 35.50"
+    },
+    {
+      "commodity": "EGG ROLL WRAPPER",
+      "cost": 20.5,
+      "raw_row_text": "EGG ROLL WRAPPER CDN 12X1LBS 20.50"
+    },
+    {
+      "commodity": "GAI LAN",
+      "cost": 59.5,
+      "raw_row_text": "GAI LAN MEX 30LBS 59.50*"
+    },
+    {
+      "commodity": "LOTUS ROOT",
+      "cost": 79,
+      "raw_row_text": "LOTTUS ROOT CH 10LBS 79.00*"
+    },
+    {
+      "commodity": "LOTUS ROOT",
+      "cost": 8.5,
+      "raw_row_text": "LOTTUS ROOT PEELED US 1LB 8.50"
+    },
+    {
+      "commodity": "NAPPA",
+      "cost": 51,
+      "raw_row_text": "NAPPA US 45LBS 51.00*"
+    },
+    {
+      "commodity": "OKRA",
+      "cost": 51,
+      "raw_row_text": "OKRA IND NICARAGUA 15LBS 51.00*"
+    },
+    {
+      "commodity": "SHANGHAI MUI",
+      "cost": 64.5,
+      "raw_row_text": "SHANGHAI MUI CDN 25LBS 64.50*"
+    },
+    {
+      "commodity": "SPRING ROLL",
+      "cost": 98,
+      "raw_row_text": "SPRING ROLL CDN 8.5X8.5 98.00*"
+    },
+    {
+      "commodity": "SUNCHOKES",
+      "cost": 50.5,
+      "raw_row_text": "SUNCHOKES FR 20LBS 50.50"
+    },
+    {
+      "commodity": "WINTERMELON",
+      "cost": 35.5,
+      "raw_row_text": "WINTERMELON CASE 35.50"
+    },
+    {
+      "commodity": "WONTON WRAPPER",
+      "cost": 20.5,
+      "raw_row_text": "WONTON WRAPPER CDN 12X1LBS 20.50"
+    },
+    {
+      "commodity": "WONTON WRAPPER",
+      "cost": 50.5,
+      "raw_row_text": "WONTON WRAPPER CDN 24X2LBS 50.50"
+    },
+    {
+      "commodity": "YU CHOY",
+      "cost": 57,
+      "raw_row_text": "YU CHOY CDN 30LBS 57.00*"
+    },
+    {
+      "commodity": "YUCCA",
+      "cost": 49,
+      "raw_row_text": "YUCCA CR 35LBS 49.00*"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 27.5,
+      "raw_row_text": "CORN SHOOT CA TRAY 27.50"
+    },
+    {
+      "commodity": "DRESSING",
+      "cost": 26.5,
+      "raw_row_text": "DRESSING BLUE CHEESE YO 6X12OZ 26.50*"
+    },
+    {
+      "commodity": "DRESSING",
+      "cost": 26.5,
+      "raw_row_text": "DRESSING CILANTRO AVOCA 6X12OZ 26.50*"
+    },
+    {
+      "commodity": "DRESSING",
+      "cost": 26.5,
+      "raw_row_text": "DRESSING CLASSIC RANCH 6X12OZ 26.50*"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 61.5,
+      "raw_row_text": "BLUEBERRIES CASE 61.50"
+    },
+    {
+      "commodity": "GUAVA",
+      "cost": 15.5,
+      "raw_row_text": "GUAVA EGY 1.8KG 15.50*"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 53.5,
+      "raw_row_text": "LEMONS CAL 95'S 53.50*"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 53.5,
+      "raw_row_text": "LEMONS CAL 115'S 53.50*"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 113,
+      "raw_row_text": "LIMES MEX 175'S 113.00*"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 31,
+      "raw_row_text": "PEARS, ASIAN YELLOW 10KG 31.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 31,
+      "raw_row_text": "GARLIC CHINESE 22LB 31.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 18.5,
+      "raw_row_text": "GARLIC CHOPPED CDN 12X140ML 18.50*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 45,
+      "raw_row_text": "GARLIC CRUSHED 8KG 45.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 51,
+      "raw_row_text": "GARLIC ELEPHANT ARG 20 51.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 95,
+      "raw_row_text": "GARLIC ELEPHANT US CASE 95.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 55.5,
+      "raw_row_text": "GARLIC IN OIL US 12X32OZ 55.50"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 105,
+      "raw_row_text": "GARLIC PEELED ARG 4X5LBS 105.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 4.5,
+      "raw_row_text": "GARLIC PEELED BAG CH 3LBS 4.50*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 24.5,
+      "raw_row_text": "GARLIC PEELED CH 6X3LBS 24.50*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 43,
+      "raw_row_text": "GARLIC PEELED US 12X6OZ 43.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 105,
+      "raw_row_text": "GARLIC PURPLE 55X60 SPN 30LBS 105.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 120,
+      "raw_row_text": "GARLIC PURPLE COLOSSAL M 30LBS 120.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 125,
+      "raw_row_text": "GARLIC PURPLE SP COL MEX 30LBS 125.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 105,
+      "raw_row_text": "GARLIC PURPLE SP JUMBO M 30LBS 105.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 24.5,
+      "raw_row_text": "GARLIC WHITE CH 50X3 24.50"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 106,
+      "raw_row_text": "GARLIC WHITE COLOSSAL US 30LBS 106.00*"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 118,
+      "raw_row_text": "GARLIC WHITE US 80X3LBS 118.00*"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 13,
+      "raw_row_text": "GINGER CH 10LBS 13.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 32.5,
+      "raw_row_text": "GINGER CH 30LBS 32.50"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 18.5,
+      "raw_row_text": "GINGER MINCED CDN 12X140ML 18.50*"
+    },
+    {
+      "commodity": "COLLARD GREENS",
+      "cost": 41,
+      "raw_row_text": "COLLARD GREENS TEX 24'S 41.00"
+    },
+    {
+      "commodity": "DANDELION",
+      "cost": 47.5,
+      "raw_row_text": "DANDELION US 24'S 47.50"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 13.75,
+      "raw_row_text": "KALE BABY US 2LBS 13.75*"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 21.5,
+      "raw_row_text": "KALE RED MEDLEY US 2X1.5LB 21.50"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 27.5,
+      "raw_row_text": "KALE RED RUSSIAN CDN 6 CLM 27.50"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 44.5,
+      "raw_row_text": "KALE TEX 24'S 44.50"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 37,
+      "raw_row_text": "KALE TUSCAN US 12'S 37.00"
+    },
+    {
+      "commodity": "KOHLRABI",
+      "cost": 46,
+      "raw_row_text": "KOHLRABI US 12'S 46.00"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 46,
+      "raw_row_text": "RAPINI US 20'S 46.00*"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 48,
+      "raw_row_text": "SWISS CHARD GREEN TEX 24'S 48.00"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 48,
+      "raw_row_text": "SWISS CHARD RED TEX 24'S 48.00"
+    },
+    {
+      "commodity": "AMARANTH",
+      "cost": 27,
+      "raw_row_text": "AMARANTH US 6 27.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 20,
+      "raw_row_text": "ARUGULA BABY QV US 8x5OZ 20.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 23,
+      "raw_row_text": "ARUGULA BABY US 3LB 23.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 17,
+      "raw_row_text": "ARUGULA BABY US 6X4.1OZ 17.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 38.5,
+      "raw_row_text": "ARUGULA, LITTLE BEAR US 24 38.50"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 11.75,
+      "raw_row_text": "BASIL 12 11.75"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 26.5,
+      "raw_row_text": "BASIL CDN 6 CLAM 26.50"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 1.75,
+      "raw_row_text": "BASIL US TUB 1.75"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 18.5,
+      "raw_row_text": "BASIL US 12 TUB 18.50"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 9.25,
+      "raw_row_text": "BASIL US 1X6 TUB 9.25"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 11.5,
+      "raw_row_text": "BASIL, OPAL US 12 11.50"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 26.5,
+      "raw_row_text": "BASIL, OPAL US 6 CLAM 26.50"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 13.25,
+      "raw_row_text": "BASIL, THAI US 12 13.25"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 1.75,
+      "raw_row_text": "BASIL, THAI US TUB 1.75"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 23,
+      "raw_row_text": "BASIL, THAI US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "BAY LEAVES",
+      "cost": 23,
+      "raw_row_text": "BAY LEAVES US 1LB 23.00"
+    },
+    {
+      "commodity": "BAY LEAVES",
+      "cost": 2.25,
+      "raw_row_text": "BAY LEAVES US TUB 2.25"
+    },
+    {
+      "commodity": "BAY LEAVES",
+      "cost": 23,
+      "raw_row_text": "BAY LEAVES US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "BAY LEAVES",
+      "cost": 12.25,
+      "raw_row_text": "BAY LEAVES US 1X6 TUB 12.25"
+    },
+    {
+      "commodity": "CHERVIL",
+      "cost": 2.25,
+      "raw_row_text": "CHERVIL US TUB 2.25"
+    },
+    {
+      "commodity": "CHERVIL",
+      "cost": 23,
+      "raw_row_text": "CHERVIL US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "CHIVES",
+      "cost": 105,
+      "raw_row_text": "CHIVES CH 25LBS 105.00*"
+    },
+    {
+      "commodity": "CHIVES",
+      "cost": 13.25,
+      "raw_row_text": "CHIVES US 12 13.25"
+    },
+    {
+      "commodity": "CHIVES",
+      "cost": 1.75,
+      "raw_row_text": "CHIVES US TUB 1.75"
+    },
+    {
+      "commodity": "CHIVES",
+      "cost": 21.5,
+      "raw_row_text": "CHIVES US 12 TUB 21.50*"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 8.25,
+      "raw_row_text": "CILANTRO 6 8.25*"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 23,
+      "raw_row_text": "CILANTRO US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 16.5,
+      "raw_row_text": "CILANTRO MEX 12 16.50"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 31,
+      "raw_row_text": "CILANTRO MEX 24 31.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 27,
+      "raw_row_text": "CILANTRO SEEDLING CDN CASE 27.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 15.5,
+      "raw_row_text": "CILANTRO US 12 15.50"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 61.5,
+      "raw_row_text": "CILANTRO, LITTLE BEAR US 60'S 61.50*"
+    },
+    {
+      "commodity": "CONFETTI",
+      "cost": 5.25,
+      "raw_row_text": "CONFETTI US CLAMSHELL 5.25"
+    },
+    {
+      "commodity": "CURRY LEAF",
+      "cost": 59.5,
+      "raw_row_text": "CURRY LEAF DR 12LBS 59.50"
+    },
+    {
+      "commodity": "DAIKON SHOOTS",
+      "cost": 27,
+      "raw_row_text": "DAIKON SHOOTS, GREEN US 6 27.00"
+    },
+    {
+      "commodity": "DAIKON SHOOTS",
+      "cost": 27,
+      "raw_row_text": "DAIKON SHOOTS, RED US 6 27.00"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 14,
+      "raw_row_text": "DILLWEED 6 14.00*"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 18.5,
+      "raw_row_text": "DILLWEED CDN 12 18.50*"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 28.5,
+      "raw_row_text": "DILLWEED US 12 28.50*"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 1.75,
+      "raw_row_text": "DILLWEED US TUB 1.75"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 18.5,
+      "raw_row_text": "DILLWEED US 12 TUB 18.50"
+    },
+    {
+      "commodity": "DILLWEED",
+      "cost": 53.5,
+      "raw_row_text": "DILLWEED, LITTLE BEAR US 24 53.50*"
+    },
+    {
+      "commodity": "EDIBLE FLOWERS",
+      "cost": 11.75,
+      "raw_row_text": "EDIBLE FLOWERS 25 11.75"
+    },
+    {
+      "commodity": "EDIBLE ORCHIDS",
+      "cost": 23,
+      "raw_row_text": "EDIBLE ORCHIDS US CASE 23.00"
+    },
+    {
+      "commodity": "LAVENDER",
+      "cost": 2.25,
+      "raw_row_text": "LAVENDER US TUB 2.25"
+    },
+    {
+      "commodity": "LAVENDER",
+      "cost": 23,
+      "raw_row_text": "LAVENDER US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "LEMON BALM",
+      "cost": 2.25,
+      "raw_row_text": "LEMON BALM US TUB 2.25"
+    },
+    {
+      "commodity": "LEMON GRASS",
+      "cost": 13,
+      "raw_row_text": "LEMON GRASS US 1LB 13.00"
+    },
+    {
+      "commodity": "LEMON GRASS",
+      "cost": 2.25,
+      "raw_row_text": "LEMON GRASS US TUB 2.25"
+    },
+    {
+      "commodity": "LEMON GRASS",
+      "cost": 23,
+      "raw_row_text": "LEMON GRASS US 12 TUB 23.00"
+    },
+    {
+      "commodity": "LEMON THYME",
+      "cost": 2.25,
+      "raw_row_text": "LEMON THYME US TUB 2.25"
+    },
+    {
+      "commodity": "LEMON THYME",
+      "cost": 23,
+      "raw_row_text": "LEMON THYME US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "LIME LEAVES",
+      "cost": 66.5,
+      "raw_row_text": "LIME LEAVES US 1LB 66.50"
+    },
+    {
+      "commodity": "LIME LEAVES",
+      "cost": 23,
+      "raw_row_text": "LIME LEAVES US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "MARJORAM",
+      "cost": 1.75,
+      "raw_row_text": "MARJORAM US TUB 1.75"
+    },
+    {
+      "commodity": "MARJORAM",
+      "cost": 11.75,
+      "raw_row_text": "MARJORAM US 12'S 11.75"
+    },
+    {
+      "commodity": "MARJORAM",
+      "cost": 18.5,
+      "raw_row_text": "MARJORAM US 12 TUB 18.50"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 6,
+      "raw_row_text": "MINT 6 6.00"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 21.5,
+      "raw_row_text": "MINT COL 24'S 21.50"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 27.5,
+      "raw_row_text": "MINT CRESS US 6 CLAM 27.50"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 11.5,
+      "raw_row_text": "MINT MOR 12 11.50"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 21.5,
+      "raw_row_text": "MINT MOR 24 21.50"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 1.75,
+      "raw_row_text": "MINT US TUB 1.75"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 1.75,
+      "raw_row_text": "MINT US TUB 1.75"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 18.5,
+      "raw_row_text": "MINT US 12 TUB 18.50"
+    },
+    {
+      "commodity": "MUSTARD GREENS",
+      "cost": 44.5,
+      "raw_row_text": "MUSTARD GREENS CDN 30LBS 44.50*"
+    },
+    {
+      "commodity": "NASTURTIUM FLOWERS",
+      "cost": 46,
+      "raw_row_text": "NASTURTIUM FLOWERS 50 CT 46.00"
+    },
+    {
+      "commodity": "ORCHIDS",
+      "cost": 26.5,
+      "raw_row_text": "ORCHIDS US 50CT 26.50"
+    },
+    {
+      "commodity": "OREGANO",
+      "cost": 12.25,
+      "raw_row_text": "OREGANO 12 12.25"
+    },
+    {
+      "commodity": "OREGANO",
+      "cost": 1.75,
+      "raw_row_text": "OREGANO US TUB 1.75"
+    },
+    {
+      "commodity": "OREGANO",
+      "cost": 18.5,
+      "raw_row_text": "OREGANO US 12 TUB 18.50"
+    },
+    {
+      "commodity": "OREGANO",
+      "cost": 9.25,
+      "raw_row_text": "OREGANO US 1X6 TUB 9.25"
+    },
+    {
+      "commodity": "PARSLEY ROOT",
+      "cost": 61.5,
+      "raw_row_text": "PARSLEY ROOT US 12 61.50"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 6.75,
+      "raw_row_text": "PARSLEY, CURLY 6 6.75*"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 45,
+      "raw_row_text": "PARSLEY, CURLY LITTLE BEAR 60 45.00*"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 12.25,
+      "raw_row_text": "PARSLEY, CURLY US 12 12.25"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 1.75,
+      "raw_row_text": "PARSLEY, CURLY US TUB 1.75"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 23,
+      "raw_row_text": "PARSLEY, CURLY US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 6.75,
+      "raw_row_text": "PARSLEY, PLAIN 6 6.75*"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 46,
+      "raw_row_text": "PARSLEY, PLAIN LITTLE BEAR 60 46.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 41.25,
+      "raw_row_text": "PARSLEY, PLAIN MEX 60 41.25"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 12.25,
+      "raw_row_text": "PARSLEY, PLAIN US 12 12.25"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 1.75,
+      "raw_row_text": "PARSLEY, PLAIN US TUB 1.75"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 23,
+      "raw_row_text": "PARSLEY, PLAIN US 12 TUB 23.00*"
+    },
+    {
+      "commodity": "PHYSALIS",
+      "cost": 26.5,
+      "raw_row_text": "PHYSALIS COL 12X100G 26.50"
+    },
+    {
+      "commodity": "POWER4",
+      "cost": 18.5,
+      "raw_row_text": "POWER4 B&W US 2X1.5LB 18.50"
+    },
+    {
+      "commodity": "ROSEMARY",
+      "cost": 11.75,
+      "raw_row_text": "ROSEMARY 12 11.75"
+    },
+    {
+      "commodity": "ROSEMARY",
+      "cost": 1.75,
+      "raw_row_text": "ROSEMARY US TUB 1.75"
+    },
+    {
+      "commodity": "ROSEMARY",
+      "cost": 18.5,
+      "raw_row_text": "ROSEMARY US 12 TUB 18.50"
+    },
+    {
+      "commodity": "ROSEMARY",
+      "cost": 9.25,
+      "raw_row_text": "ROSEMARY US 1X6 TUB 9.25"
+    },
+    {
+      "commodity": "SAGE",
+      "cost": 13.75,
+      "raw_row_text": "SAGE 12 13.75"
+    },
+    {
+      "commodity": "SAGE",
+      "cost": 1.75,
+      "raw_row_text": "SAGE US TUB 1.75"
+    },
+    {
+      "commodity": "SAGE",
+      "cost": 18.5,
+      "raw_row_text": "SAGE US 12 TUB 18.50"
+    },
+    {
+      "commodity": "SAGE",
+      "cost": 9.25,
+      "raw_row_text": "SAGE US 1X6 TUB 9.25"
+    },
+    {
+      "commodity": "SAVORY",
+      "cost": 12.25,
+      "raw_row_text": "SAVORY 12 12.25*"
+    },
+    {
+      "commodity": "SAVORY",
+      "cost": 1.75,
+      "raw_row_text": "SAVORY US TUB 1.75"
+    },
+    {
+      "commodity": "SAVORY",
+      "cost": 21.5,
+      "raw_row_text": "SAVORY US 12 TUB 21.50*"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS ARUGULA CDN CASE 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS BASIL CDN BAG 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 27,
+      "raw_row_text": "SLEGERS CELERY CDN CASE 27.00"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS CILANTRO CDN CLAM 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS LIVING BASIL CDN 6CT 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS LIVING CHIVES CDN 6CT 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 23,
+      "raw_row_text": "SLEGERS LIVING WATERCRESS 6CT 23.00"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS MICRO BROCCOLI CD CASE 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 23,
+      "raw_row_text": "SLEGERS MIX LETTUCE CDN 6CT 23.00"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 23,
+      "raw_row_text": "SLEGERS MIXED SALAD CDN CASE 23.00"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS MIXED SPROUTS US CLAM 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS PARSLEY CDN CLAM 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 26.5,
+      "raw_row_text": "SLEGERS RED BASIL CDN CLAM 26.50"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 23,
+      "raw_row_text": "SLEGERS ROMAINE LETTUCE CD BAG 23.00"
+    },
+    {
+      "commodity": "SLEGERS",
+      "cost": 23,
+      "raw_row_text": "SLEGERS SUMMER SALAD CDN CASE 23.00"
+    },
+    {
+      "commodity": "SORREL",
+      "cost": 11.75,
+      "raw_row_text": "SORREL 12 11.75"
+    },
+    {
+      "commodity": "SORREL",
+      "cost": 27.5,
+      "raw_row_text": "SORREL RED US 6CT CLAM 27.50"
+    },
+    {
+      "commodity": "SORREL",
+      "cost": 1.75,
+      "raw_row_text": "SORREL US TUB 1.75"
+    },
+    {
+      "commodity": "SORREL",
+      "cost": 18.5,
+      "raw_row_text": "SORREL US 12 TUB 18.50"
+    },
+    {
+      "commodity": "TARRAGON",
+      "cost": 13.75,
+      "raw_row_text": "TARRAGON 12 13.75"
+    },
+    {
+      "commodity": "TARRAGON",
+      "cost": 1.75,
+      "raw_row_text": "TARRAGON US TUB 1.75"
+    },
+    {
+      "commodity": "TARRAGON",
+      "cost": 21.5,
+      "raw_row_text": "TARRAGON US 12 TUB 21.50*"
+    },
+    {
+      "commodity": "THYME",
+      "cost": 11.75,
+      "raw_row_text": "THYME 12 11.75"
+    },
+    {
+      "commodity": "THYME",
+      "cost": 1.75,
+      "raw_row_text": "THYME US TUB 1.75"
+    },
+    {
+      "commodity": "THYME",
+      "cost": 18.5,
+      "raw_row_text": "THYME US 12 TUB 18.50"
+    },
+    {
+      "commodity": "THYME",
+      "cost": 9.25,
+      "raw_row_text": "THYME US 1X6 TUB 9.25"
+    },
+    {
+      "commodity": "WHEAT GRASS",
+      "cost": 26.5,
+      "raw_row_text": "WHEAT GRASS US 6 26.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 21.5,
+      "raw_row_text": "JUICE APPLE BRZ 6X900ML 21.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 21.5,
+      "raw_row_text": "JUICE GRAPE BRZ 6X900ML 21.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 21.5,
+      "raw_row_text": "JUICE GUAVA BRZ 6X900ML 21.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 21.5,
+      "raw_row_text": "JUICE MANGO BRZ 6X900ML 21.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 31,
+      "raw_row_text": "JUICE ORANGE BRZ 6X1.5L 31.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 70.5,
+      "raw_row_text": "JUICE POM 100% US 6X1.4L 70.50"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 29,
+      "raw_row_text": "JUICE POM 100% US 6X473ML 29.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 29,
+      "raw_row_text": "JUICE POM BLUEBERRY US 6X473ML 29.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 29,
+      "raw_row_text": "JUICE POM CHERRY US 6X473ML 29.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 31,
+      "raw_row_text": "JUICE, AMAZING MANGO US 946ML 31.00*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 23.5,
+      "raw_row_text": "JUICE, BERRY BOOST US 450ML 23.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 31,
+      "raw_row_text": "JUICE, BERRY BOOST US 946ML 31.00*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 32,
+      "raw_row_text": "JUICE, BLUE GOODNESS US 946ML 32.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26,
+      "raw_row_text": "JUICE, CARROT GINGER TUR 450ML 26.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 35.5,
+      "raw_row_text": "JUICE, CARROT US 946ML 35.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 23.5,
+      "raw_row_text": "JUICE, GREEN GOODNESS US 450ML 23.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 32,
+      "raw_row_text": "JUICE, GREEN GOODNESS US 946ML 32.00"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26.5,
+      "raw_row_text": "JUICE, MOCCHA CAPPUCINO 450ML 26.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 35.5,
+      "raw_row_text": "JUICE, MOCCHA CAPPUCINO 946ML 35.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 27.5,
+      "raw_row_text": "JUICE, RED GOODNESS US 946ML 27.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 23.5,
+      "raw_row_text": "JUICE, STRAWBERRY BANANA 450ML 23.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 31,
+      "raw_row_text": "JUICE, STRAWBERRY BANANA 946ML 31.00*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26.5,
+      "raw_row_text": "JUICE, VANILLA CHAI US 450ML 26.50*"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 37,
+      "raw_row_text": "JUICE, VANILLA CHAI US 946ML 37.00*"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 38,
+      "raw_row_text": "LEEKS US 12 38.00"
+    },
+    {
+      "commodity": "ANISE",
+      "cost": 47.5,
+      "raw_row_text": "ANISE US 24 47.50*"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 37,
+      "raw_row_text": "BELGIUM ENDIVE CDN 11LB 37.00"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 60.5,
+      "raw_row_text": "BELGIUM ENDIVE, RED BEL 11LB 60.50*"
+    },
+    {
+      "commodity": "FRISEE",
+      "cost": 37,
+      "raw_row_text": "BLONDE FRISEE US 4LB 37.00*"
+    },
+    {
+      "commodity": "BOSTON LETTUCE",
+      "cost": 19,
+      "raw_row_text": "BOSTON HYDRO CDN 12 CLAM 19.00*"
+    },
+    {
+      "commodity": "BOSTON LETTUCE",
+      "cost": 19,
+      "raw_row_text": "BOSTON HYDRO RED GRN CDN 8X2PK 19.00*"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 38,
+      "raw_row_text": "CASTEL FRANCO RADICCHIO US 12 38.00*"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 45,
+      "raw_row_text": "ENDIVE, CURLY US 24 45.00"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": 60.5,
+      "raw_row_text": "ESCAROLE US 24 60.50"
+    },
+    {
+      "commodity": "FENNEL",
+      "cost": 41,
+      "raw_row_text": "FENNEL, BABY US 24 41.00"
+    },
+    {
+      "commodity": "GREEN OAK LETTUCE",
+      "cost": 19.5,
+      "raw_row_text": "GREEN OAK HYDRO CDN 12 CLAMS 19.50"
+    },
+    {
+      "commodity": "GREEN OAK LETTUCE",
+      "cost": 24.5,
+      "raw_row_text": "GREEN OAK US 2LB 24.50"
+    },
+    {
+      "commodity": "ICEBERG LETTUCE",
+      "cost": 10.25,
+      "raw_row_text": "ICEBERG LETTUCE WRAP #2 24 10.25"
+    },
+    {
+      "commodity": "ICEBERG LETTUCE",
+      "cost": 88,
+      "raw_row_text": "ICEBERG LETTUCE, JUMBO QV U 30 88.00*"
+    },
+    {
+      "commodity": "ICEBERG LETTUCE",
+      "cost": 80,
+      "raw_row_text": "ICEBERG LETTUCE, WRAP QV US 24 80.00*"
+    },
+    {
+      "commodity": "ICEBERG LETTUCE",
+      "cost": 10.25,
+      "raw_row_text": "ICEBERG LETTUCE,JB #2 US 30 10.25"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 46,
+      "raw_row_text": "LETTUCE BABY GEM US 24'S 46.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 26,
+      "raw_row_text": "LETTUCE BUTTERY BUTTER 8X113G 26.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 26,
+      "raw_row_text": "LETTUCE CRISPY ROMAINE 8X113G 26.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 26,
+      "raw_row_text": "LETTUCE CRUNCHY GRN LEA 8X113G 26.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 26,
+      "raw_row_text": "LETTUCE FANCY SPRING MI 8X113G 26.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 26,
+      "raw_row_text": "LETTUCE SAVOURY RED LEA 8X113G 26.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 20.5,
+      "raw_row_text": "LETTUCE SPRING MIX CDN 3X1LB 20.50"
+    },
+    {
+      "commodity": "LOLLA ROSA",
+      "cost": 24.5,
+      "raw_row_text": "LOLLA ROSA US 2LB 24.50"
+    },
+    {
+      "commodity": "MACHE LETTUCE",
+      "cost": 41,
+      "raw_row_text": "MACHE LETTUCE US 8pkg 41.00"
+    },
+    {
+      "commodity": "METHI LEAF",
+      "cost": 55.5,
+      "raw_row_text": "METHI LEAF, LITTLE BEAR US 24 55.50*"
+    },
+    {
+      "commodity": "MIZUNA",
+      "cost": 27,
+      "raw_row_text": "MIZUNA CDN 6CLAMS 27.00"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 26.5,
+      "raw_row_text": "RADICCHIO US 12 26.50"
+    },
+    {
+      "commodity": "RED OAK LETTUCE",
+      "cost": 19.5,
+      "raw_row_text": "RED OAK HYDRO CDN 12 CLAMS 19.50"
+    },
+    {
+      "commodity": "RED OAK LETTUCE",
+      "cost": 24.5,
+      "raw_row_text": "RED OAK US 2LB 24.50"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 24.5,
+      "raw_row_text": "RED ROMAINE US 2LB 24.50"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 31,
+      "raw_row_text": "ROMAINE CHOPPED US 6X2 31.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 43,
+      "raw_row_text": "ROMAINE HEARTS US 12X3LB 43.00*"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 40,
+      "raw_row_text": "ROMAINE HYDRO CDN 12X3 40.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 24.5,
+      "raw_row_text": "ROMAINE, BABY GREEN US 2LB 24.50"
+    },
+    {
+      "commodity": "STIR FRY",
+      "cost": 6.75,
+      "raw_row_text": "STIR FRY US 1LB 6.75"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 34,
+      "raw_row_text": "SWISS CHARD, RAINBOW TEX 12 34.00"
+    },
+    {
+      "commodity": "TREVISO",
+      "cost": 32,
+      "raw_row_text": "TREVISO US 12 32.00*"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 23.5,
+      "raw_row_text": "TRIO LIVING LETTUCE CDN 8X2 23.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 21.5,
+      "raw_row_text": "NOODLES CHOW MEIN CDN 12X454G 21.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 25,
+      "raw_row_text": "NOODLES FRIED CDN 10LBS 25.00"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 21.5,
+      "raw_row_text": "NOODLES HAKKA CDN 12X454G 21.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 21.5,
+      "raw_row_text": "NOODLES PRE-COOKED MIK 12X400G 21.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 21.5,
+      "raw_row_text": "NOODLES RAMEN CDN 12X400G 21.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 33,
+      "raw_row_text": "NOODLES SALAD CDN 24X150G 33.00"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 21.5,
+      "raw_row_text": "NOODLES SHANGHAI CDN 12X400G 21.50"
+    },
+    {
+      "commodity": "NOODLES",
+      "cost": 51,
+      "raw_row_text": "NOODLES STEAMED CDN 6X5LBS 51.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 16.5,
+      "raw_row_text": "ONIONS CIPOLLINI CDN 10LBS 16.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 13.25,
+      "raw_row_text": "ONIONS DICED CDN 5LBS 13.25"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18.5,
+      "raw_row_text": "ONIONS GREEN 24'S 18.50*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 35.5,
+      "raw_row_text": "ONIONS GREEN ICELESS MEX 48'S 35.50*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 9.5,
+      "raw_row_text": "ONIONS GREEN MEX 12'S 9.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24.5,
+      "raw_row_text": "ONIONS PEARL GOLD US 12'S 24.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24.5,
+      "raw_row_text": "ONIONS PEARL RED US 12'S 24.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24.5,
+      "raw_row_text": "ONIONS PEARL WHITE US 12'S 24.50"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 31,
+      "raw_row_text": "ONIONS PEELED RED CDN 22LBS 31.00*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 27.5,
+      "raw_row_text": "ONIONS PEELED WHOLE CDN 22LBS 27.50*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 16.25,
+      "raw_row_text": "ONIONS RED JUMBO US 25LBS 16.25*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 13.25,
+      "raw_row_text": "ONIONS SLICED CDN 5LBS 13.25"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 31,
+      "raw_row_text": "ONIONS SPANISH COLOSSAL 50LBS 31.00*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 32,
+      "raw_row_text": "ONIONS SWEET COLOSSAL US 40LBS 32.00*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": "ONIONS WHITE JUMBO MEX 25LBS 34.00*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 27.5,
+      "raw_row_text": "ONIONS YELLOW COOKER C 24X2LBS 27.50*"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 26.5,
+      "raw_row_text": "ONIONS YELLOW COOKER CDN 50LBS 26.50*"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 24.5,
+      "raw_row_text": "ARUGULA BABY ORG US 8X5OZ 24.50"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 35.5,
+      "raw_row_text": "BEETS COOKED ORG FR 12X500G 35.50*"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 58.5,
+      "raw_row_text": "GINGER ORG PERU 30LBS 58.50*"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 24,
+      "raw_row_text": "KALE ORG 8X5OZ 24.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 22,
+      "raw_row_text": "ORG SPRING MIX US 8X5OZ 22.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 24.5,
+      "raw_row_text": "SPINACH BABY ORG US 8X5OZ 24.50"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 24.5,
+      "raw_row_text": "SPINACH/SPRING ORG MIX U 8X5OZ 24.50"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 23.5,
+      "raw_row_text": "SPRING MIX ORG US 8X5OZ 23.50"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 25,
+      "raw_row_text": "SPRING MIX ORG US 6X11OZ 25.00"
+    },
+    {
+      "commodity": "TURMERIC",
+      "cost": 55.5,
+      "raw_row_text": "TURMERIC ORG PER 9KG 55.50"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 91,
+      "raw_row_text": "YAM GARNETS ORG US 40LBS 91.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 145,
+      "raw_row_text": "YAM JAPANESE ORG US 40LBS 145.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 89.5,
+      "raw_row_text": "YAM JEWELS ORG US 40LBS 89.50*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 118,
+      "raw_row_text": "YAM ORIENTAL ORG US 10X3LBS 118.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 102,
+      "raw_row_text": "YAM SWEET ORG US 40LBS 102.00*"
+    },
+    {
+      "commodity": "PEAS",
+      "cost": 29,
+      "raw_row_text": "SNOW PEAS CH 10LBS 29.00*"
+    },
+    {
+      "commodity": "PEAS",
+      "cost": 49,
+      "raw_row_text": "SNOW PEAS TIPS MEX 10LBS 49.00"
+    },
+    {
+      "commodity": "PEAS",
+      "cost": 29,
+      "raw_row_text": "SUGAR SNAP PEAS CH 10LBS 29.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 18.5,
+      "raw_row_text": "PEPPER CHILLI MINCED 12X140ML 18.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 77.5,
+      "raw_row_text": "PEPPER CUBANELLE US 1 1/9 BUS 77.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 86,
+      "raw_row_text": "PEPPER FINGERHOT US 1 BUS 86.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 48,
+      "raw_row_text": "PEPPER FINGERHOT US 10LBS 48.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 86,
+      "raw_row_text": "PEPPER HUNGARIAN WAX 1 1/9 BUS 86.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 86,
+      "raw_row_text": "PEPPER HUNGARIAN WAX 1 1/9 BUS 86.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 45.5,
+      "raw_row_text": "PEPPER JALAPENO MEX 10LBS 45.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 98,
+      "raw_row_text": "PEPPER JALAPENO MEX 1 1/9 BUS 98.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 45.5,
+      "raw_row_text": "PEPPER JALAPENO US 10LBS 45.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 98,
+      "raw_row_text": "PEPPER JALAPENO US 1 1/9 BUS 98.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 46,
+      "raw_row_text": "PEPPER JAMAICAN HOT US CASE 46.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 77.5,
+      "raw_row_text": "PEPPER LONG HOT US 1 1/9 BUS 77.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 105,
+      "raw_row_text": "PEPPER POBLANO MEX 1 BUS 105.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35.5,
+      "raw_row_text": "PEPPER RED CHILLI EGY 5LBS 35.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 56.5,
+      "raw_row_text": "PEPPER RED HABANERO MEX 8LBS 56.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 15.5,
+      "raw_row_text": "PEPPER RED THAI THAILAND 1LBS 15.50"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 106,
+      "raw_row_text": "PEPPER SERRANO US 1 BUS 106.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 40,
+      "raw_row_text": "PEPPER SERRANO US 10LBS 40.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 98,
+      "raw_row_text": "PEPPER SHISHITO US CASE 98.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 37,
+      "raw_row_text": "PEPPER THAI CHILLI US 10LBS 37.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 81,
+      "raw_row_text": "PEPPER THAI CHILLI US 30LBS 81.00*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35.5,
+      "raw_row_text": "PEPPER TOMATILLO MEX 10LBS 35.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 63.5,
+      "raw_row_text": "PEPPER TOMATILLO MEX 1 1/9 BUS 63.50*"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35,
+      "raw_row_text": "PEPPER TOMATILLO US 10LBS 35.00"
+    },
+    {
+      "commodity": "EDDOES",
+      "cost": 55.5,
+      "raw_row_text": "EDDOES CR 16KG 55.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 38,
+      "raw_row_text": "POTATO CHUNKS CDN 10KG 38.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 32.5,
+      "raw_row_text": "POTATO DICED CDN PAIL 32.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 31,
+      "raw_row_text": "POTATO DICED CDN 22LBS 31.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 31,
+      "raw_row_text": "POTATO DICED W/SKIN CDN 22LBS 31.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 47.5,
+      "raw_row_text": "POTATO FINGERLING CDN 25LB 47.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 59.5,
+      "raw_row_text": "POTATO FOIL CDN 100'S 59.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 50.5,
+      "raw_row_text": "POTATO MINI PURPLE US 20LB 50.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 29,
+      "raw_row_text": "POTATO PARISIENNE CDN 22LBS 29.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 32.5,
+      "raw_row_text": "POTATO PARISIENNE CDN 12X1.5LB 32.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 32.5,
+      "raw_row_text": "POTATO PARISIENNE YUK 12X1.5LB 32.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 31,
+      "raw_row_text": "POTATO PARISIENNE YUKON 22LBS 31.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 21.5,
+      "raw_row_text": "POTATO PEELED CDN 22LBS 21.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 32.5,
+      "raw_row_text": "POTATO PEELED YUKON CDN 10KG 32.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 32.5,
+      "raw_row_text": "POTATO PLD IN WATER CDN PAIL 32.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 38.5,
+      "raw_row_text": "POTATO SHREDDED CDN 10KG 38.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 13.25,
+      "raw_row_text": "POTATO SLICED CDN 5LBS 13.25"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 31,
+      "raw_row_text": "POTATO SLICED CDN 22LBS 31.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 55.5,
+      "raw_row_text": "POTATO SWEET HND 50LBS 55.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 102,
+      "raw_row_text": "POTATO SWEET YAGI ORG U 40LBS 102.00*"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 120,
+      "raw_row_text": "POTATO SWT STOKES ORG 40LBS #1 120.00*"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 82,
+      "raw_row_text": "POTATO WHITE SWEET US 40LBS 82.00*"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 37,
+      "raw_row_text": "POTATO YUKON DICED CDN 10KG 37.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 24.5,
+      "raw_row_text": "RADISH BLACK CDN 20LB 24.50"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 46,
+      "raw_row_text": "RADISH BUNCH US 24 46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 34,
+      "raw_row_text": "RADISH CELLO US 14X1LB 34.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 34,
+      "raw_row_text": "RADISH CELLO US 30X6OZ 34.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 46,
+      "raw_row_text": "RADISH CINCINNATI US 24 46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 46,
+      "raw_row_text": "RADISH EASTER EGG US 24 46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 46,
+      "raw_row_text": "RADISH FRENCH BREAKFAST C 24'S 46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 46,
+      "raw_row_text": "RADISH PURPLE NINJA US 10LBS 46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 43,
+      "raw_row_text": "RADISH WATERMELON CDN 15LB 43.00"
+    },
+    {
+      "commodity": "CELERY ROOT",
+      "cost": 23.5,
+      "raw_row_text": "CELERY ROOT CDN 9KG 23.50"
+    },
+    {
+      "commodity": "CELERY ROOT",
+      "cost": 38.5,
+      "raw_row_text": "CELERY ROOT CDN 18KG 38.50"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 5.5,
+      "raw_row_text": "CELERY STICKS US 1LB 5.50"
+    },
+    {
+      "commodity": "HORSERADISH",
+      "cost": 27,
+      "raw_row_text": "HORSERADISH US 5LB 27.00"
+    },
+    {
+      "commodity": "HORSERADISH",
+      "cost": 250,
+      "raw_row_text": "HORSERADISH US 50LBS 250.00*"
+    },
+    {
+      "commodity": "JICAMA",
+      "cost": 51,
+      "raw_row_text": "JICAMA US 17KG 51.00*"
+    },
+    {
+      "commodity": "JICAMA",
+      "cost": 22,
+      "raw_row_text": "JICAMA US 10LBS 22.00*"
+    },
+    {
+      "commodity": "PARSNIP",
+      "cost": 34,
+      "raw_row_text": "PARSNIP CDN 12X1 34.00"
+    },
+    {
+      "commodity": "PARSNIP",
+      "cost": 37,
+      "raw_row_text": "PARSNIP CDN 25LB 37.00"
+    },
+    {
+      "commodity": "RUTABAGA",
+      "cost": 34,
+      "raw_row_text": "RUTABAGA CDN 50LB 34.00"
+    },
+    {
+      "commodity": "TARO ROOT",
+      "cost": 46,
+      "raw_row_text": "TARRO ROOT 35LB 46.00*"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 55.5,
+      "raw_row_text": "TURNIP TOKYO (BABY) US 24 55.50*"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 12.25,
+      "raw_row_text": "TURNIP WHITE #2 US 25LB 12.25"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 31,
+      "raw_row_text": "TURNIP WHITE US 25LB 31.00*"
+    },
+    {
+      "commodity": "SHALLOTS",
+      "cost": 18.5,
+      "raw_row_text": "SHALLOTS CDN 10LB 18.50"
+    },
+    {
+      "commodity": "SHALLOTS",
+      "cost": 28.5,
+      "raw_row_text": "SHALLOTS CDN 12X250G 28.50"
+    },
+    {
+      "commodity": "SHALLOTS",
+      "cost": 18.5,
+      "raw_row_text": "SHALLOTS CHICKEN LEG CDN 10LB 18.50"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 34,
+      "raw_row_text": "SPINACH BUNCHED US 24 34.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 26,
+      "raw_row_text": "SPINACH SAVOY CELLO US 16X8OZ 26.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 35.5,
+      "raw_row_text": "SPINACH SAVOY CRATE US 15LB 35.50"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 49,
+      "raw_row_text": "SPINACH SAVOY CRATE US 30LB 49.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 83,
+      "raw_row_text": "WATER SPINACH US 25LBS 83.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 29,
+      "raw_row_text": "SPINACH BABY QV US 5X2LB 29.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 19.5,
+      "raw_row_text": "SPINACH BABY QV US 8X5OZ 19.50"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 15.5,
+      "raw_row_text": "SPINACH BABY US 2X2LB 15.50"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 26.5,
+      "raw_row_text": "SPINACH BABY US 5X2LB 26.50*"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 41,
+      "raw_row_text": "SPINACH BABY US 12X11OZ 41.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 10.25,
+      "raw_row_text": "EMERALD SPRING MIX US 3LB 10.25*"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 19.5,
+      "raw_row_text": "SPRING MIX QV US 8X5OZ 19.50"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 10.25,
+      "raw_row_text": "SPRING MIX QV US 2X1.5LB 10.25*"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 42,
+      "raw_row_text": "SPRING MIX US 12X11OZ 42.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 26,
+      "raw_row_text": "ALFALFA AND ONION SPRO 12X120G 26.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 29,
+      "raw_row_text": "ALFALFA BABY ONION SPRO 12X70G 29.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 29,
+      "raw_row_text": "ALFALFA BROCCOLI SPROU 12X120G 29.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 29,
+      "raw_row_text": "ALFALFA PEA SHOOTS 12X120G 29.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 26,
+      "raw_row_text": "ALFALFA SPICY SPROUTS 12X120G 26.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 24.5,
+      "raw_row_text": "ALFALFA SPROUTS CDN 12X120G 24.50"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 17.5,
+      "raw_row_text": "BEAN SPROUTS CDN 20LBS 17.50"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 19,
+      "raw_row_text": "BEAN SPROUTS CDN 12X1LBS 19.00"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 31,
+      "raw_row_text": "MICRO BROCCOLI CLAM CDN 6X60G 31.00*"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 31,
+      "raw_row_text": "MICRO CABBAGE CLAM CDN 6X60G 31.00*"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 26,
+      "raw_row_text": "MICRO CILANTRO CLAM CDN 6X25G 26.00"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 31,
+      "raw_row_text": "MICRO CRUNCHY MIX CLAM C 6X75G 31.00*"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 31,
+      "raw_row_text": "MICRO KALE CLAM CDN 6X60G 31.00*"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 27,
+      "raw_row_text": "PEA SHOOTS CDN 6CT 27.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 26,
+      "raw_row_text": "PEA SHOOTS CLAM CDN 6X100G 26.00"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 31,
+      "raw_row_text": "RAINBOW MIX CLAM CDN 6X75G 31.00*"
+    },
+    {
+      "commodity": "SEA-BEANS",
+      "cost": 46,
+      "raw_row_text": "SEA-BEANS US CASE 46.00"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 31,
+      "raw_row_text": "SUNFLOWER SHOOTS CLAM C 6X100G 31.00*"
+    },
+    {
+      "commodity": "SPROUTS",
+      "cost": 27,
+      "raw_row_text": "SUNFLOWER SPROUTS CDN 6CT 27.00*"
+    },
+    {
+      "commodity": "MICROGREENS",
+      "cost": 35.5,
+      "raw_row_text": "VARIETY MIX CDN 6CLAM 35.50"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 43,
+      "raw_row_text": "SQUASH BUTTERCUP MEX 1 1/9 BU 43.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 38,
+      "raw_row_text": "SQUASH BUTTERNUT MEX 1 1/9 BU 38.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 43,
+      "raw_row_text": "SQUASH PEPPER MEX 1 1/9 BU 43.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 35,
+      "raw_row_text": "SQUASH SPAGHETTI MEX 1 1/9 BU 35.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 49,
+      "raw_row_text": "ZUCCHINI BLOSSOM US CASE 49.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 35.5,
+      "raw_row_text": "SOYGANIC EXTRA FIRM TO 12X350G 35.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 37,
+      "raw_row_text": "SOYGANIC FIRM TOFU CDN 12X500G 37.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 32.5,
+      "raw_row_text": "SOYGANIC MED FIRM TOFU 12X454G 32.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 21.5,
+      "raw_row_text": "SOYGANIC SOFT TOFU CDN 6X350G 21.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 38,
+      "raw_row_text": "SOYGANIC ULTRA FIRM TO 12X400G 38.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 18.5,
+      "raw_row_text": "TOFU ALMOND DESSERT 12X2X150GM 18.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 18.5,
+      "raw_row_text": "TOFU BANANA DESSERT 12X2X150GM 18.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 18.5,
+      "raw_row_text": "TOFU COCONUT DESSER 12X2X150GM 18.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 32.5,
+      "raw_row_text": "TOFU EXTRA FIRM CDN 12X350GM 32.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 31,
+      "raw_row_text": "TOFU FIRM SUNRISE CDN 12X500G 31.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 26.5,
+      "raw_row_text": "TOFU MEDIUM FIRM CDN 12X454GM 26.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 32,
+      "raw_row_text": "TOFU ORIGINAL CH STYLE 10X160G 32.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 18.5,
+      "raw_row_text": "TOFU PEACH MANGO DESS 12X300GM 18.50"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 41,
+      "raw_row_text": "TOFU SMOKED ORIGINAL 12X180GM 41.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 41,
+      "raw_row_text": "TOFU SMOKED SRIRACHA 12X180GM 41.00"
+    },
+    {
+      "commodity": "TOFU",
+      "cost": 18.5,
+      "raw_row_text": "TOFU SOFT CDN 12X300GM 18.50"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 18.5,
+      "raw_row_text": "SQUASH DICED BUTTERNUT CDN 1LB 18.50"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 67.5,
+      "raw_row_text": "SQUASH PEELED BUTTERNUT 22LBS 67.50*"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 26.5,
+      "raw_row_text": "LONG EGG PLANT HND 10LBS 26.50*"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 61.5,
+      "raw_row_text": "LONG EGG PLANT HND 30LBS 61.50*"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 26.5,
+      "raw_row_text": "LONG EGG PLANT US 10LBS 26.50"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 26.5,
+      "raw_row_text": "TOMATO GRAPE MEX 12X1 26.50"
+    },
+    {
+      "commodity": "WATERCRESS",
+      "cost": 38,
+      "raw_row_text": "WATERCRESS GREEN US 24 38.00*"
+    },
+    {
+      "commodity": "WATERCRESS",
+      "cost": 13.75,
+      "raw_row_text": "WATERCRESS GREEN US 1.5LB 13.75"
+    },
+    {
+      "commodity": "WATERCRESS",
+      "cost": 17,
+      "raw_row_text": "WATERCRESS GREEN US 6X4.1OZ 17.00"
+    },
+    {
+      "commodity": "WATERCRESS",
+      "cost": 20.5,
+      "raw_row_text": "WATERCRESS GRN PLU US 12 20.50"
+    },
+    {
+      "commodity": "WATERCRESS",
+      "cost": 15.5,
+      "raw_row_text": "WATERCRESS RED US 1.5LB 15.50"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 37,
+      "raw_row_text": "YAM #1 US 40LBS 37.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 13.25,
+      "raw_row_text": "YAM DICED CDN 5LBS 13.25"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 128,
+      "raw_row_text": "YAM JAPANESE #1 US 40LBS 128.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 128,
+      "raw_row_text": "YAM JAPANESE MED US 40LB 128.00*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 28.5,
+      "raw_row_text": "YAM JUMBO US 40LBS 28.50*"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 38.5,
+      "raw_row_text": "YAM PEELED CDN 10KG 38.50"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": 41,
+      "raw_row_text": "YAM PEELED DICED CDN 22LBS 41.00"
+    }
+  ]
+}

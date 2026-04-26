@@ -1,0 +1,591 @@
+{
+  "doc_id": "supplier-k-2026-04-19",
+  "supplier": "supplier-k",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-k-2026-04-19.pdf",
+  "format": "pdf",
+  "duration_ms": 75891,
+  "row_count": 116,
+  "rows": [
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "AMBROSIA (Wash) 56 48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "COSMIC CRISP 40/45 60.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "FUJI Premium 64 65.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 82,
+      "raw_row_text": "GALA (Wash) 72 82.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "GALA 113 60.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 82,
+      "raw_row_text": "GOLD DELICIOUS 72 82.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 65,
+      "raw_row_text": "GOLD DELICIOUS 100 65.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 55,
+      "raw_row_text": "GRANNY SMITH 72-113 55.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "RED DELICIOUS 72 64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 40,
+      "raw_row_text": "RED PRINCE (Ont) 10x2.5 40.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "PINK LADY 72 60.00"
+    },
+    {
+      "commodity": "BERRIES",
+      "cost": 72,
+      "raw_row_text": "BERRIES Blueberry Full Pints JJ 72.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 45,
+      "raw_row_text": "LEMONS (Cal) Fancy 75 45.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 43,
+      "raw_row_text": "LEMONS (SA) 64-75-88-100-113-125-138 43.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMONS Bags 12x2 38.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 95,
+      "raw_row_text": "LIMES 150 95.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 52,
+      "raw_row_text": "GRAPEFRUIT (Israel) Premium 32-35 52.00"
+    },
+    {
+      "commodity": "GRAPEFRUIT",
+      "cost": 40,
+      "raw_row_text": "GRAPEFRUIT (Israel) Premium 50-55 40.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 44,
+      "raw_row_text": "ORANGE (Cal) Navel Fancy Heirloom Open 48-72 44.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 40,
+      "raw_row_text": "ORANGE (Cal) Navel Fancy Telescopic 113 40.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 42,
+      "raw_row_text": "ORANGE (Cal) Cara Cara Telescopic 48 42.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 32,
+      "raw_row_text": "ORANGE (Cal) Cara Cara Open Top 36 32.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 56,
+      "raw_row_text": "ORANGE (Cal) Minneola 48-56 56.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 28,
+      "raw_row_text": "ORANGE (Egypt) Valenica 72 28.00"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 28,
+      "raw_row_text": "ORANGE (Egypt) Valenica Bags 8x3 28.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 30,
+      "raw_row_text": "CLEMENTINE (Spain) 7kg Stem & Leaf 1x 30.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 28,
+      "raw_row_text": "CLEMENTINE (Spain) 7kg Stem & Leaf 1 28.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 26,
+      "raw_row_text": "CLEMENTINE (Spain) 7kg Stem & Leaf 2 26.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 65,
+      "raw_row_text": "CLEMENTINE (Israel) Orri 15x2 \"Galilee\" 65.00"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 22,
+      "raw_row_text": "CLEMENTINE (Egypt) 9kg Murcott x45 22.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 60,
+      "raw_row_text": "GRAPES RED (Chile) Sweet Celebration 3J 60.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 58,
+      "raw_row_text": "GRAPES RED (Chile) Jack Salute 58.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 72,
+      "raw_row_text": "GRAPES GREEN (Chile) Sweet Globe 66 72.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 70,
+      "raw_row_text": "GRAPES GREEN (Chile) Iacobelli 70.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 75,
+      "raw_row_text": "GRAPES GREEN (Chile) Thompson JJJ 75.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 82,
+      "raw_row_text": "GRAPES GREEN (Chile) Autumn Crisp JJ 82.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 58,
+      "raw_row_text": "GRAPES COTTON CANDY 58.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 60,
+      "raw_row_text": "GRAPES AUTUMN ROYAL 60.00"
+    },
+    {
+      "commodity": "CANTALOUPES",
+      "cost": 35,
+      "raw_row_text": "CANTALOUPES 9 'Del Monte' Open Top JJ 35.00"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": 38,
+      "raw_row_text": "HONEYDEW Jumbo 5 38.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 100,
+      "raw_row_text": "WATERMELON Little Bear 4 100.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 95,
+      "raw_row_text": "WATERMELON Little Bear 5 95.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 90,
+      "raw_row_text": "WATERMELON Little Bear 6 90.00"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 45,
+      "raw_row_text": "WATERMELON Mini 7-8-9 (30lb) 45.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 65,
+      "raw_row_text": "Anjou (Wash) 70 65.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "Cheeky 28lbs (SA) 60-70 40.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 32,
+      "raw_row_text": "Packham 52 32.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 30,
+      "raw_row_text": "Rosemarie 80 30.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 36,
+      "raw_row_text": "Bosc 28lb (SA) 60 36.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 32,
+      "raw_row_text": "Bosc 28lb (SA) 80 32.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 55,
+      "raw_row_text": "Bosc (Wash) Golden 70-80 55.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 50,
+      "raw_row_text": "Bosc (Wash) Golden 110 50.00"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 40,
+      "raw_row_text": "PLUMS Black 36-40 40.00"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": "POMEGRANATES (Peru) 7-8-9 26.00"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 24,
+      "raw_row_text": "POMEGRANATES (Peru) 10-12-14 24.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 55,
+      "raw_row_text": "AVOCADO (Mex) 36 55.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 50,
+      "raw_row_text": "AVOCADO (Mex) 60 50.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 54,
+      "raw_row_text": "AVOCADO (Mex) 14x5 54.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 49,
+      "raw_row_text": "AVOCADO (Mex) 14x6 49.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 65,
+      "raw_row_text": "KIWI Green 20 65.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 58,
+      "raw_row_text": "KIWI Green 33 58.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 43,
+      "raw_row_text": "KIWI Green 12x1 43.00"
+    },
+    {
+      "commodity": "KIWI",
+      "cost": 40,
+      "raw_row_text": "KIWI Gold 8x1 40.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 13.5,
+      "raw_row_text": "MANGO (Mex) 8 13.50"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 10,
+      "raw_row_text": "MANGO (Guat) 9-10 \"Dole\" 10.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 24,
+      "raw_row_text": "PINEAPPLE \"Dole\" 5-6-7 24.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 25,
+      "raw_row_text": "PINEAPPLE Crownless limited 25.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 76,
+      "raw_row_text": "ASPARAGUS 11lb Large 76.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 28,
+      "raw_row_text": "BEETS Cooked & Peeled 12x500g 28.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 26,
+      "raw_row_text": "BEETS (Mex) 25lb Large 26.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "BROCCOLI (Mex) Crowns 44.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 26,
+      "raw_row_text": "CABBAGE (Ont) 16 26.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 40,
+      "raw_row_text": "CARROTS (China) Jumbo 40.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 52,
+      "raw_row_text": "CAULIFLOWER (USA) 9 \"Coastline\" 52.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 30,
+      "raw_row_text": "CAULIFLOWER \"T&A\" F30.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 70,
+      "raw_row_text": "CELERY (USA) 24 70.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12,
+      "raw_row_text": "CUCUMBERS #2 12.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 52,
+      "raw_row_text": "LETTUCE (USA) Lettuce Wrap Romaine 24 \"T&A\" #55371 52.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 20,
+      "raw_row_text": "LETTUCE (USA) Lettuce Wrap Others 20.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 36,
+      "raw_row_text": "LETTUCE (USA) Lettuce Wrap \"Muzzi\" 36.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 30,
+      "raw_row_text": "LETTUCE Green Leaf 30.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 30,
+      "raw_row_text": "LETTUCE Hearts 12x3 \"T&A\" 30.00"
+    },
+    {
+      "commodity": "ALMONDS",
+      "cost": 300,
+      "raw_row_text": "NUTS Almonds 18-20 *new crop 300.00"
+    },
+    {
+      "commodity": "WALNUTS",
+      "cost": 150,
+      "raw_row_text": "NUTS Walnuts – Eureka Dark Chandler 150.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 46,
+      "raw_row_text": "ONIONS Green Onion Iceless 4x12 Large 46.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "ONIONS Spanish Colossal 28.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 23,
+      "raw_row_text": "ONIONS Spanish Jumbo 23.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 20,
+      "raw_row_text": "ONIONS Red Onion Jumbo 20.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 55,
+      "raw_row_text": "ONIONS Sweet Onions 55.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 55,
+      "raw_row_text": "PEPPERS (Mex) Green Jumbo 55.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 50,
+      "raw_row_text": "PEPPERS (Mex) Green Choice 50.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 27,
+      "raw_row_text": "POTATOES (Ont) Yukon 27.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 25,
+      "raw_row_text": "POTATOES (USA) Bakers 50-60-90-100 25.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 115,
+      "raw_row_text": "TOMATOES (Usa) 5x6 115.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 115,
+      "raw_row_text": "TOMATOES (Usa) 6x6 115.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 100,
+      "raw_row_text": "TOMATOES (Usa) 6x7 100.00"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 82,
+      "raw_row_text": "TOMATOES Roma 82.00"
+    },
+    {
+      "commodity": "SALADS",
+      "cost": 13,
+      "raw_row_text": "SALADS Spring Mix 3lb 13.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 16,
+      "raw_row_text": "SALADS 4lb Spinach 16.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 28,
+      "raw_row_text": "SALADS 5x2lb Spinach 28.00"
+    },
+    {
+      "commodity": "COLESLAW",
+      "cost": 27,
+      "raw_row_text": "SALADS Separate Coleslaw 4x5lb 27.00"
+    },
+    {
+      "commodity": "SALADS",
+      "cost": 38,
+      "raw_row_text": "SALADS Separate Salad 4x5lb 38.00"
+    },
+    {
+      "commodity": "SALADS",
+      "cost": 14,
+      "raw_row_text": "SALADS Heritage 14.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 38,
+      "raw_row_text": "SALADS Shredded Lettuce 1/8 38.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 36,
+      "raw_row_text": "SALADS Chopped Romaine 36.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 14,
+      "raw_row_text": "SALADS Arugula 2lb 14.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 15,
+      "raw_row_text": "SALADS Kale 2lb 15.00"
+    },
+    {
+      "commodity": "TURNIPS",
+      "cost": 31,
+      "raw_row_text": "WAX TURNIPS 31.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 20,
+      "raw_row_text": "ZUCCHINI (Mex) Green Fancy ltd. 20.00"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 20,
+      "raw_row_text": "ZUCCHINI (Mex) Yellow ltd. 20.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 25,
+      "raw_row_text": "Peel Garlic 6x3 25.00"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 28,
+      "raw_row_text": "Ginger (China) 28.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 34,
+      "raw_row_text": "ORGANICS Beets Cooked & Peeled 34.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 30,
+      "raw_row_text": "ORGANICS (USA) Broccoli 14s \"Foxy\" 30.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 30,
+      "raw_row_text": "ORGANICS Romaine Hearts 12x3 \"Foxy\" 30.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 65,
+      "raw_row_text": "ORGANICS (Mex) Celery 30 Naked \"Deardorff\" 65.00"
+    }
+  ]
+}

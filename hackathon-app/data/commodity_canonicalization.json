@@ -1,0 +1,291 @@
+{
+  "merges": [
+    {
+      "source": "MANGO",
+      "canonical": "MANGOES",
+      "reason": "singular form"
+    },
+    {
+      "source": "MANGOS",
+      "canonical": "MANGOES",
+      "reason": "alternate plural"
+    },
+    {
+      "source": "AVOCADOES",
+      "canonical": "AVOCADOS",
+      "reason": "alternate plural"
+    },
+    {
+      "source": "EGGPLANTS",
+      "canonical": "EGGPLANT",
+      "reason": "plural form"
+    },
+    {
+      "source": "KIWI",
+      "canonical": "KIWIS",
+      "reason": "singular form"
+    },
+    {
+      "source": "POMEGRANATE",
+      "canonical": "POMEGRANATES",
+      "reason": "singular form"
+    },
+    {
+      "source": "CABBAGES",
+      "canonical": "CABBAGE",
+      "reason": "plural form"
+    },
+    {
+      "source": "GRAPEFRUIT",
+      "canonical": "GRAPEFRUITS",
+      "reason": "singular form"
+    },
+    {
+      "source": "ARTICHOKES",
+      "canonical": "ARTICHOKE",
+      "reason": "plural form"
+    },
+    {
+      "source": "RADISHES",
+      "canonical": "RADISH",
+      "reason": "plural form"
+    },
+    {
+      "source": "PINEAPPLE",
+      "canonical": "PINEAPPLES",
+      "reason": "singular form"
+    },
+    {
+      "source": "HONEYDEWS",
+      "canonical": "HONEYDEW",
+      "reason": "plural form"
+    },
+    {
+      "source": "LEEK",
+      "canonical": "LEEKS",
+      "reason": "singular form"
+    },
+    {
+      "source": "FIG",
+      "canonical": "FIGS",
+      "reason": "singular form"
+    },
+    {
+      "source": "DATES",
+      "canonical": "DATE",
+      "reason": "plural form"
+    },
+    {
+      "source": "YAM",
+      "canonical": "YAMS",
+      "reason": "singular form"
+    },
+    {
+      "source": "TURNIPS",
+      "canonical": "TURNIP",
+      "reason": "plural form"
+    },
+    {
+      "source": "COLLARDS",
+      "canonical": "COLLARD",
+      "reason": "plural form"
+    },
+    {
+      "source": "COLLARD GREENS",
+      "canonical": "COLLARD",
+      "reason": "descriptive variant of same item"
+    },
+    {
+      "source": "PARSNIP",
+      "canonical": "PARSNIPS",
+      "reason": "singular form"
+    },
+    {
+      "source": "LOQUAT",
+      "canonical": "LOQUATS",
+      "reason": "singular form"
+    },
+    {
+      "source": "PERSIMMON",
+      "canonical": "PERSIMMONS",
+      "reason": "singular form"
+    },
+    {
+      "source": "KAKI",
+      "canonical": "PERSIMMONS",
+      "reason": "alternate name (Japanese) for persimmon; single row"
+    },
+    {
+      "source": "APRICOT",
+      "canonical": "APRICOTS",
+      "reason": "singular form"
+    },
+    {
+      "source": "COCONUT",
+      "canonical": "COCONUTS",
+      "reason": "singular form"
+    },
+    {
+      "source": "EDDOES",
+      "canonical": "EDDOE",
+      "reason": "plural form"
+    },
+    {
+      "source": "CANTALOUPES",
+      "canonical": "CANTALOUPE",
+      "reason": "plural form"
+    },
+    {
+      "source": "NECTARINES",
+      "canonical": "NECTARINE",
+      "reason": "plural form"
+    },
+    {
+      "source": "CLEMENTINE",
+      "canonical": "CLEMENTINES",
+      "reason": "singular form"
+    },
+    {
+      "source": "MANDARINES",
+      "canonical": "MANDARIN",
+      "reason": "plural/spelling variant"
+    },
+    {
+      "source": "NADORCOTT",
+      "canonical": "MANDARIN",
+      "reason": "specific mandarin variety; single row"
+    },
+    {
+      "source": "SWISSCHARD",
+      "canonical": "SWISS CHARD",
+      "reason": "spacing variant"
+    },
+    {
+      "source": "SUGARCANE",
+      "canonical": "SUGAR CANE",
+      "reason": "spacing variant"
+    },
+    {
+      "source": "KOLARABI",
+      "canonical": "KOHLRABI",
+      "reason": "spelling variant"
+    },
+    {
+      "source": "SALAD",
+      "canonical": "SALADS",
+      "reason": "singular form"
+    },
+    {
+      "source": "CHAYOTTE",
+      "canonical": "CHAYOTES",
+      "reason": "spelling variant"
+    },
+    {
+      "source": "GOLDEN BERRIES",
+      "canonical": "GOLDENBERRY",
+      "reason": "spacing/plural variant"
+    },
+    {
+      "source": "SNOWPEAS",
+      "canonical": "SNOW PEAS",
+      "reason": "spacing variant"
+    },
+    {
+      "source": "DRAGON",
+      "canonical": "DRAGON FRUIT",
+      "reason": "truncated form"
+    },
+    {
+      "source": "DRAGONFRUIT",
+      "canonical": "DRAGON FRUIT",
+      "reason": "spacing variant"
+    },
+    {
+      "source": "BRUSSEL",
+      "canonical": "BRUSSEL SPROUTS",
+      "reason": "truncated form"
+    },
+    {
+      "source": "BRUSSELS",
+      "canonical": "BRUSSEL SPROUTS",
+      "reason": "truncated/plural form"
+    },
+    {
+      "source": "ROMAINE",
+      "canonical": "ROMAINE LETTUCE",
+      "reason": "truncated form of same item"
+    },
+    {
+      "source": "DILLWEED",
+      "canonical": "DILL",
+      "reason": "qualifier suffix; same herb"
+    },
+    {
+      "source": "METHI LEAF",
+      "canonical": "METHI",
+      "reason": "qualifier suffix; same herb"
+    },
+    {
+      "source": "JALAPENO",
+      "canonical": "PEPPERS",
+      "reason": "specific pepper variety; single row"
+    },
+    {
+      "source": "JALAPENOS",
+      "canonical": "PEPPERS",
+      "reason": "specific pepper variety; single row"
+    },
+    {
+      "source": "POBLANOS",
+      "canonical": "PEPPERS",
+      "reason": "specific pepper variety; single row"
+    },
+    {
+      "source": "CUBANELLE",
+      "canonical": "PEPPERS",
+      "reason": "specific pepper variety; single row"
+    },
+    {
+      "source": "CHILI",
+      "canonical": "PEPPERS",
+      "reason": "generic chili pepper; single row"
+    },
+    {
+      "source": "SHANGHAI CHOY",
+      "canonical": "BOK CHOY",
+      "reason": "specific bok choy variety; single row"
+    },
+    {
+      "source": "ORGANIC PEARS",
+      "canonical": "PEARS",
+      "reason": "qualifier prefix; single row"
+    },
+    {
+      "source": "ORGANIC APPLES",
+      "canonical": "APPLES",
+      "reason": "qualifier prefix; few rows"
+    },
+    {
+      "source": "GREEN LEAF LETTUCE",
+      "canonical": "LETTUCE",
+      "reason": "descriptive qualifier; single row"
+    },
+    {
+      "source": "ROOT PARSLEY",
+      "canonical": "PARSLEY",
+      "reason": "qualifier prefix; single row"
+    },
+    {
+      "source": "GARLICPEELED",
+      "canonical": "GARLIC",
+      "reason": "qualifier suffix (preparation); few rows"
+    },
+    {
+      "source": "INDIAN BITTER MELON",
+      "canonical": "BITTER MELON",
+      "reason": "qualifier prefix; single row"
+    }
+  ],
+  "generated_at": "2026-04-26T19:00:47.323Z",
+  "input_count": 280
+}

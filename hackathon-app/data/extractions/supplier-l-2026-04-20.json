@@ -1,0 +1,2991 @@
+{
+  "doc_id": "supplier-l-2026-04-20",
+  "supplier": "supplier-l",
+  "date": "2026-04-20",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-l-2026-04-20.csv",
+  "format": "csv",
+  "duration_ms": 1,
+  "row_count": 596,
+  "rows": [
+    {
+      "commodity": "ANISE",
+      "cost": 44,
+      "raw_row_text": "ANISE 18,,44,ANDY BOY"
+    },
+    {
+      "commodity": "ANISE",
+      "cost": 44,
+      "raw_row_text": ",BP,44,ANDY BOY"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 55,
+      "raw_row_text": "APPLE COSMIC CRISP EURO 50,,55,COSMIC CRISP"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 28,
+      "raw_row_text": "APPLE GOLDEN BLUSH 36 8KG,,28,LA TRENTINA"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 28,
+      "raw_row_text": ",B LOT,28,LA TRENTINA"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 66,
+      "raw_row_text": "APPLE GRANNY 72,,66,GENERIC"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 66,
+      "raw_row_text": "APPLE GRANNY 80,,66,CHENAIL"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 85,
+      "raw_row_text": "APPLE ROYAL GALA 80,,85,CMI"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": null,
+      "raw_row_text": ",,,REMBRANDT"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 85,
+      "raw_row_text": ",BP,85,BAYGROWERS"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 57,
+      "raw_row_text": "ARTICHOKE 18,,57,OCEAN MIST"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 57,
+      "raw_row_text": "ARTICHOKE 24,,57,OCEAN MIST"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 57,
+      "raw_row_text": ",BP,57,OCEAN MIST"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 45,
+      "raw_row_text": "ARTICHOKE JERUSALEM ,,45,DEN BOER"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 100,
+      "raw_row_text": "ARTICHOKE LOOSE 40 LB,,100,OCEAN MIST"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 57,
+      "raw_row_text": "ARTICHOKE PURPLE 18,,57,OCEAN MIST"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 76,
+      "raw_row_text": "ASPARAGUS 11 LB LARGE,,76,PEACOCK"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 74,
+      "raw_row_text": "ASPARAGUS 11 LB STANDARD,,74,PEACOCK"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": null,
+      "raw_row_text": ",,,PRIME TIME"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 89,
+      "raw_row_text": "ASPARAGUS WHITE,,89,GENERIC"
+    },
+    {
+      "commodity": "ATEMOYA",
+      "cost": 40,
+      "raw_row_text": "ATEMOYA 4KG,,40,FG"
+    },
+    {
+      "commodity": "ATEMOYA",
+      "cost": null,
+      "raw_row_text": ",,,HMV"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 18,
+      "raw_row_text": "AVOCADO 16,,18,FLAVACADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": ",,,FLAVOCADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 49,
+      "raw_row_text": "AVOCADO 32,,49,FLAVOCADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 54,
+      "raw_row_text": "AVOCADO 48,,54,FLAVACADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": ",,,FLAVOCADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 48,
+      "raw_row_text": "AVOCADO 5-14-BAG,,48,FLAVACADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": ",,,FLAVOCADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 42,
+      "raw_row_text": ",MEXICO,42,AVO VALUE"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 50,
+      "raw_row_text": "AVOCADO 60,,50,FLAVOCADO"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 46,
+      "raw_row_text": ",MEXICO,46,AVO VALUE"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 46,
+      "raw_row_text": "AVOCADO 6-14-BAG,,46,GENERIC"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 32,
+      "raw_row_text": "BANANA #1,,32,DOLE"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 30,
+      "raw_row_text": ",FYFFES,30,FYFFES"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 32,
+      "raw_row_text": "BANANA #1 NO GAS,,32,DOLE"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 27,
+      "raw_row_text": "BANANA BABY,,27,DOLE"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 32,
+      "raw_row_text": "BANANA MANZANO,,32,FYFFES"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 62,
+      "raw_row_text": "BANANA PLANTAIN,,62,DOLE"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 30,
+      "raw_row_text": ",RECLAM,30,DEL MONTE"
+    },
+    {
+      "commodity": "BANANAS",
+      "cost": 28,
+      "raw_row_text": "BANANA RED,,28,DOLE"
+    },
+    {
+      "commodity": "BASIL",
+      "cost": 11,
+      "raw_row_text": "BASIL 12,,11,J.D. FRESH HERBS"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 100,
+      "raw_row_text": "BEAN FAVA,,100,SWEET SEASONS"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 46,
+      "raw_row_text": "BEAN FRENCH 680G,,46,UNIESPECIES"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 52,
+      "raw_row_text": "BEAN FRENCH GREEN,,52,CARROUSEL"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": null,
+      "raw_row_text": ",,,PURE FRESH"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": null,
+      "raw_row_text": ",,,SERENA"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": null,
+      "raw_row_text": ",,,UNIESPECIES"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 52,
+      "raw_row_text": "BEAN GREEN H.P.,,52,5 BROTHERS"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 10,
+      "raw_row_text": "BEAN GREEN M.P. ,,10,RED BARN"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 10,
+      "raw_row_text": "BEAN GREEN MEXICAN H.P.,,10,CARROUSEL"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 45,
+      "raw_row_text": "BEAN RUNNER,,45,KAMPO"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 55,
+      "raw_row_text": "BEAN YELLOW HP 15 LB,,55,5 BROTHERS"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 20,
+      "raw_row_text": "BEET BUNCH 12CT,,20,JJ LOOP"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 64,
+      "raw_row_text": "BEET BUNCH 24CT,,64,LITTLE BEAR"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 30,
+      "raw_row_text": "BLACKBERRY 6OZ,GREEN DOLE,30,DOLE"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 24,
+      "raw_row_text": ",GREEN DRIS,24,DRISCOLL'S"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 8,
+      "raw_row_text": ",RECLAM,8,DRISCOLL'S"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 24,
+      "raw_row_text": ",RED DRIS,24,DRISCOLL'S"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 8,
+      "raw_row_text": ",SPECIAL,8,DRISCOLL'S"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 44,
+      "raw_row_text": "BLUEBERRY 1/2 PT,P GREEN,44,BEAUTIES"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": null,
+      "raw_row_text": ",,,LADY B"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": 12,
+      "raw_row_text": ",SPECIAL,12,BEAUTIES"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 68,
+      "raw_row_text": "BROCCOLI 14,HARVSTHOLD,68,MARTORI"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 78,
+      "raw_row_text": "BROCCOLI 18,ANDY BOY,78,ANDY BOY"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 72,
+      "raw_row_text": ",HARVSTHOLD,72,MARTORI"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 34,
+      "raw_row_text": ",SPECIAL,34,MARTORI"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 52,
+      "raw_row_text": "BROCCOLI CROWN,,52,GENERIC"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": null,
+      "raw_row_text": ",,,MR. LUCKY"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 32,
+      "raw_row_text": ",MEXICO,32,GENERIC"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 12,
+      "raw_row_text": ",SPECIAL,12,MR. LUCKY"
+    },
+    {
+      "commodity": "BROCCOLINI",
+      "cost": 46,
+      "raw_row_text": "BROCCOLINI,,46,ANDY BOY"
+    },
+    {
+      "commodity": "BRUSSEL",
+      "cost": 56,
+      "raw_row_text": "BRUSSEL SPROUTS ICED,,56,ALTAR"
+    },
+    {
+      "commodity": "BRUSSEL",
+      "cost": null,
+      "raw_row_text": ",,,PINOS"
+    },
+    {
+      "commodity": "BRUSSEL",
+      "cost": 40,
+      "raw_row_text": ",A SIZE,40,CIRCLE"
+    },
+    {
+      "commodity": "BRUSSEL",
+      "cost": 26,
+      "raw_row_text": ",SPECIAL,26,CIRCLE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 23,
+      "raw_row_text": "CABBAGE GREEN 16,LOCAL,23,CAULI ONE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 64,
+      "raw_row_text": "CABBAGE GREEN FLAT,,64,MANLEY"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 28,
+      "raw_row_text": "CABBAGE RED 12,LOCAL,28,CAULI ONE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 30,
+      "raw_row_text": "CABBAGE RED 16,LOCAL,30,CAULI ONE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 30,
+      "raw_row_text": "CABBAGE SAVOY 12,LOCAL,30,CAULI ONE"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 30,
+      "raw_row_text": "CABBAGE SAVOY 16,LOCAL,30,CAULI ONE"
+    },
+    {
+      "commodity": "CACAO",
+      "cost": 40,
+      "raw_row_text": "CACAO 4KG,,40,GENERIC"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 33,
+      "raw_row_text": "CANTALOUPE 12,,33,SOL"
+    },
+    {
+      "commodity": "CANTALOUPE",
+      "cost": 32,
+      "raw_row_text": "CANTALOUPE 9 JBO,,32,SOL"
+    },
+    {
+      "commodity": "CARDONE",
+      "cost": 90,
+      "raw_row_text": "CARDONE,,90,JOE'S"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 27,
+      "raw_row_text": "CARROT 16X3,,27,GENERIC"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 80,
+      "raw_row_text": "CARROT BABY PEELED 12X1LB,,80,CARROUSEL"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 50,
+      "raw_row_text": "CARROT BUNCH,,50,GRIMMWAY"
+    },
+    {
+      "commodity": "CASSAVA",
+      "cost": 48,
+      "raw_row_text": "CASSAVA 35LBS,,48,GENERIC"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 60,
+      "raw_row_text": "CAULIFLOWER 12,,60,ANDY BOY"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": ",,,OCEAN MIST"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 56,
+      "raw_row_text": ",MEXICO,56,CARROUSEL"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 55,
+      "raw_row_text": "CAULIFLOWER 9,,55,ANDY BOY"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": ",,,OCEAN MIST"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 55,
+      "raw_row_text": ",MEXICO,55,CARROUSEL"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 34,
+      "raw_row_text": ",SPECIAL,34,ANDY BOY"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": ",,,CARROUSEL"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": ",,,OCEAN MIST"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 55,
+      "raw_row_text": "CAULIFLOWER GREEN,,55,NATURES REWARD"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 65,
+      "raw_row_text": "CAULIFLOWER ORANGE,,65,NATURES REWARD"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 65,
+      "raw_row_text": "CAULIFLOWER PURPLE,,65,NATURES REWARD"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 65,
+      "raw_row_text": "CAULIFLOWER ROMANESCO,,65,NATURES REWARD"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 68,
+      "raw_row_text": "CELERY 24,,68,DOLE"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": ",,,OCEAN MIST"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 55,
+      "raw_row_text": ",MEXICAN,55,GENERIC"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": ",,,MR. LUCKY"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 12,
+      "raw_row_text": ",OM,12,OCEAN MIST"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 18,
+      "raw_row_text": ",SPECIAL,18,OCEAN MIST"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 40,
+      "raw_row_text": "CELERY 30,,40,BONIPAK"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 60,
+      "raw_row_text": ",MEXICAN,60,GENERIC"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 36,
+      "raw_row_text": "CELERY HEART 18X2,,36,OCEAN MIST"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 18,
+      "raw_row_text": "CELERY ROOT,,18,DEN BOER"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "CHESTNUT",
+      "cost": 90,
+      "raw_row_text": "CHESTNUT SNACK 16X200G,,90,MARCHESE"
+    },
+    {
+      "commodity": "CHIVES",
+      "cost": 13,
+      "raw_row_text": "CHIVES,,13,BONCHEFF"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 28,
+      "raw_row_text": "CILANTRO 24CT W/ROOTS,,28,JJ LOOP"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 54,
+      "raw_row_text": "CILANTRO 60CT W/ ROOTS,,54,JJ LOOP"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": "CLEMENTINE OR 16KG SIZE 2 NP,,20,GRANOT"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": "CLEMENTINE OR 16KG SIZE 3 NP,,20,GRANOT"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": ",B LOT,20,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": "CLEMENTINE OR 16KG SIZE2 NP-II,,20,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": ",B LOT,20,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": "CLEMENTINE OR 16KG SIZE3 NP-II,,20,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 20,
+      "raw_row_text": ",B LOT,20,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 10,
+      "raw_row_text": "CLEMENTINE OR 2.3 KG SIZE 20,,10,MEHADRIN"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 40,
+      "raw_row_text": "CLEMENTINE OR 8 KG SIZE 40,,40,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 40,
+      "raw_row_text": ",TISSUE,40,SHOHAM"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 50,
+      "raw_row_text": "CLEMENTINE S&L POUCH S.2/3,SPECIAL,50,BOLLO"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": "CLEMENTINE STEM&LEAF 7K S.1,,37,BOLLO"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": ",B LOT,37,BOLLO"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": "CLEMENTINE STEM&LEAF 7K S.1,SPECIAL,37,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": "CLEMENTINE STEM&LEAF 7K S.X,,37,BOLLO"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": ",,,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": ",B LOT,37,LA KENZIE"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": 37,
+      "raw_row_text": ",SPECIAL,37,LA KENZIE"
+    },
+    {
+      "commodity": "COCONUTS",
+      "cost": 27,
+      "raw_row_text": "COCONUT GREEN 10CT,,27,GENERIC"
+    },
+    {
+      "commodity": "COLLARD",
+      "cost": 30,
+      "raw_row_text": "COLLARD 12CT,,30,JJ LOOP"
+    },
+    {
+      "commodity": "COLLARD",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 100,
+      "raw_row_text": "CORN PEACHES & CREAM,,100,PIONEER"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 12,
+      "raw_row_text": "CUCUMBER ENGLISH - LG,,12,BAYSHORE"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,NATURE FRESH"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,TOPLINE"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 16,
+      "raw_row_text": ",MEXICO,16,FRESH FARMS"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 10,
+      "raw_row_text": "CUCUMBER ENGLISH - MD,,10,BAYSHORE"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,DEL FRESCO"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,TOPLINE"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 10,
+      "raw_row_text": ",B LOT,10,DEL FRESCO"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 19,
+      "raw_row_text": "CUCUMBER MINI 12X6 TRAY,,19,CARROUSEL"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,NATURE FRESH"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 19,
+      "raw_row_text": ",B LOT,19,CARROUSEL"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 19,
+      "raw_row_text": ",BP,19,GREAT LAKES"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": ",,,SUNSET"
+    },
+    {
+      "commodity": "CURRY",
+      "cost": 48,
+      "raw_row_text": "CURRY LEAVES,,48,GENERIC"
+    },
+    {
+      "commodity": "DAIKON",
+      "cost": 45,
+      "raw_row_text": "DAIKON WITH TOPS 40LB,,45,GENERIC"
+    },
+    {
+      "commodity": "DANDELION",
+      "cost": 33,
+      "raw_row_text": "DANDELION GREEN 12CT,,33,JJ LOOP"
+    },
+    {
+      "commodity": "DANDELION",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "DATE",
+      "cost": 62,
+      "raw_row_text": "DATE MEDJOUL 12X454G,,62,MEHADRIN"
+    },
+    {
+      "commodity": "DATE",
+      "cost": 69,
+      "raw_row_text": "DATE YELLOW 4.5KG,,69,ATHOS"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 50,
+      "raw_row_text": "DILL WEED 24CT,,50,JJ LOOP"
+    },
+    {
+      "commodity": "DILL",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "DRAGON",
+      "cost": 30,
+      "raw_row_text": "DRAGON FRUIT 10LB,,30,ALK Fresh"
+    },
+    {
+      "commodity": "DRAGON",
+      "cost": 30,
+      "raw_row_text": "DRAGON FRUIT RED FLESH 8CT,,30,HMV"
+    },
+    {
+      "commodity": "EDDOE",
+      "cost": 52,
+      "raw_row_text": "EDDOE,,52,GENERIC"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 36,
+      "raw_row_text": "EGGPLANT BABY,,36,ST. DAVID'S"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": null,
+      "raw_row_text": ",,,ZAKARIA"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 52,
+      "raw_row_text": "EGGPLANT CHINESE 30LB,,52,GENERIC"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 24,
+      "raw_row_text": "EGGPLANT FANCY 24,RECLAM,24,SUN ONE"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 10,
+      "raw_row_text": "EGGPLANT FANCY 32,,10,SUNFED"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 40,
+      "raw_row_text": "EGGPLANT INDIAN 30LB,,40,GENERIC"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 42,
+      "raw_row_text": "ENDIVE 24,,42,NATIONAL"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": null,
+      "raw_row_text": ",,,RAYS HERITAGE"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 48,
+      "raw_row_text": "ENDIVE BELGIUM,,48,FLANDRIA"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": 50,
+      "raw_row_text": "ESCAROLE 24,,50,NATIONAL"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": null,
+      "raw_row_text": ",,,RAYS HERITAGE"
+    },
+    {
+      "commodity": "FIG",
+      "cost": 11,
+      "raw_row_text": "FIG PURPLE 16 BRAZIL ,,11,HMV"
+    },
+    {
+      "commodity": "FIG",
+      "cost": 11,
+      "raw_row_text": "FIG PURPLE 20 BRAZIL ,,11,HMV"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 18,
+      "raw_row_text": "GARLIC 50X3CT,,18,LT BROS"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 27,
+      "raw_row_text": "GARLIC BRAID 1KG,,27,LT BROS"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 26,
+      "raw_row_text": "GARLIC LOOSE 10KG,,26,GENERIC"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": null,
+      "raw_row_text": ",,,LT BROS"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 60,
+      "raw_row_text": "GARLIC LOOSE PURPLE 10 KG,,60,EL PAJIZO"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 90,
+      "raw_row_text": "GARLIC PURPLE COLOSSAL 30LB,,90,EL PAJIZO"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 45,
+      "raw_row_text": ",P GREEN,45,GENERIC"
+    },
+    {
+      "commodity": "GARLICPEELED",
+      "cost": 25,
+      "raw_row_text": "GARLIC-PEELED,,25,LT BROS"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 32,
+      "raw_row_text": "GINGER,,32,AM Produce"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": null,
+      "raw_row_text": ",,,LT BROS"
+    },
+    {
+      "commodity": "GOLDENBERRY",
+      "cost": 38,
+      "raw_row_text": "GOLDENBERRY 12X200G,,38,CARIBBEAN"
+    },
+    {
+      "commodity": "GOLDENBERRY",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "GOLDENBERRY",
+      "cost": 10,
+      "raw_row_text": ",B LOT,10,GENERIC"
+    },
+    {
+      "commodity": "GOLDENBERRY",
+      "cost": 38,
+      "raw_row_text": ",P GREEN,38,ATHOS"
+    },
+    {
+      "commodity": "GRANADILLA",
+      "cost": 32,
+      "raw_row_text": "GRANADILLA,,32,CARIBBEAN"
+    },
+    {
+      "commodity": "GRANADILLA",
+      "cost": null,
+      "raw_row_text": ",,,FRUIT EXOTIC"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 70,
+      "raw_row_text": "GRAPE COTTON CANDY 7.3KG,,70,GESEX"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,QUELAN"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 65,
+      "raw_row_text": "GRAPE SDLS BLK SW FAVOR JB900,,65,CLASSIC"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 95,
+      "raw_row_text": "GRAPE SDLS GR A.CRISP 4J,,95,FLAVOR MOUNTAIN"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,TALSA"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 98,
+      "raw_row_text": "GRAPE SDLS GR A.CRISP 5J,,98,SUN FRUIT"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,TALSA"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 95,
+      "raw_row_text": "GRAPE SDLS GR A.CRISP XJ1000,,95,FLAVOR FARMS"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,SANTA MARIA"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,SUBSOLE"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 95,
+      "raw_row_text": ",CHILE,95,GESEX"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 65,
+      "raw_row_text": "GRAPE SDLS GR SW GLOBE XJB1000,,65,UVICA"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 30,
+      "raw_row_text": "GRAPE SDLS GR SWEETIES XL700,RECLAM,30,GLS"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 45,
+      "raw_row_text": "GRAPE SDLS RED ALLISON JB900,,45,SANTA MARIA"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,SUBSOLE"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 35,
+      "raw_row_text": "GRAPE SDLS RED ALLISON LG500,DISCOUNT,35,SUBSOLE"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 45,
+      "raw_row_text": "GRAPE SDLS RED TIMCO JB900,DISCOUNT,45,SUBSOLE"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 65,
+      "raw_row_text": "GRAPE SEED RED GLOBE JB900,,65,CLASSIC"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": ",,,SANTA MARIA"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 32,
+      "raw_row_text": "GRAPEFRUIT RED 32,PLU,32,JAFFA"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 32,
+      "raw_row_text": "GRAPEFRUIT RED 35,PLU,32,JAFFA"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 42,
+      "raw_row_text": "GRAPEFRUIT RED 50,NON PLU,42,LOVELY"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 42,
+      "raw_row_text": ",PLU,42,LOVELY"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 42,
+      "raw_row_text": "GRAPEFRUIT RED 55,PLU,42,LOVELY"
+    },
+    {
+      "commodity": "GRAPEFRUITS",
+      "cost": 40,
+      "raw_row_text": "GRAPEFRUIT RED 60,NON PLU,40,LOVELY"
+    },
+    {
+      "commodity": "GUAVA",
+      "cost": 15,
+      "raw_row_text": "GUAVA 1.5 KG,,15,DIAMOND"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 68,
+      "raw_row_text": "JUICE BLUEBERRY 48OZ,,68,POM WONDERFUL"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26,
+      "raw_row_text": "JUICE BLUEBERRY 6X16OZ,,26,POM WONDERFUL"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26,
+      "raw_row_text": "JUICE CHERRY 6X16OZ,,26,POM WONDERFUL"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 26,
+      "raw_row_text": "JUICE POMEGRANATE 6X16OZ,,26,POM WONDERFUL"
+    },
+    {
+      "commodity": "JUICE",
+      "cost": 68,
+      "raw_row_text": "JUICE POMEGRANATE 6X48OZ,,68,POM WONDERFUL"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 45,
+      "raw_row_text": "KALE GREEN 24CT,,45,JJ LOOP"
+    },
+    {
+      "commodity": "KALE",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 28,
+      "raw_row_text": "KALE RED 12CT,,28,JJ LOOP"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 36,
+      "raw_row_text": "KALE TUSCAN (BLACK) 12CT,,36,LITTLE BEAR"
+    },
+    {
+      "commodity": "KARELLA",
+      "cost": 72,
+      "raw_row_text": "KARELLA INDIAN 30LB,,72,GENERIC"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 54,
+      "raw_row_text": "KIWI 23 VF 9KG,,54,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 54,
+      "raw_row_text": "KIWI 25 VF 9KG,,54,PINK"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": null,
+      "raw_row_text": ",,,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 54,
+      "raw_row_text": "KIWI 27 VF 9KG,,54,BRERO"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": null,
+      "raw_row_text": ",,,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 42,
+      "raw_row_text": "KIWI 30 VF 9KG,,42,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 42,
+      "raw_row_text": ",B LOT,42,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 44,
+      "raw_row_text": "KIWI 33 VF 9KG,,44,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 38,
+      "raw_row_text": "KIWI 39 VF 9KG,,38,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 38,
+      "raw_row_text": "KIWI 42 VF 9KG,,38,BRERO"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 30,
+      "raw_row_text": "KIWI 46 VF 9KG,,30,BRERO"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": null,
+      "raw_row_text": ",,,TOKAS"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 10,
+      "raw_row_text": ",B LOT,10,BRERO"
+    },
+    {
+      "commodity": "KIWIS",
+      "cost": 36,
+      "raw_row_text": "KIWI CLAMSHELL 10X600GR,,36,BRERO"
+    },
+    {
+      "commodity": "KOLARABI",
+      "cost": 42,
+      "raw_row_text": "KOLARABI 12CT,,42,LITTLE BEAR"
+    },
+    {
+      "commodity": "KUMQUAT",
+      "cost": 40,
+      "raw_row_text": "KUMQUAT,,40,GENERIC"
+    },
+    {
+      "commodity": "LEEK",
+      "cost": 48,
+      "raw_row_text": "LEEK,,48,CULTURES"
+    },
+    {
+      "commodity": "LEEK",
+      "cost": 38,
+      "raw_row_text": ",P GREEN,38,GENERIC"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMON 100 15KG,PLU,38,DOWN SOUTH"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": ",,,FRUIT ONE"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 36,
+      "raw_row_text": "LEMON 113-2 15KG NP,NON PLU,36,FRUIT ONE"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 50,
+      "raw_row_text": "LEMON 14X2LB,,50,DARLING"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMON 75 15KG,PLU,38,DOWN SOUTH"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": ",,,FRUIT ONE"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": ",SPECIAL,38,DOWN SOUTH"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 38,
+      "raw_row_text": "LEMON 88 15KG,PLU,38,DOWN SOUTH"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": ",,,FRUIT ONE"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 46,
+      "raw_row_text": "LEMON FANCY 75,,46,KINGS RIVER"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 46,
+      "raw_row_text": ",SUNKIST,46,SUNKIST"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 74,
+      "raw_row_text": "LETTUCE 24 WRAPPED,,74,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,LYLLES"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,NATURES REWARD"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 74,
+      "raw_row_text": ",BP,74,DOLE"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,OCEAN MIST"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,STEINBECK"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 74,
+      "raw_row_text": ",MEXICO,74,CARROUSEL"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 30,
+      "raw_row_text": ",P GREEN,30,CARROUSEL"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 20,
+      "raw_row_text": ",SPECIAL,20,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 28,
+      "raw_row_text": "LETTUCE 30 WRAPPED,SPECIAL,28,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 38,
+      "raw_row_text": "LETTUCE ARUGULA 24CT,,38,LITTLE BEAR"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 60,
+      "raw_row_text": "LETTUCE BOSTON 12,,60,FLANDRIA"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,SOHO"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 46,
+      "raw_row_text": "LETTUCE FRISEE 10CT,,46,CUADRASPANIA"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 34,
+      "raw_row_text": "LETTUCE LEAF GREEN 24,,34,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 34,
+      "raw_row_text": ",BP,34,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,DOLE"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,STEINBECK"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 32,
+      "raw_row_text": "LETTUCE LEAF RED 24,,32,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 32,
+      "raw_row_text": ",BP,32,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 32,
+      "raw_row_text": "LETTUCE LEAF RED 24,,32,DOLE"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 32,
+      "raw_row_text": ",,32,STEINBECK"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 36,
+      "raw_row_text": "LETTUCE LITTLE GEM 8X4PK,,36,CHURCH BRO"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 44,
+      "raw_row_text": "LETTUCE ROMAINE 24,,44,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 44,
+      "raw_row_text": ",BP,44,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,DOLE"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,STEINBECK"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 8,
+      "raw_row_text": "LETTUCE ROMAINE HEART 18X2,SPECIAL,8,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 60,
+      "raw_row_text": "LETTUCE ROMAINE HEART S B 7X6,,60,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 52,
+      "raw_row_text": "LETTUCE ROMAINE HEARTS 12/3,,52,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 52,
+      "raw_row_text": ",BP,52,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,DOLE"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": null,
+      "raw_row_text": ",,,STEINBECK"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 8,
+      "raw_row_text": ",SPECIAL,8,ANDY BOY"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 34,
+      "raw_row_text": "LETTUCE ROMAINE HRTS BABY 14X3,,34,ANDY BOY"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 105,
+      "raw_row_text": "LIME 175,,105,GENERIC"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": ",,,PASO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": ",,,SAAO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 100,
+      "raw_row_text": "LIME 200,,100,GENERIC"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": ",,,PASO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": ",,,SAAO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 98,
+      "raw_row_text": "LIME 230,,98,SAAO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 37,
+      "raw_row_text": "LIME KEY 12X1LB,,37,PASO"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 85,
+      "raw_row_text": "LIME SWEET JMB,,85,GENERIC"
+    },
+    {
+      "commodity": "LOQUAT",
+      "cost": 40,
+      "raw_row_text": "LOQUAT 2KG XL,,40,FRUT ALTEA"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 47,
+      "raw_row_text": "MANDARIN 15X2LB,,47,DARLING"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": "MANDARIN 17KG SIZE 1 NP,,42,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": ",B LOT,42,CAP AGRO"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": null,
+      "raw_row_text": ",,,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": "MANDARIN 17KG SIZE 1X NP,,42,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": "MANDARIN 17KG SIZE 2 NP,,42,CAP AGRO"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": null,
+      "raw_row_text": ",,,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": ",B LOT,42,BERKANE"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": null,
+      "raw_row_text": ",,,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 42,
+      "raw_row_text": "MANDARIN 17KG SIZE 3 NP,,42,CAP AGRO"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": null,
+      "raw_row_text": ",,,LADY B"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 26,
+      "raw_row_text": "MANDARIN KINNOW 10KG SIZE 54,,26,TOPPINS"
+    },
+    {
+      "commodity": "MANDARIN",
+      "cost": 40,
+      "raw_row_text": "MANDARIN KINNOW 15KG SIZE 2 NP,,40,TOPPINS"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "MANGO 10,,16,GENERIC"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "MANGO 9,,16,GENERIC"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 52,
+      "raw_row_text": "MANGO GREEN 30LB,,52,GENERIC"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 26,
+      "raw_row_text": "MANGO MINGOLO 4KG 12CT,,26,GENERIC"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 24,
+      "raw_row_text": "MANGO PALMER 8,,24,GRAND VALLE"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 24,
+      "raw_row_text": "MANGO PALMER 9,,24,GRAND VALLE"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 24,
+      "raw_row_text": "MANGO SUGAR 2KG,,24,FRUIT EXOTIC"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 30,
+      "raw_row_text": "MELON DINO 5,,30,CLASSIC"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 34,
+      "raw_row_text": "MELON HONEYDEW 5 JUMBO,,34,KANDY"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 34,
+      "raw_row_text": ",BP,34,GENERIC"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 36,
+      "raw_row_text": "MELON HONEYDEW 6,,36,SOL"
+    },
+    {
+      "commodity": "MELONS",
+      "cost": 10,
+      "raw_row_text": ",SPECIAL,10,SOL"
+    },
+    {
+      "commodity": "METHI",
+      "cost": 44,
+      "raw_row_text": "METHI 24CT,,44,ST. CARLOS"
+    },
+    {
+      "commodity": "MINT",
+      "cost": 22,
+      "raw_row_text": "MINT 24,,22,J.D. FRESH HERBS"
+    },
+    {
+      "commodity": "MURCOTT",
+      "cost": 28,
+      "raw_row_text": "MURCOTT 10KG 48,,28,AGROMOON"
+    },
+    {
+      "commodity": "MURCOTT",
+      "cost": 28,
+      "raw_row_text": "MURCOTT 10KG 54,,28,AGROMOON"
+    },
+    {
+      "commodity": "MURCOTT",
+      "cost": 28,
+      "raw_row_text": ",B LOT,28,AGROMOON"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 21,
+      "raw_row_text": "MUSHROOM BRN (CREM) 227G,,21,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15.5,
+      "raw_row_text": "MUSHROOM BROWN 5LBS,,15.5,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 20,
+      "raw_row_text": "MUSHROOM BROWN SELECT,,20,A. & J. MUSHROOM"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 44,
+      "raw_row_text": "MUSHROOM OYSTER 5LB,,44,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 23,
+      "raw_row_text": "MUSHROOM PORTABELLO 5 LB,,23,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19,
+      "raw_row_text": "MUSHROOM SELECT WHITE,,19,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 26,
+      "raw_row_text": "MUSHROOM SHI TAKI LG,,26,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 25,
+      "raw_row_text": "MUSHROOM SLICED WHITE 227G,,25,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 20,
+      "raw_row_text": "MUSHROOM WHITE 227G,,20,UNIONVILLE"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 14.5,
+      "raw_row_text": "MUSHROOM WHITE 5LB,,14.5,UNIONVILLE"
+    },
+    {
+      "commodity": "NADORCOTT",
+      "cost": 6,
+      "raw_row_text": "NADORCOTT 1.8KG SIZE 18,,6,DARLING ZAOUIA"
+    },
+    {
+      "commodity": "NECTARINE",
+      "cost": 95,
+      "raw_row_text": "NECTARINE VF 48/50,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "NECTARINE",
+      "cost": 95,
+      "raw_row_text": "NECTARINE VF 56,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "NECTARINE",
+      "cost": 95,
+      "raw_row_text": "NECTARINE VF 64,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 1600,
+      "raw_row_text": "NUT PISTACHIO COMBO 1/4 BIN,,1600,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 1500,
+      "raw_row_text": "NUT PISTACHIO COMBO 450GR BIN,,1500,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 550,
+      "raw_row_text": "NUT PISTACHIO FLAV HR+SC+SP+SV,,550,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 550,
+      "raw_row_text": "NUT PISTACHIO FLAV JL+CR,,550,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 65,
+      "raw_row_text": "NUT PISTACHIO S&P 12X200G,,65,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 65,
+      "raw_row_text": "NUT PISTACHIO SC 12X200G,,65,WONDERFUL"
+    },
+    {
+      "commodity": "NUT",
+      "cost": 550,
+      "raw_row_text": "NUT PISTACHIO SH COMBO LS & RS,,550,WONDERFUL"
+    },
+    {
+      "commodity": "OKRA",
+      "cost": 48,
+      "raw_row_text": "OKRA INDIAN,,48,GENERIC"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 3,
+      "raw_row_text": "ONION 10LB MEDIUM,BP,3,GENERIC"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "ONION 16x3,,28,GENERIC"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 38,
+      "raw_row_text": "ONION GREEN ICELESS LARGE,,38,BAJA"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": null,
+      "raw_row_text": ",,,CHIVETTE"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": "ONION GREEN ICELESS MEDIUM,,34,CHIVETTE"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 34,
+      "raw_row_text": ",BP,34,GREEN LIFE"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 47,
+      "raw_row_text": "ONION RED 16X3LB,BP,47,GENERIC"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 4,
+      "raw_row_text": "ONION RED 7LB,BP,4,GENERIC"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "ORANGE BLOOD 1/2 CARTON 72,,30,SUNKIST"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 70,
+      "raw_row_text": "ORANGE BLOOD 70,SANG,70,BOLLO"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 70,
+      "raw_row_text": "ORANGE BLOOD 80,SANG,70,BOLLO"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 30,
+      "raw_row_text": "ORANGE CARA CONSUMER PAK 56,,30,CLASSIC"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,SUNKIST"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 33,
+      "raw_row_text": "ORANGE NAVEL CAT.I 100,NON PLU,33,LOVELY"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT II 72,NON PLU,24,AGROMOON"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,PALM EGYPT"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT II 80,NON PLU,24,PALM EGYPT"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT II 88,NON PLU,24,AGROMOON"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,PALM EGYPT"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT. I 80,NON PLU,24,AGROMOON"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,KING"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT. I 88,NON PLU,24,AGROMOON"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,KING"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": 24,
+      "raw_row_text": "ORANGE VALENCIA CAT. II 100,NON PLU,24,AGROMOON"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": ",,,PALM EGYPT"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 28,
+      "raw_row_text": "PARSLEY CURLY 30 CT,,28,JJ LOOP"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 28,
+      "raw_row_text": "PARSLEY PLAIN 30 CT,,28,JJ LOOP"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "PASSIONFRUIT",
+      "cost": 30,
+      "raw_row_text": "PASSIONFRUIT MILAGROSA,,30,BAYSHORE"
+    },
+    {
+      "commodity": "PASSIONFRUIT",
+      "cost": 30,
+      "raw_row_text": "PASSIONFRUIT PURPLE,,30,FRUIT EXOTIC"
+    },
+    {
+      "commodity": "PEACHES",
+      "cost": 95,
+      "raw_row_text": "PEACH VF 48/50,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "PEACHES",
+      "cost": 95,
+      "raw_row_text": "PEACH VF 56,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "PEACHES",
+      "cost": 95,
+      "raw_row_text": "PEACH VF 64,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "PEACHES",
+      "cost": 95,
+      "raw_row_text": "PEACH VF 72,,95,EXTRA VALUE"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 40,
+      "raw_row_text": "PEAR ANJOU RED 45,,40,CMI"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 55,
+      "raw_row_text": "PEAR BARTLETT 70,ARGENTINA,55,BOSCHI"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": null,
+      "raw_row_text": ",,,TRES ASES"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 28,
+      "raw_row_text": "PEAR CELINA QTEE 70,,28,STARGROW"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 28,
+      "raw_row_text": "PEAR CELINA QTEE 80,,28,STARGROW"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 48,
+      "raw_row_text": "PEAR PRICKLEY CLAMSHELL 500GRM,,48,CARROUSEL"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 26,
+      "raw_row_text": "PEAR PRICKLEY CONS PAK 18 MEX,,26,VILLA"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 84,
+      "raw_row_text": "PEPPER CHILI LONG GREEN,,84,GENERIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 60,
+      "raw_row_text": "PEPPER FINGER HOT RED,,60,FLANDRIA"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 68,
+      "raw_row_text": "PEPPER GREEN JUMBO 10KG,LOCAL,68,DEL FRESCO"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,S & S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,SAM DARAICHE"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 95,
+      "raw_row_text": "PEPPER HOT YELLOW BUSHEL 1 1/9,,95,B.J. BROTHERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 95,
+      "raw_row_text": "PEPPER JALOPENO 1 1/9 BUSHEL,,95,B.J. BROTHERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 95,
+      "raw_row_text": ",B LOT,95,B.J. BROTHERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 50,
+      "raw_row_text": "PEPPER MINI SWEET,,50,GREAT LAKES"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 50,
+      "raw_row_text": ",BP,50,GENERIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "PEPPER ORANGE JUMBO 5KG,,30,CARROUSEL"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": ",BP,30,SUNSET"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": ",LOCAL,30,NATURE FRESH"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,SUNTASTIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "PEPPER ORANGE XLG 10KG,,20,DIVINE FLAVOR"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,PRIME TIME"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35,
+      "raw_row_text": "PEPPER RED JUMBO 5KG,BP,35,SUNSET"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": ",LOCAL,30,NATURE FRESH"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,S & S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,SUNTASTIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 42,
+      "raw_row_text": "PEPPER RED XLG 10KG,,42,DIVINE FLAVOR"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "PEPPER RUSTIC ORANGE,,20,CARROUSEL"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 35,
+      "raw_row_text": "PEPPER RUSTIC RED,,35,CARROUSEL"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "PEPPER RUSTIC YELLOW,,20,CARROUSEL"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 89,
+      "raw_row_text": "PEPPER SERRANO 1 1/9 BUSHEL,,89,B.J. BROTHERS"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 70,
+      "raw_row_text": "PEPPER THAI CHILI 30 LB,,70,GENERIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": "PEPPER YELLOW JUMBO 5KG,,30,CARROUSEL"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,DOOZLAND"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": ",BP,30,SUNSET"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 30,
+      "raw_row_text": ",LOCAL,30,NATURE FRESH"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,ST. DAVID'S"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,SUNTASTIC"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 20,
+      "raw_row_text": "PEPPER YELLOW XLG 10KG,,20,DIVINE FLAVOR"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": null,
+      "raw_row_text": ",,,PRIME TIME"
+    },
+    {
+      "commodity": "PERSIMMON",
+      "cost": 20,
+      "raw_row_text": "PERSIMMON FUYU 9,,20,HMV"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 28,
+      "raw_row_text": "PINEAPPLE 6,,28,KAPI"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 34,
+      "raw_row_text": "PINEAPPLE CROWNLESS 5 PACK 7,,34,KAPI"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": 34,
+      "raw_row_text": "PINEAPPLE CROWNLESS 6 PACK 8,,34,KAPI"
+    },
+    {
+      "commodity": "PISTACHIO",
+      "cost": 118,
+      "raw_row_text": "PISTACHIO RSTD NO SALT 24X225,,118,WONDERFUL"
+    },
+    {
+      "commodity": "PISTACHIO",
+      "cost": 118,
+      "raw_row_text": "PISTACHIO RSTD SALT 24X225,,118,WONDERFUL"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 48,
+      "raw_row_text": "PLUM BLACK VF 48,,48,CYD"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": null,
+      "raw_row_text": ",,,DDC"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 42,
+      "raw_row_text": "PLUM BLACK VF 60-65,,42,CYD"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 20,
+      "raw_row_text": "PLUM CHERRY 10X2LB BAG,,20,CYD"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 35,
+      "raw_row_text": "PLUM RED VF 50-55,,35,MONTE ALTO L. ANNE"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 25,
+      "raw_row_text": ",PF,25,TUNICHE"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 42,
+      "raw_row_text": "PLUM RED VF 60-65,,42,CYD"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 30,
+      "raw_row_text": "PLUM SUGAR 10X2LB BAG,,30,TRIO FRUIT"
+    },
+    {
+      "commodity": "PLUMS",
+      "cost": 10,
+      "raw_row_text": "PLUM YELLOW LEMON VF 52/56,,10,DDC"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": "POMEGRANATE PERU 10,,26,ATHOS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SOBI FRUITS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": ",SILVER,26,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 22,
+      "raw_row_text": "POMEGRANATE PERU 14,,22,ATHOS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SOBI FRUITS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": "POMEGRANATE PERU 8,,26,ATHOS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SOBI FRUITS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": ",SILVER,26,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": "POMEGRANATE PERU 9,,26,ATHOS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SIEMBRA"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": null,
+      "raw_row_text": ",,,SOBI FRUITS"
+    },
+    {
+      "commodity": "POMEGRANATES",
+      "cost": 26,
+      "raw_row_text": ",SILVER,26,SIEMBRA"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 35,
+      "raw_row_text": "POTATO BAKERS 60,,35,GENERIC"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 78,
+      "raw_row_text": "POTATO GOURMET FINGERLING 50LB,,78,EARTH FRESH"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 48,
+      "raw_row_text": "POTATO GRMET FINGERLING 16X1.5,,48,EARTH FRESH"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 68,
+      "raw_row_text": "POTATO RED CREAMER BOX,,68,EARTH FRESH"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 68,
+      "raw_row_text": "POTATO WHITE A BOX,,68,EARTH FRESH"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 68,
+      "raw_row_text": "POTATO YUKON A BOX,,68,GENERIC"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 68,
+      "raw_row_text": "POTATO YUKON CREAMER BOX,,68,EARTH FRESH"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 20,
+      "raw_row_text": "RADICCHIO 12,,20,CARROUSEL"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": null,
+      "raw_row_text": ",,,MR. LUCKY"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 15,
+      "raw_row_text": ",RECLAM,15,ROYAL ROSE"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 6,
+      "raw_row_text": ",SPECIAL,6,CARROUSEL"
+    },
+    {
+      "commodity": "RADICCHIO",
+      "cost": 20,
+      "raw_row_text": "RADICCHIO TREVISO,,20,CARROUSEL"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": 31,
+      "raw_row_text": "RADISH 16OZ,,31,JARDINS"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": 35,
+      "raw_row_text": "RADISH BUNCH 24,,35,CHIVETTE"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": 30,
+      "raw_row_text": ",LOCAL,30,BERTRAND"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": 30,
+      "raw_row_text": "RADISH HORSERADISH 5LB,,30,GENERIC"
+    },
+    {
+      "commodity": "RADISHES",
+      "cost": 40,
+      "raw_row_text": "RADISH WATERMELON,,40,DEN BOER"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 70,
+      "raw_row_text": "RAPINI 26CT,,70,ANDY BOY"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 25,
+      "raw_row_text": ",ANDY BOY,25,ANDY BOY"
+    },
+    {
+      "commodity": "RAPINI",
+      "cost": 70,
+      "raw_row_text": ",BP,70,ANDY BOY"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 38,
+      "raw_row_text": "RASPBERRY 6OZ,GREEN DOLE,38,DOLE"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 38,
+      "raw_row_text": ",GREEN DRIS,38,DRISCOLL'S"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 38,
+      "raw_row_text": ",P GREEN,38,DOLE"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 38,
+      "raw_row_text": ",RED DOLE,38,DOLE"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 48,
+      "raw_row_text": "RASPBERRY PINT,RED DRIS,48,DRISCOLL'S"
+    },
+    {
+      "commodity": "RHUBARB",
+      "cost": 58,
+      "raw_row_text": "RHUBARB,,58,LENNOX FARM"
+    },
+    {
+      "commodity": "RPC",
+      "cost": 20,
+      "raw_row_text": "RPC PEPPER ORANGE XL,,20,PRIME TIME"
+    },
+    {
+      "commodity": "RPC",
+      "cost": 42,
+      "raw_row_text": "RPC PEPPER RED XLG,,42,PRIME TIME"
+    },
+    {
+      "commodity": "RPC",
+      "cost": 20,
+      "raw_row_text": "RPC PEPPER YELLOW XLG,,20,PRIME TIME"
+    },
+    {
+      "commodity": "SAGE",
+      "cost": 14,
+      "raw_row_text": "SAGE,,14,JAYCEE HERBS"
+    },
+    {
+      "commodity": "SHARON",
+      "cost": 30,
+      "raw_row_text": "SHARON FRUIT 10x1,,30,GALILEE"
+    },
+    {
+      "commodity": "SHARON",
+      "cost": 8,
+      "raw_row_text": "SHARON FRUIT 18,,8,GALILEE"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 40,
+      "raw_row_text": "SPINACH BUNCH,,40,OCEAN MIST"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 40,
+      "raw_row_text": ",BP,40,OCEAN MIST"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 66,
+      "raw_row_text": "SQUASH LONG 40LB,,66,GENERIC"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 12,
+      "raw_row_text": "STRAWBERRY 1LB,GREEN SD,12,SWEET DARLING"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 10,
+      "raw_row_text": ",GREEN WP,10,WELL PICT – OXN"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": ",,,WELL PICT - WATS"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 6,
+      "raw_row_text": ",P GREEN,6,GEM PACK"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 18,
+      "raw_row_text": ",P RED,18,WELL PICT – OXN"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 6,
+      "raw_row_text": ",RED WP,6,WELL PICT – OXN"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": ",,,WELL PICT - WATS"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 12,
+      "raw_row_text": ",SPECIAL,12,MAIN STREET"
+    },
+    {
+      "commodity": "SUB",
+      "cost": 31,
+      "raw_row_text": "SUB ONION RED 35 LB/OREGON,,31,RIVER POINT"
+    },
+    {
+      "commodity": "SWISS",
+      "cost": 36,
+      "raw_row_text": "SWISS CHARD GREEN 12CT,,36,JJ LOOP"
+    },
+    {
+      "commodity": "SWISS",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "SWISS",
+      "cost": 32,
+      "raw_row_text": "SWISS CHARD RAINBOW 12CT,,32,LITTLE BEAR"
+    },
+    {
+      "commodity": "SWISS",
+      "cost": 32,
+      "raw_row_text": "SWISS CHARD RED 12CT,,32,JJ LOOP"
+    },
+    {
+      "commodity": "SWISS",
+      "cost": null,
+      "raw_row_text": ",,,LITTLE BEAR"
+    },
+    {
+      "commodity": "TAMARILLO",
+      "cost": 33,
+      "raw_row_text": "TAMARILLO,,33,CARIBBEAN"
+    },
+    {
+      "commodity": "TAMARILLO",
+      "cost": null,
+      "raw_row_text": ",,,FRUIT EXOTIC"
+    },
+    {
+      "commodity": "TAMARILLO",
+      "cost": null,
+      "raw_row_text": ",,,MONCO"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 20,
+      "raw_row_text": "TANGERINE ORTANIQUE 48,,20,DARLING"
+    },
+    {
+      "commodity": "TANGERINES",
+      "cost": 20,
+      "raw_row_text": "TANGERINE ORTANIQUE 54,,20,DARLING"
+    },
+    {
+      "commodity": "THYME",
+      "cost": 12,
+      "raw_row_text": "THYME,,12,J.D. FRESH HERBS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 30,
+      "raw_row_text": "TOMATO CHERRY COMPARI,,30,SAVOURA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,VILLAGE FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 45,
+      "raw_row_text": "TOMATO CHERRY STEM,,45,S & S"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,SAVOURA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,SUNSET"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 40,
+      "raw_row_text": "TOMATO CHERRY STEM CLAMSHELL,SPECIAL,40,DEL FRESCO"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 46,
+      "raw_row_text": "TOMATO CLUSTER RED,,46,LOCAL"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,SAVOURA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "TOMATO GOURMET MEDLEY,,38,SUNSET"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,VILLAGE FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "TOMATO GRAPE CLAMSHELL,,38,GENERIC"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,RED SUN"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,S & S"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,ZAKARIA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": ",LOCAL,38,ZAKARIA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "TOMATO GRAPE ROMA,SPECIAL,38,VILLAGE FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 38,
+      "raw_row_text": "TOMATO HEIRLOOM,,38,DEL FRESCO"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 30,
+      "raw_row_text": "TOMATO HEIRLOOM PACKAGED,,30,DEL FRESCO"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 65,
+      "raw_row_text": "TOMATO HOTHOUSE 20/22,,65,DEL FRESCO"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,SAVOURA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 65,
+      "raw_row_text": "TOMATO HOTHOUSE 24/26,,65,KOMIENSKI FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,LOCAL"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 30,
+      "raw_row_text": "TOMATO HOTHOUSE GREEN,,30,NATURE FRESH"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 48,
+      "raw_row_text": "TOMATO KUMATO,,48,DEL FRESCO"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 60,
+      "raw_row_text": "TOMATO MULTI-COLOR,,60,SAVOURA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 69,
+      "raw_row_text": "TOMATO ROMA 25LB,,69,KOMIENSKI FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,LOCAL"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,TOPLINE"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,ZAKARIA"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 69,
+      "raw_row_text": ",LOCAL,69,PERFECT PICK"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 75,
+      "raw_row_text": "TOMATO ROMA JUMBO,,75,FRESH FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 75,
+      "raw_row_text": ",DOMINICAN,75,ROSELAND"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 75,
+      "raw_row_text": ",GUATEMALAN,75,CARROUSEL"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 69,
+      "raw_row_text": "TOMATO ROMA XL,,69,FRESH FARMS"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 69,
+      "raw_row_text": ",DOMINICAN,69,ROSELAND"
+    },
+    {
+      "commodity": "TURNIP",
+      "cost": 33,
+      "raw_row_text": "TURNIP RUTABAGA WAX,,33,GAMBLES"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 950,
+      "raw_row_text": "WATERMELON BIN 36,P GREEN,950,BORDERS"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": null,
+      "raw_row_text": ",,,GENERIC"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": null,
+      "raw_row_text": ",,,SOUTHERN CORPORATE PACKERS"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 950,
+      "raw_row_text": "WATERMELON BIN 45,P GREEN,950,SOUTHERN CORPORATE PACKERS"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 340,
+      "raw_row_text": "WATERMELON BIN SEEDED 35,P GREEN,340,SOUTHERN CORPORATE PACKERS"
+    },
+    {
+      "commodity": "WATERMELON",
+      "cost": 36,
+      "raw_row_text": "WATERMELON PERSONAL 6,,36,SOL"
+    },
+    {
+      "commodity": "YAM",
+      "cost": 42,
+      "raw_row_text": "YAM LG,,42,HAM'S YAMS"
+    },
+    {
+      "commodity": "YAM",
+      "cost": 42,
+      "raw_row_text": ",BP,42,GENERIC"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 15,
+      "raw_row_text": "ZUCCHINI CRATE,,15,SUNFED"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 18,
+      "raw_row_text": "ZUCCHINI FANCY,,18,FRESH FARMS"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 18,
+      "raw_row_text": ",RECLAM,18,SUN ONE"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 35,
+      "raw_row_text": "ZUCCHINI GRAY,,35,FRESH FARMS"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": ",,,SUNFED"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 15,
+      "raw_row_text": "ZUCCHINI MEDIUM,,15,FRESH FARMS"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 15,
+      "raw_row_text": "ZUCCHINI YELLOW,,15,FRESH FARMS"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": ",,,SUNFED"
+    }
+  ]
+}

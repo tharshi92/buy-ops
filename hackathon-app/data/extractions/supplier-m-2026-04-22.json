@@ -1,0 +1,1256 @@
+{
+  "doc_id": "supplier-m-2026-04-22",
+  "supplier": "supplier-m",
+  "date": "2026-04-22",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-m-2026-04-22.pdf",
+  "format": "pdf",
+  "duration_ms": 136948,
+  "row_count": 249,
+  "rows": [
+    {
+      "commodity": "BEETS",
+      "cost": 56,
+      "raw_row_text": "Beets Bunch - Red 24ct 56.00"
+    },
+    {
+      "commodity": "BOK CHOY",
+      "cost": null,
+      "raw_row_text": "Bok Choy - Baby 20lb"
+    },
+    {
+      "commodity": "BROCCOLETTE",
+      "cost": null,
+      "raw_row_text": "Broccolette 18ct"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": null,
+      "raw_row_text": "Broccoli 14ct"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": null,
+      "raw_row_text": "Cabbage - Green 24ct"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": null,
+      "raw_row_text": "Cabbage - Red 24ct"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": null,
+      "raw_row_text": "Carrot - Juice 25lb"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 66,
+      "raw_row_text": "Carrot Bunched 24ct 66.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 66,
+      "raw_row_text": "Carrot Cello 24x2lb 66.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 72,
+      "raw_row_text": "Carrot Rainbow Cello 24x2lb 72.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 30,
+      "raw_row_text": "Carrot Rainbw Mini 12x12 30.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 30,
+      "raw_row_text": "Carrot Steamers 12x12 30.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 48,
+      "raw_row_text": "Carrots Mini 24x1lb 48.00"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": 72,
+      "raw_row_text": "Carrots RainbwBunch 24ct 72.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "Cauliflower 12ct"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 48,
+      "raw_row_text": "Celery Slv. 24ct 48.00"
+    },
+    {
+      "commodity": "CHARD",
+      "cost": 48,
+      "raw_row_text": "Chard Green 24ct 48.00"
+    },
+    {
+      "commodity": "CHARD",
+      "cost": 48,
+      "raw_row_text": "Chard Rainbow 24ct 48.00"
+    },
+    {
+      "commodity": "CHARD",
+      "cost": 48,
+      "raw_row_text": "Chard Red 24ct 48.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 48,
+      "raw_row_text": "Cilantro 30ct 48.00"
+    },
+    {
+      "commodity": "COLLARDS",
+      "cost": 48,
+      "raw_row_text": "Collards 24ct 48.00"
+    },
+    {
+      "commodity": "DANDELION GREENS",
+      "cost": 48,
+      "raw_row_text": "Dandelion Green 24CT 48.00"
+    },
+    {
+      "commodity": "DANDELION GREENS",
+      "cost": 48,
+      "raw_row_text": "Dandelion Red 24CT 48.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 60,
+      "raw_row_text": "Dill 24ct 60.00"
+    },
+    {
+      "commodity": "FENNEL",
+      "cost": 42,
+      "raw_row_text": "Fennel 12ct 42.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": null,
+      "raw_row_text": "Kale - Red 24ct"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 45,
+      "raw_row_text": "Kale - Green 24ct 45.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 45,
+      "raw_row_text": "Kale Black 24ct 45.00"
+    },
+    {
+      "commodity": "LEAF LETTUCE",
+      "cost": 48,
+      "raw_row_text": "Leaf Green 24ct 48.00"
+    },
+    {
+      "commodity": "LEAF LETTUCE",
+      "cost": 48,
+      "raw_row_text": "Leaf Red 24ct 48.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 45,
+      "raw_row_text": "Leeks 12ct 45.00"
+    },
+    {
+      "commodity": "GREEN ONIONS",
+      "cost": null,
+      "raw_row_text": "Onions Green 48ct out"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 48,
+      "raw_row_text": "Parsley Curley 30ct 48.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 48,
+      "raw_row_text": "Parsley Italian 30ct 48.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 48,
+      "raw_row_text": "Radish 24ct 48.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 48,
+      "raw_row_text": "Radish Easter 24ct 48.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 48,
+      "raw_row_text": "Romaine 24ct 48.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": null,
+      "raw_row_text": "Spinach Bunch 24ct"
+    },
+    {
+      "commodity": "HEAD LETTUCE",
+      "cost": 18,
+      "raw_row_text": "Head Lettuce - 12ct 18.00"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": null,
+      "raw_row_text": "Blackberries 12x6"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": null,
+      "raw_row_text": "Blueberries - 12x6"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": null,
+      "raw_row_text": "Raspberries - 12x6"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": "Strawberry -Foxy 8x1"
+    },
+    {
+      "commodity": "GINGER",
+      "cost": 60,
+      "raw_row_text": "Ginger - Peru 30LB 60.00"
+    },
+    {
+      "commodity": "TURMERIC",
+      "cost": 52,
+      "raw_row_text": "Turmeric - Peru 9kg 52.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 56,
+      "raw_row_text": "Avocado 48ct 56.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - 60ct"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": "Clementines - Bags 12x2lb"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 24,
+      "raw_row_text": "Baby Arugala 8x5oz 24.00"
+    },
+    {
+      "commodity": "BUTTER LETTUCE",
+      "cost": 18,
+      "raw_row_text": "Baby Red Butter 6x5oz 18.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 24,
+      "raw_row_text": "Baby Spinach 8x5oz 24.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 36,
+      "raw_row_text": "Baby Spinach 6x1lb. 36.00"
+    },
+    {
+      "commodity": "HERB SALAD",
+      "cost": 24,
+      "raw_row_text": "Herb Salad 8x5oz 24.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 24,
+      "raw_row_text": "Spring Mix 8x5oz 24.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 36,
+      "raw_row_text": "Spring Mix 6x1lb. 36.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 14,
+      "raw_row_text": "Baby Arugula 2 lbs 14.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": null,
+      "raw_row_text": "Baby Kale 2 lbs n/a"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 14,
+      "raw_row_text": "Baby Spinach 2 lbs 14.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 14,
+      "raw_row_text": "Spring Mix 2 lbs 14.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22.5,
+      "raw_row_text": "Piccioni Brown Select 5lb 22.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 29,
+      "raw_row_text": "Piccioni Brown cello 12x8oz 29.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 32,
+      "raw_row_text": "Piccioni Brown cello sliced 12x8oz 32.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 27,
+      "raw_row_text": "Piccioni Portobello 5lb 27.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 30,
+      "raw_row_text": "Piccioni Portobello BBQ Cap 8x6oz 30.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 27,
+      "raw_row_text": "Piccioni White Cello 12x8oz 27.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 31,
+      "raw_row_text": "Piccioni White Cello Sliced 12x8oz 31.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 21,
+      "raw_row_text": "Piccioni White Select 5lb 21.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 30,
+      "raw_row_text": "Nebo Mushroom Shitake Premium 3lb 30.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 13,
+      "raw_row_text": "Nebo Mushroom Oysters 2lb 2lb 13.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 26,
+      "raw_row_text": "Nebo Mushroom Oysters 5lb 5lb 26.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 3.25,
+      "raw_row_text": "Nebo Mushroom Shitake 150g 3.25"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 3.5,
+      "raw_row_text": "Nebo Mushroom Oyster 200g 3.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": null,
+      "raw_row_text": "Nebo Mushroom Lions Mane 150g n/a"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 6,
+      "raw_row_text": "Enviro Combo Mixed 200g 6.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 4,
+      "raw_row_text": "Enviro Enoki 150 g 4.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 32,
+      "raw_row_text": "Enviro King Oyster 3LB 32.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 33,
+      "raw_row_text": "Enviro King Oyster Mini 3LB 33.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 4.5,
+      "raw_row_text": "Enviro King Oyster Sliced 170g 4.50"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado 48ct"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - St Carlos 60ct"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": "Limes - Mex 230s"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Ataufo Mango 18s"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": null,
+      "raw_row_text": "Yams - bag 12x3 lb"
+    },
+    {
+      "commodity": "YAMS",
+      "cost": null,
+      "raw_row_text": "Yams - 40 lb"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": "Clementines - Bags 12x2lb"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "Yellow - Earth Fresh 16x3lb"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "Russet - Earth Fresh 16x3lb"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "Red - Earth Fresh 16x3lb"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": null,
+      "raw_row_text": "Yellow Mini - E.Fresh 16x1.5"
+    },
+    {
+      "commodity": "KALE",
+      "cost": null,
+      "raw_row_text": "CAL-ORGANIC (Cut n Clean) Green Kale Chop 6x1lb"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": "Limes - Mex 230s"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Basil 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Chunky Garlic 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Cilantro 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Garlic 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Ginger 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Italian 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Lemon Grass 6x80g 24.00"
+    },
+    {
+      "commodity": "HERB PASTE",
+      "cost": 24,
+      "raw_row_text": "Gourmet Garden Paste Thai Seasoning 6x80g 24.00"
+    },
+    {
+      "commodity": "DRIED HERBS",
+      "cost": 27,
+      "raw_row_text": "Dried Basil 6x12g 27.00"
+    },
+    {
+      "commodity": "DRIED HERBS",
+      "cost": null,
+      "raw_row_text": "#Dried Ginger 6x12g n/a"
+    },
+    {
+      "commodity": "DRIED HERBS",
+      "cost": 27,
+      "raw_row_text": "Dried Cilantro 6x12g 27.00"
+    },
+    {
+      "commodity": "DRIED HERBS",
+      "cost": 27,
+      "raw_row_text": "Dried Parsley 6x12g 27.00"
+    },
+    {
+      "commodity": "CANTALOUPES",
+      "cost": null,
+      "raw_row_text": "Cantaloupes -Jumbo 9ct"
+    },
+    {
+      "commodity": "CANTALOUPES",
+      "cost": null,
+      "raw_row_text": "Cantaloupes 12ct"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": null,
+      "raw_row_text": "Honeydew - Jumbo 5ct"
+    },
+    {
+      "commodity": "HONEYDEW",
+      "cost": null,
+      "raw_row_text": "Honeydew 8ct"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 85,
+      "raw_row_text": "Autumn Crisp - Chile J/JJ 85.00"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": null,
+      "raw_row_text": "Autumn Crisp -"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 65,
+      "raw_row_text": "Jack Salute 18lb 65.00"
+    },
+    {
+      "commodity": "WATERMELONS",
+      "cost": 530,
+      "raw_row_text": "watermelons - Fla. Bin 60ct 530"
+    },
+    {
+      "commodity": "WATERMELONS",
+      "cost": 580,
+      "raw_row_text": "watermelons - Fla. Bin 36ct 580"
+    },
+    {
+      "commodity": "CLEMENTINES",
+      "cost": null,
+      "raw_row_text": "Clementines - Tango 15x2lb"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": "Cara Cara 12x3lb"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": null,
+      "raw_row_text": "Lemons 18x2lb"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": "Oranges 10x4lb"
+    },
+    {
+      "commodity": "ORANGES",
+      "cost": null,
+      "raw_row_text": "Cara Cara 56's"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - Rivas 12 Size out"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": 22,
+      "raw_row_text": "Avocado - Rivas 14 Size 22.00"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - Rivas 20 Size out"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - Rivas 48 Size out"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - Rivas 36 size"
+    },
+    {
+      "commodity": "AVOCADOS",
+      "cost": null,
+      "raw_row_text": "Avocado - 32 Size"
+    },
+    {
+      "commodity": "CRANBERRIES",
+      "cost": null,
+      "raw_row_text": "Cranberries - VMO 24x12oz fall"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "Mango - Mexico 7 size 16.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "Mango - Mexico 8 size 16.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "Mango - Mexico 9 size 16.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 16,
+      "raw_row_text": "Mango - Mexico 10 size 16.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Mango - Mexico 12 size"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Mango - Air 5kg out"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 20,
+      "raw_row_text": "Ataulfo - Mex 4kg 14 sze 20.00"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Ataulfo - Mex 4kg 16 sze"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Ataulfo - Mex 4kg 20 sze"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": null,
+      "raw_row_text": "Ataulfo - Mex 5kg 10 12 sze"
+    },
+    {
+      "commodity": "MANGOES",
+      "cost": 18,
+      "raw_row_text": "Mango - Baby 18.00"
+    },
+    {
+      "commodity": "BLACKBERRIES",
+      "cost": 28,
+      "raw_row_text": "Blackberry - Driscoll 12x6oz 28.00"
+    },
+    {
+      "commodity": "BLUEBERRIES",
+      "cost": null,
+      "raw_row_text": "Blueberry - Peru 12x6 Thur"
+    },
+    {
+      "commodity": "RASPBERRIES",
+      "cost": 40,
+      "raw_row_text": "Raspberry - Driscoll 12x6oz 40.00"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": null,
+      "raw_row_text": "Strawberry - Foxy 8x1lb out"
+    },
+    {
+      "commodity": "STRAWBERRIES",
+      "cost": 38,
+      "raw_row_text": "Strawberry - Driscoll 8x1lb 38.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 16,
+      "raw_row_text": "Honey Mush 6x150g 16.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 26,
+      "raw_row_text": "Mush.White Cello Sliced 12x8oz 26.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15,
+      "raw_row_text": "Mush. White 5 lb 15.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 23.5,
+      "raw_row_text": "Mush. White Cello 12x8oz 23.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 18,
+      "raw_row_text": "Mush. White Select 5 lb 18.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 15.5,
+      "raw_row_text": "Mush. White Sliced 5 lb 15.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 26,
+      "raw_row_text": "Mush.Brown Cello 12x8oz 26.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19.5,
+      "raw_row_text": "Mush.Brown Select 5 lb 19.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 28.5,
+      "raw_row_text": "Mush.BrownCelloSliced 12x8oz 28.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 19.5,
+      "raw_row_text": "Mush. Brown Button 5lb 19.50"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 32,
+      "raw_row_text": "Mush.Gourmet 6x12oz 32.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 24,
+      "raw_row_text": "Portobello 5 lb 24.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 25,
+      "raw_row_text": "Portobello BBQ Caps 8x6oz 25.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 25,
+      "raw_row_text": "Saute Blend 8x6oz 25.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 22,
+      "raw_row_text": "Maitaki 6x100g 22.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 47,
+      "raw_row_text": "Porcini 1lb 47.00"
+    },
+    {
+      "commodity": "MUSHROOMS",
+      "cost": 120,
+      "raw_row_text": "Morels (Farmed) 2lb 120.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 60,
+      "raw_row_text": "Green Beans - Mex 25lb 60.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 42,
+      "raw_row_text": "Crowns - St Carlos 20 lb. 42.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 42,
+      "raw_row_text": "Leeks - Tokyo 42.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": null,
+      "raw_row_text": "Cauliflower - Mex 9ct"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": null,
+      "raw_row_text": "Celery - Mex. St.Carlos 24ct"
+    },
+    {
+      "commodity": "CARROTS",
+      "cost": null,
+      "raw_row_text": "Carrots-Mini Bunny Luv 40x12oz out"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 29,
+      "raw_row_text": "Bakers - EarthF.(Idaho) 60ct 29.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 27,
+      "raw_row_text": "Bakers - EarthF.(Idaho) 70/80 27.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 3.5,
+      "raw_row_text": "PEI Russet - PEI bags 10lb 3.50"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 3.75,
+      "raw_row_text": "Potato - PEI Yellow 10lb 3.75"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 22,
+      "raw_row_text": "Potato - PEI Yellow chef 50lb 22.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "Potato - PEI Red 50lb 18.00"
+    },
+    {
+      "commodity": "POTATOES",
+      "cost": 18,
+      "raw_row_text": "Potato - PEI Russet 50lb 18.00"
+    },
+    {
+      "commodity": "LEMONS",
+      "cost": 54,
+      "raw_row_text": "Lemon - California 115 54.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": null,
+      "raw_row_text": "Limes - Catania 42/48 out"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 28,
+      "raw_row_text": "Limes - St. Carlos 48s 28.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 88,
+      "raw_row_text": "Limes - Mexico 200 88.00"
+    },
+    {
+      "commodity": "LIMES",
+      "cost": 88,
+      "raw_row_text": "Limes - Brazil 230 88.00"
+    },
+    {
+      "commodity": "KIWIFRUIT",
+      "cost": 55,
+      "raw_row_text": "Kiwi - Greek 27s 55.00"
+    },
+    {
+      "commodity": "KIWIFRUIT",
+      "cost": 40,
+      "raw_row_text": "Kiwi - Gold (Chile) 8x1lb 40.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 27,
+      "raw_row_text": "Artisan Lettuce 6x4oz 27.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 32,
+      "raw_row_text": "Little Gem Lettuce 8x4ct 32.00"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 28,
+      "raw_row_text": "Living Lettuce 12ct 28.00"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "Caribbean Sweet 5 size"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "Caribbean Sweet 6 size"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "Perfect Gold 5 size"
+    },
+    {
+      "commodity": "PINEAPPLES",
+      "cost": null,
+      "raw_row_text": "Perfect Gold 6 size"
+    },
+    {
+      "commodity": "PEA SHOOTS",
+      "cost": 4,
+      "raw_row_text": "WILLIAM'S SPOUTS Pea Shoots -Emerald 227g 4.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Cukes - Foothill #2 Thur"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "Cukes - Foothill LG 14.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Cukes - Red Sun LG out"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Cukes - N.Fresh Med"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Cukes - Foothill Small"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 18,
+      "raw_row_text": "Cukes - Utility 20lb 18.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 16,
+      "raw_row_text": "Cukes - Mini 12x6 16.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Cukes - Mini 20lb"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "Peeled Red Pearl 5lb. 28.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "Peeled White Pearl 5lb. 28.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "Peeled Cipollini 5lb. 28.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 28,
+      "raw_row_text": "Peeled Shallots 5lb. 28.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24,
+      "raw_row_text": "Peeled Red Pearl 6x8oz 24.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24,
+      "raw_row_text": "Peeled White Pearl 6x8oz 24.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24,
+      "raw_row_text": "Peeled Cipollini 6x8oz 24.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 24,
+      "raw_row_text": "Peeled Shallots 6x8oz 24.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 36,
+      "raw_row_text": "Fresh Express Baby Spinach 12x8oz 36.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 24,
+      "raw_row_text": "Fresh Express Cole Slaw 12x14oz 24.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 19,
+      "raw_row_text": "Fresh Express American Salad 6x11oz 19.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 21,
+      "raw_row_text": "Fresh Express Garden 12x12oz 21.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 19,
+      "raw_row_text": "Fresh Express Hearts Of Romaine 6x9oz 19.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 19,
+      "raw_row_text": "Fresh Express Italian Salad 6x9oz 19.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 19,
+      "raw_row_text": "Fresh Express Sweet Butter 6x6oz 19.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 21,
+      "raw_row_text": "Fresh Express Caesar Salad 6x10oz 21.00"
+    },
+    {
+      "commodity": "SHREDDED LETTUCE",
+      "cost": 42,
+      "raw_row_text": "Taylor Farms 1/8 Shred Lettuce 4x5lb 42.00"
+    },
+    {
+      "commodity": "SHREDDED LETTUCE",
+      "cost": 42,
+      "raw_row_text": "Taylor Farms 1/4 Shred Lettuce 4x5lb 42.00"
+    },
+    {
+      "commodity": "CHOPPED LETTUCE",
+      "cost": null,
+      "raw_row_text": "Taylor Farms Chopped Lettuce 4x5lb"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 42,
+      "raw_row_text": "Taylor Farms Separate Salad 4x5lb 42.00"
+    },
+    {
+      "commodity": "CABBAGE",
+      "cost": 26,
+      "raw_row_text": "Taylor Farms Separat Cabbage 4x5lb 26.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 32,
+      "raw_row_text": "Taylor Farms Chopped Rom. 6x2lb 32.00"
+    },
+    {
+      "commodity": "SALAD BLEND",
+      "cost": 12,
+      "raw_row_text": "Taylor Farms Heritage Blend 3lb 12.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": null,
+      "raw_row_text": "Taylor Farms Cilantro - cello 4x1lb Fri"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Asian Chop 6x13oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail BBQ Ranch Chop Kit 6x13.3 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Broccoli Crunch Kit 6x12.7 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Buffalo Ranch Kit 6x13.5 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Caesar Chop Kit 6x11.15oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Dill Pickle Chop Kit 6x11.75 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Everything Chop Kit 6x11.5 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Green Goodness Chop 6x11.57oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Guacamole Crunch 6x11.25 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Maple Bourbon Bcn 6x11.1oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Mediterranean Chrunch 6x11oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Mexican Street Corn 6x11.62oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Southwest Chop 6x12.6 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Sunflower Chop 6x12.8 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 23,
+      "raw_row_text": "Taylor Retail Sweet Kale Salad 6x12oz 23.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Thai Chili Mango 6x11.25 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Pizzeria 6x10.3oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Smoky Ranch 6x11.57oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Apple Feta 6x7.3oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Honey Balsamic 6x8.3oz 24.00"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": 24,
+      "raw_row_text": "Taylor Retail Jalapeno Popper 6x10.75oz 24.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 14,
+      "raw_row_text": "Salad Farm Baby Kale 2lb 14.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 14,
+      "raw_row_text": "Salad Farm Arugula 2lb 14.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 26,
+      "raw_row_text": "Salad Farm Spinach Teen 5x2lb 26.00"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": 11,
+      "raw_row_text": "Salad Farm Spring Mix - Pillow 3 lb 11.00"
+    },
+    {
+      "commodity": "LEAF LETTUCE",
+      "cost": null,
+      "raw_row_text": "Haven Greens Baby Green Leaf 8x4oz thur"
+    },
+    {
+      "commodity": "LEAF LETTUCE",
+      "cost": null,
+      "raw_row_text": "Haven Greens Baby Gr.& Red Leaf 8x4oz thur"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": null,
+      "raw_row_text": "Haven Greens Baby Spring Mix 8x4oz thur"
+    },
+    {
+      "commodity": "SPRING MIX",
+      "cost": null,
+      "raw_row_text": "Haven Greens Baby Spring Mix 3lb. thur"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": null,
+      "raw_row_text": "Haven Greens Caesar Crunch 5x7oz thur"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": null,
+      "raw_row_text": "Haven Greens Fiesta Crunch 5x7oz thur"
+    },
+    {
+      "commodity": "SALAD KIT",
+      "cost": null,
+      "raw_row_text": "Haven Greens Sesame Crunch 5x7oz thur"
+    }
+  ]
+}

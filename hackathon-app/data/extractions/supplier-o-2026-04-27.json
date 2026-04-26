@@ -1,0 +1,656 @@
+{
+  "doc_id": "supplier-o-2026-04-27",
+  "supplier": "supplier-o",
+  "date": "2026-04-27",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-o-2026-04-27.pdf",
+  "format": "pdf",
+  "duration_ms": 86120,
+  "row_count": 129,
+  "rows": [
+    {
+      "commodity": "PEARS",
+      "cost": 74,
+      "raw_row_text": "Pears Washington Anjou 80ct 6006 $74.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 52,
+      "raw_row_text": "Pears Washington Anjou 100ct 6004 $52.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 58,
+      "raw_row_text": "Pears Washington Bosc 70ct 6022 $58.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 48,
+      "raw_row_text": "Pears Washington Bosc 100ct 6024 $48.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 58,
+      "raw_row_text": "Pears Washington Forelle 90ct 6040 $58.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 32,
+      "raw_row_text": "Pears Washington Red Anjou 45/50ct 6050 $32.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 56,
+      "raw_row_text": "Apples Washington Ambrosia 72ct 5365 $56.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "Apples Washington Cosmic Crisp Euro 28lbs 45ct 5145 $58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "Apples Washington Fuji 64ct 5011 $58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Apples Washington Fuji Fancy 64ct 5105 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 80,
+      "raw_row_text": "Apples Washington Gold Del 72ct 5037 $80.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 74,
+      "raw_row_text": "Apples Washington Gold Del 88ct 5031 $74.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 68,
+      "raw_row_text": "Apples Washington Gold Del 100ct 5033 $68.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "Apples Washington Granny Smith 72ct 5040 $54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 54,
+      "raw_row_text": "Apples Washington Granny Smith 80ct 5041 $54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Apples Washington Granny Smith 100ct 5044 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Apples Washington Granny Smith 113ct 5038 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 60,
+      "raw_row_text": "Apples Washington Pink Lady 72ct 5114 $60.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "Apples Washington Pink Lady 88ct 5115 $58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 62,
+      "raw_row_text": "Apples Washington Red Del 72ct 5054 $62.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 58,
+      "raw_row_text": "Apples Washington Red Del 88ct 5053 $58.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 48,
+      "raw_row_text": "Apples Washington Red Del 100ct 5051 $48.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 76,
+      "raw_row_text": "Apples Washington Royal Gala Wash 72ct 5021 $76.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 72,
+      "raw_row_text": "Apples Washington Royal Gala Wash 88ct 5022 $72.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "Apples Washington Royal Gala Wash 100ct 5023 $64.00"
+    },
+    {
+      "commodity": "PEARS",
+      "cost": 54,
+      "raw_row_text": "Organic Apples & Pears Washington Bosc 100ct 6025 $54.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 74,
+      "raw_row_text": "Organic Apples & Pears Washington Fuji 80ct 5106 $74.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "Organic Apples & Pears Washington Fuji 12x2lbs 5108 $52.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 86,
+      "raw_row_text": "Organic Apples & Pears Washington Gala 80/88ct 5242 $86.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 64,
+      "raw_row_text": "Organic Apples & Pears Washington Gala Bags 12x2lbs 5239 $64.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 122,
+      "raw_row_text": "Organic Apples & Pears Washington Honeycrisp Euro-pack 50ct 5308 $122.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 78,
+      "raw_row_text": "Organic Apples & Pears Washington Pink Lady 80/88ct 5120 $78.00"
+    },
+    {
+      "commodity": "APPLES",
+      "cost": 52,
+      "raw_row_text": "Organic Apples & Pears Washington Pink Lady 12x2lbs 5119 $52.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 130,
+      "raw_row_text": "Asparagus Washington 28lbs 1131 $130.00"
+    },
+    {
+      "commodity": "ASPARAGUS",
+      "cost": 105,
+      "raw_row_text": "Asparagus White Holland 5kg 1140 $105.00"
+    },
+    {
+      "commodity": "BEANS",
+      "cost": 52,
+      "raw_row_text": "Beans Runner Beans 5kg 4560 $52.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 48,
+      "raw_row_text": "Beets USA Gold Beets 12ct 1225 $48.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 42,
+      "raw_row_text": "Beets USA Red Pacific 12ct 4560 $42.00"
+    },
+    {
+      "commodity": "BEETS",
+      "cost": 58,
+      "raw_row_text": "Beets USA Red Beets Little Bear 24ct 1200 $58.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": null,
+      "raw_row_text": "Broccoli Bunch Andy Boy 18ct 1315 PTF"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "Broccoli Crowns Babia 20lbs 1310 $44.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "Broccoli Crowns VP 20lbs 1305 $44.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "Broccoli Crowns Ji Ping 20lbs 1325 $44.00"
+    },
+    {
+      "commodity": "BROCCOLI",
+      "cost": 44,
+      "raw_row_text": "Broccoli Crowns Little Bear 20lbs 1311 $44.00"
+    },
+    {
+      "commodity": "BRUSSEL SPROUTS",
+      "cost": 62,
+      "raw_row_text": "Brussel Sprouts Dole 25lbs 3801 $62.00"
+    },
+    {
+      "commodity": "BRUSSEL SPROUTS",
+      "cost": 62,
+      "raw_row_text": "Brussel Sprouts Oak Canyon 25lbs 3805 $62.00"
+    },
+    {
+      "commodity": "CABBAGES",
+      "cost": 24,
+      "raw_row_text": "Cabbages Green Ont Saliba 12ct 1455 $24.00"
+    },
+    {
+      "commodity": "CABBAGES",
+      "cost": 24,
+      "raw_row_text": "Cabbages Green Ont Saliba 16ct 1456 $24.00"
+    },
+    {
+      "commodity": "CABBAGES",
+      "cost": 34,
+      "raw_row_text": "Cabbages Red Ont 16ct 1466 $34.00"
+    },
+    {
+      "commodity": "CABBAGES",
+      "cost": 34,
+      "raw_row_text": "Cabbages Savoy Ont 12ct 1475 $34.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 76,
+      "raw_row_text": "Cauliflower Ovation 9ct 1632 $76.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 68,
+      "raw_row_text": "Cauliflower Mexico 9ct 1635 $68.00"
+    },
+    {
+      "commodity": "CAULIFLOWER",
+      "cost": 68,
+      "raw_row_text": "Cauliflower Mexico 12ct 1636 $68.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 48,
+      "raw_row_text": "Celery Boskovich 24ct 1715 $48.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 68,
+      "raw_row_text": "Celery Dole 24ct 1700 $68.00"
+    },
+    {
+      "commodity": "CELERY",
+      "cost": 48,
+      "raw_row_text": "Celery Mexico Sleeved 24ct 1714 $48.00"
+    },
+    {
+      "commodity": "CORN",
+      "cost": 38,
+      "raw_row_text": "Corn Bi Colour 48ct 1941 $38.00"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 20,
+      "raw_row_text": "Cucumbers Mini Ont 8x14oz 2050 $20.00"
+    },
+    {
+      "commodity": "EGGPLANT",
+      "cost": 24,
+      "raw_row_text": "Eggplant Hot House Ont 11lbs 2358 $24.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 6,
+      "raw_row_text": "Garlic China Peeled Garlic Bag China 3lbs 8064 $6.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 26,
+      "raw_row_text": "Garlic China Peeled Garlic Case 6x3 8063 $26.00"
+    },
+    {
+      "commodity": "GARLIC",
+      "cost": 102,
+      "raw_row_text": "Garlic China Purple Argentina 30lbs 8067 $102.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 44,
+      "raw_row_text": "Leeks Dole 12ct 2700 $44.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 44,
+      "raw_row_text": "Leeks Little Bear 12ct 2711 $44.00"
+    },
+    {
+      "commodity": "LEEKS",
+      "cost": 38,
+      "raw_row_text": "Leeks Wild Greens 1kg 2718 $38.00"
+    },
+    {
+      "commodity": "ICEBERG LETTUCE",
+      "cost": 60,
+      "raw_row_text": "Lettuce Mexico Iceberg 24ct 2880 $60.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 44,
+      "raw_row_text": "Lettuce Mexico Romaine 24ct 2883 $44.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 48,
+      "raw_row_text": "Lettuce Mexico Romaine Hearts 12x3 2881 $48.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 58,
+      "raw_row_text": "Lettuce Mexico Romaine Hearts 7x6 2882 $58.00"
+    },
+    {
+      "commodity": "ENDIVE",
+      "cost": 44,
+      "raw_row_text": "Lettuce USA Endive 24ct 2410 $44.00"
+    },
+    {
+      "commodity": "ESCAROLE",
+      "cost": 44,
+      "raw_row_text": "Lettuce USA Escarole 24ct 2416 $44.00"
+    },
+    {
+      "commodity": "GREEN LEAF LETTUCE",
+      "cost": 48,
+      "raw_row_text": "Lettuce USA Green Leaf Dole 24ct 2807 $48.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 58,
+      "raw_row_text": "Lettuce USA Romaine Dole 24ct 2811 $58.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 68,
+      "raw_row_text": "Lettuce USA Romaine Oak Canyon 24ct 2828 $68.00"
+    },
+    {
+      "commodity": "ROMAINE LETTUCE",
+      "cost": 60,
+      "raw_row_text": "Lettuce USA Romaine Hearts Oak Canyon 12x3 2841 $60.00"
+    },
+    {
+      "commodity": "BOK CHOY",
+      "cost": 44,
+      "raw_row_text": "Mixed Green Ontario Bok Choy Shanghai 25lbs 2860 $44.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 44,
+      "raw_row_text": "Mixed Green Ontario Radish 24ct 3458 $44.00"
+    },
+    {
+      "commodity": "ARUGULA",
+      "cost": 38,
+      "raw_row_text": "Mixed Green USA Arugula 24ct 1005 $38.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 14,
+      "raw_row_text": "Mixed Green USA Cilantro 6ct 1816 $14.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 26,
+      "raw_row_text": "Mixed Green USA Cilantro 12ct 1812 $26.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 46,
+      "raw_row_text": "Mixed Green USA Cilantro 24ct 1801 $46.00"
+    },
+    {
+      "commodity": "CILANTRO",
+      "cost": 58,
+      "raw_row_text": "Mixed Green USA Cilantro With Root 60ct 1804 $58.00"
+    },
+    {
+      "commodity": "COLLARDS",
+      "cost": 40,
+      "raw_row_text": "Mixed Green USA Collards 24ct 1900 $40.00"
+    },
+    {
+      "commodity": "DANDELION",
+      "cost": 48,
+      "raw_row_text": "Mixed Green USA Dandelion 24ct 2102 $48.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 16,
+      "raw_row_text": "Mixed Green USA Dill 6ct 2216 $16.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 30,
+      "raw_row_text": "Mixed Green USA Dill 12ct 2212 $30.00"
+    },
+    {
+      "commodity": "DILL",
+      "cost": 54,
+      "raw_row_text": "Mixed Green USA Dill 24ct 2202 $54.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 48,
+      "raw_row_text": "Mixed Green USA Kale Black 24ct 2511 $48.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 42,
+      "raw_row_text": "Mixed Green USA Kale Green LB 24ct 2501 $42.00"
+    },
+    {
+      "commodity": "KALE",
+      "cost": 42,
+      "raw_row_text": "Mixed Green USA Kale Red Organic 12ct 2506 $42.00"
+    },
+    {
+      "commodity": "KOHLRABI",
+      "cost": 46,
+      "raw_row_text": "Mixed Green USA Kohlrabi 12ct 2603 $46.00"
+    },
+    {
+      "commodity": "METHI",
+      "cost": 56,
+      "raw_row_text": "Mixed Green USA Methi 24ct 2801 $56.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 8,
+      "raw_row_text": "Mixed Green USA Parsley Curly 6ct 3026 $8.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 14,
+      "raw_row_text": "Mixed Green USA Parsley Curly 12ct 3027 $14.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 46,
+      "raw_row_text": "Mixed Green USA Parsley Curly 60ct 3001 $46.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 8,
+      "raw_row_text": "Mixed Green USA Parsley Plain 6ct 3036 $8.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 14,
+      "raw_row_text": "Mixed Green USA Parsley Plain 12ct 3037 $14.00"
+    },
+    {
+      "commodity": "PARSLEY",
+      "cost": 46,
+      "raw_row_text": "Mixed Green USA Parsley Plain 60ct 3003 $46.00"
+    },
+    {
+      "commodity": "RADISH",
+      "cost": 42,
+      "raw_row_text": "Mixed Green USA Radish Bunch 24ct 3400 $42.00"
+    },
+    {
+      "commodity": "SPINACH",
+      "cost": 38,
+      "raw_row_text": "Mixed Green USA Spinach Contender 24ct 3700 $38.00"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 50,
+      "raw_row_text": "Mixed Green USA Swisschard Green 24ct 4003 $50.00"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 36,
+      "raw_row_text": "Mixed Green USA Swisschard Rainbow 12ct 4009 $36.00"
+    },
+    {
+      "commodity": "SWISS CHARD",
+      "cost": 48,
+      "raw_row_text": "Mixed Green USA Swisschard Red 24ct 4007 $48.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 16,
+      "raw_row_text": "Onions Ontario Cipollini 10lbs 2966 $16.00"
+    },
+    {
+      "commodity": "SHALLOTS",
+      "cost": 18,
+      "raw_row_text": "Onions Ontario Shallots Ontario 10lbs 2967 $18.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 54,
+      "raw_row_text": "Onions Sweet D/Little Bear Sweet Onion Little Bear 40lbs 2906 $54.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18,
+      "raw_row_text": "Onions Sweet D/Little Bear Red Bag Jumbo 50lbs 2999 $18.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 50,
+      "raw_row_text": "Onions Sweet D/Little Bear White Box Jumbo 40lbs 2954 $50.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 36,
+      "raw_row_text": "Onion Washington Green Iced 48ct 2913 $36.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 36,
+      "raw_row_text": "Onion Washington Red Bag Jumbo LB 25lbs 2960 $36.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 46,
+      "raw_row_text": "Onion Washington Spanish Bag Collossal 50lbs 2951 $46.00"
+    },
+    {
+      "commodity": "ONIONS",
+      "cost": 18,
+      "raw_row_text": "Onion Washington White bag Jumbo 25lbs 2976 $18.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 62,
+      "raw_row_text": "Peppers Red Chilli Ontario 11lbs 3396 $62.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "Peppers Red Ontario 11lbs 3365 $34.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "Peppers Orange Ontario 11lbs 3367 $34.00"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "Peppers Yellow Ontario 11lbs 3366 $34.00"
+    },
+    {
+      "commodity": "PICKLES",
+      "cost": 72,
+      "raw_row_text": "Pickles 7L's Mexico 40lbs 2002 $72.00"
+    },
+    {
+      "commodity": "CELERY ROOT",
+      "cost": 24,
+      "raw_row_text": "Root Vegetable Celery Root 12ct 1751 $24.00"
+    },
+    {
+      "commodity": "PARSLEY ROOT",
+      "cost": 64,
+      "raw_row_text": "Root Vegetable Root Parsley USA 12ct 3005 $64.00"
+    },
+    {
+      "commodity": "ARTICHOKE",
+      "cost": 36,
+      "raw_row_text": "Speciality Items Artichoke 30ct 9003 $36.00"
+    },
+    {
+      "commodity": "GOOSEBERRY",
+      "cost": 26,
+      "raw_row_text": "Speciality Items Gooseberry 12ct 7121 $26.00"
+    },
+    {
+      "commodity": "GRANADILLA",
+      "cost": null,
+      "raw_row_text": "Speciality Items Granadilla 2kg 9101 PTF"
+    },
+    {
+      "commodity": "MANGO",
+      "cost": 20,
+      "raw_row_text": "Speciality Items Mango Sugar 2kg 7101 $20.00"
+    },
+    {
+      "commodity": "RHUBARB",
+      "cost": 65,
+      "raw_row_text": "Speciality Items Rhubarb 10lbs 3681 $65.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 48,
+      "raw_row_text": "Squash Mexico Buttercup 40lbs 3921 $48.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 26,
+      "raw_row_text": "Squash Mexico Butternut 40lbs 3922 $26.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 54,
+      "raw_row_text": "Squash Mexico Delicata 20lbs 3926 $54.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 42,
+      "raw_row_text": "Squash Mexico Pepper 40lbs 3920 $42.00"
+    },
+    {
+      "commodity": "SQUASH",
+      "cost": 42,
+      "raw_row_text": "Squash Mexico Spaghetti 40lbs 3923 $42.00"
+    }
+  ]
+}

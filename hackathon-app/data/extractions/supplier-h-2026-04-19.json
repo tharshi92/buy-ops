@@ -1,0 +1,76 @@
+{
+  "doc_id": "supplier-h-2026-04-19",
+  "supplier": "supplier-h",
+  "date": "2026-04-19",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-h-2026-04-19.pdf",
+  "format": "pdf",
+  "duration_ms": 14958,
+  "row_count": 13,
+  "rows": [
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "Large Cukes $14"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": null,
+      "raw_row_text": "Med Cuke $ none"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 35,
+      "raw_row_text": "Heirloom $35"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "Medley pints $ 36"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 32,
+      "raw_row_text": "Cherry 8x1 $32"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 55,
+      "raw_row_text": "Beefsteak $55"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 42,
+      "raw_row_text": "Clusters $42-44"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 65,
+      "raw_row_text": "Roma $65"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 36,
+      "raw_row_text": "Pepper red 11lb $36"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "Pepper orange 11lb $32"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "Pepper yellow 11lb $32"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 20,
+      "raw_row_text": "Mini Cuke 8x6 $20"
+    },
+    {
+      "commodity": "GRAPES",
+      "cost": 38,
+      "raw_row_text": "Red grape pints $38"
+    }
+  ]
+}

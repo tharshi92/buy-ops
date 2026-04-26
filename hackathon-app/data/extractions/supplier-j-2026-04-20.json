@@ -1,0 +1,211 @@
+{
+  "doc_id": "supplier-j-2026-04-20",
+  "supplier": "supplier-j",
+  "date": "2026-04-20",
+  "source_path": "/Users/tharshi/GitHub/builtwithopus47/buy-ops/data/price_lists/supplier-j-2026-04-20.txt",
+  "format": "txt",
+  "duration_ms": 21602,
+  "row_count": 40,
+  "rows": [
+    {
+      "commodity": "MINIS",
+      "cost": 30,
+      "raw_row_text": "20lb minis $30"
+    },
+    {
+      "commodity": "MINIS",
+      "cost": 24,
+      "raw_row_text": "6ct minis $24"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 14,
+      "raw_row_text": "Utility cucs $14"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 7,
+      "raw_row_text": "#2 cucs $7"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 8,
+      "raw_row_text": "Small cucs $8"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 11,
+      "raw_row_text": "Medium cucs $11"
+    },
+    {
+      "commodity": "CUCUMBERS",
+      "cost": 16,
+      "raw_row_text": "Large cucs $16 (limited)"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "Local Peppers XXL Red $32"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "Local Peppers XXL Yellow $32"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 32,
+      "raw_row_text": "Local Peppers XXL Orange $32"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 24,
+      "raw_row_text": "St Davids Eggs $24"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 54,
+      "raw_row_text": "12x1 snacking peppers $54"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 36,
+      "raw_row_text": "8x3 rainbow peppers $36"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 40,
+      "raw_row_text": "9x4 Baby bells $40"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "Heirloom $36"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 60,
+      "raw_row_text": "Delights $60"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 50,
+      "raw_row_text": "Kumato $50"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 40,
+      "raw_row_text": "Mini mixers $40"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "10x9oz Cherry Vines ( black and gold) $36"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 36,
+      "raw_row_text": "10x9oz Cherry Vines (Red) $36"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 48,
+      "raw_row_text": "8x12oz Cherry vines $48"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 60,
+      "raw_row_text": "12lb Cherry vines $60"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 65,
+      "raw_row_text": "XL HH  $65 (very limited)"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 44,
+      "raw_row_text": "TOV’s $44"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 44,
+      "raw_row_text": "Grape tomatoes $44"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 35,
+      "raw_row_text": "Baby eggs $35"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 35,
+      "raw_row_text": "Graffiti eggs $35"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 20,
+      "raw_row_text": "Sicilian eggs 5lb $20"
+    },
+    {
+      "commodity": "LETTUCE",
+      "cost": 20,
+      "raw_row_text": "Boston lettuce $20"
+    },
+    {
+      "commodity": "TOMATOES",
+      "cost": 74,
+      "raw_row_text": "Xl roma $74"
+    },
+    {
+      "commodity": "EGGPLANTS",
+      "cost": 32,
+      "raw_row_text": "Eggplants 32’s $32"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 32,
+      "raw_row_text": "Fcy zucchini $32"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 32,
+      "raw_row_text": "Yellow zucchini $32"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 32,
+      "raw_row_text": "Med zucchini $32"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": null,
+      "raw_row_text": "No grey zuke"
+    },
+    {
+      "commodity": "ZUCCHINI",
+      "cost": 36,
+      "raw_row_text": "Wb zucchini $36"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 66,
+      "raw_row_text": "Local xl green peppers $66"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "US ch green peppers $34"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 34,
+      "raw_row_text": "US lg green peppers $34"
+    },
+    {
+      "commodity": "PEPPERS",
+      "cost": 54,
+      "raw_row_text": "US Long hot peppers $54"
+    }
+  ]
+}
