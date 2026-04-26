@@ -1,0 +1,2149 @@
+{
+  "delivery_date": "2026-04-23",
+  "generated_at": "2026-04-26T22:08:53.336Z",
+  "picks": [
+    {
+      "item": {
+        "id": 1,
+        "name": "Banana Turning",
+        "description": "40 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BANANAS",
+      "supplier": "supplier-e",
+      "cost": 29,
+      "raw_row_text": "Bananas – 29.00",
+      "rationale": "Cheapest priced offering at $29 vs $32 peers; supplier-e chats show no banana-related shorts or quality issues in the recent window.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 31276
+      }
+    },
+    {
+      "item": {
+        "id": 2,
+        "name": "Brussels Sprouts",
+        "description": "25 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BRUSSEL SPROUTS",
+      "supplier": "supplier-n",
+      "cost": 50,
+      "raw_row_text": "CA050 - 25 LB. CARTON 51.00 * 50.00 *",
+      "rationale": "Supplier-n is cheapest at $50/25lb (vs $56-62 peers) with no Brussels-sprouts-related issues in recent chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 19978
+      }
+    },
+    {
+      "item": {
+        "id": 3,
+        "name": "Carrot",
+        "description": "50 lb",
+        "quantity": 6,
+        "n_orders": 6
+      },
+      "decision": "pick",
+      "commodity": "CARROTS",
+      "supplier": "supplier-b",
+      "cost": 35,
+      "raw_row_text": "50 lb Jumbo Carrot $35.00",
+      "rationale": "Supplier-b is the cheapest 50 lb pack-size match at $35 (vs $38 peers), with consistent recent deliveries of 50 lb carrots at the same price and no shorts or quality issues in chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 27367
+      }
+    },
+    {
+      "item": {
+        "id": 4,
+        "name": "Celery Stalks",
+        "description": "24 stalks",
+        "quantity": 4,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CELERY",
+      "supplier": "supplier-o",
+      "cost": 48,
+      "raw_row_text": "Boskovich 24ct 1715 $48.00",
+      "rationale": "Tied for cheapest at $48; supplier-o just confirmed and fulfilled an identical 4-case Celery Stalks 24ct order at $48 on Apr 23 with no shorts or quality issues, making them the most proven option.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 26911
+      }
+    },
+    {
+      "item": {
+        "id": 5,
+        "name": "Coriander / Cilantro",
+        "description": "24 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CILANTRO",
+      "supplier": "supplier-g",
+      "cost": 28,
+      "raw_row_text": "9328 Cilantro 24 24lb MX $ 28.00",
+      "rationale": "Supplier-g and supplier-l both offer 24ct cilantro at $28, but supplier-l recently rejected a 24ct cilantro request (only had 60ct), so supplier-g is the more reliable pick at the matching pack size and price.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 27171
+      }
+    },
+    {
+      "item": {
+        "id": 6,
+        "name": "Cucumber Medium",
+        "description": "12 pieces",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "CUCUMBERS",
+      "supplier": "supplier-q",
+      "cost": 12,
+      "raw_row_text": "ENGLISH CUCUMBER MED 12ct :flag-ca:- $12",
+      "rationale": "Supplier-q's English Cucumber MED 12ct at $12 is an exact match for the 'Cucumber Medium' 12-piece pack; cheaper offerings are different specs (Small, #2 grade, Mini) and supplier-q chats show no recent issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 25587
+      }
+    },
+    {
+      "item": {
+        "id": 7,
+        "name": "Cucumber Large",
+        "description": "12 pieces",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CUCUMBERS",
+      "supplier": "supplier-h",
+      "cost": 14,
+      "raw_row_text": "Large Cukes $14",
+      "rationale": "Supplier-h offers Large Cukes at $14 (cheapest 'Large' match) with clean recent chats, while supplier-p ($15) was just short on cukes on Apr 22.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 44512
+      }
+    },
+    {
+      "item": {
+        "id": 8,
+        "name": "Tomato Grape Cherry",
+        "description": "12 x 1 lb",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "GRAPE TOMATOES",
+      "supplier": "supplier-f",
+      "cost": 36,
+      "raw_row_text": "Grapes.. Suncoast @ 36.00",
+      "rationale": "Only priced offering for grape tomatoes; supplier-f has been reliably delivering grape cherry 12x1lb in recent days with no shorts or quality issues on this SKU (the Apr 17 mush complaint was on a different item, 5x6 vine ripe).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 43856
+      }
+    },
+    {
+      "item": {
+        "id": 9,
+        "name": "Onion Green",
+        "description": "48 bunches",
+        "quantity": 4,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "GREEN ONIONS",
+      "supplier": "supplier-n",
+      "cost": 34,
+      "raw_row_text": "VE101 48 SIZE CARTON 35.00 * 34.00 *",
+      "rationale": "Supplier-n is cheapest at $34 with a matching 48-bunch pack size, has been a consistent green onion supplier in recent chats with no quality issues, and was already quoted at $34 for Apr 23.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23347
+      }
+    },
+    {
+      "item": {
+        "id": 10,
+        "name": "Pepper Green Jumbo",
+        "description": "22 lb",
+        "quantity": 6,
+        "n_orders": 6
+      },
+      "decision": "pick",
+      "commodity": "PEPPERS",
+      "supplier": "supplier-k",
+      "cost": 55,
+      "raw_row_text": "PEPPERS (Mex) Green Jumbo 55.00",
+      "rationale": "supplier-k's 'Green Jumbo' offering is the exact spec match at $55 and recent chats show no issues on green peppers.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 24405
+      }
+    },
+    {
+      "item": {
+        "id": 11,
+        "name": "Lemon",
+        "description": "113 pieces",
+        "quantity": 3,
+        "n_orders": 3
+      },
+      "decision": "pick",
+      "commodity": "LEMONS",
+      "supplier": "supplier-l",
+      "cost": 35,
+      "raw_row_text": "LEMON 100 15KG,PLU,35,DOWN SOUTH",
+      "rationale": "Supplier-l ties for cheapest at $35 with the closest pack size to 113ct (100ct vs supplier-n's 75ct), and recent chats show they routinely fill our 113-piece lemon line at $34-36 with no active shorts or quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 41637
+      }
+    },
+    {
+      "item": {
+        "id": 13,
+        "name": "Onion Red Large",
+        "description": "25 lb",
+        "quantity": 8,
+        "n_orders": 6
+      },
+      "decision": "pick",
+      "commodity": "ONIONS",
+      "supplier": "supplier-p",
+      "cost": 20,
+      "raw_row_text": "ONION RED JUMBO BAG BLUE BABY 25 LB 20.00",
+      "rationale": "Only offering that matches red onion in a 25 lb pack; price is reasonable and recent chats show no red-onion shorts or quality issues with supplier-p.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 26270
+      }
+    },
+    {
+      "item": {
+        "id": 14,
+        "name": "Onion Cooking Medium",
+        "description": "50 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ONIONS",
+      "supplier": "supplier-n",
+      "cost": 19,
+      "raw_row_text": "ON005 LARGE 50 LB BAG 20.00 * 19.00 * COOKING ONIONS",
+      "rationale": "Supplier-n has been our consistent source for Onion Cooking Medium 50 lb at $19 across recent orders (Apr 14/15/17/21/24) with no shorts or quality issues, and is the cheapest 50 lb cooking onion option.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 24521
+      }
+    },
+    {
+      "item": {
+        "id": 15,
+        "name": "Pepper Orange",
+        "description": "25 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "RPC",
+      "supplier": "supplier-l",
+      "cost": 20,
+      "raw_row_text": "RPC PEPPER ORANGE XL,,20,PRIME TIME",
+      "rationale": "supplier-l is the only supplier offering orange peppers (XL Prime Time) at a stable $20 over the last two days, and recent chats show no quality or short issues; PEPPERS commodity had no orange options.",
+      "trace": {
+        "tool_calls": 6,
+        "duration_ms": 92948
+      }
+    },
+    {
+      "item": {
+        "id": 16,
+        "name": "Pepper Red",
+        "description": "25 lb",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "PEPPERS",
+      "supplier": "supplier-a",
+      "cost": 30,
+      "raw_row_text": "Red pepper 5kg XXL $30",
+      "rationale": "Cheapest red pepper offering at $30 (XXL grade) from a reliable supplier with no recent shorts or quality issues; no 25lb pack exists in the market today, so 5kg/11lb pack is the standard substitute.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 29751
+      }
+    },
+    {
+      "item": {
+        "id": 17,
+        "name": "Strawberries",
+        "description": "8 x 1 lb",
+        "quantity": 10,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "STRAWBERRIES",
+      "supplier": "supplier-l",
+      "cost": 12,
+      "raw_row_text": "STRAWBERRY 1LB,GREEN SD,12,SWEET DARLING",
+      "rationale": "Supplier-L's $12 Sweet Darling is well below peers ($18, $32, $32) and chat history shows consistent strawberry supply at $6-$8 with no quality issues, so the low price is normal for them.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 28411
+      }
+    },
+    {
+      "item": {
+        "id": 18,
+        "name": "Tomato 5x6",
+        "description": "25 lb",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "TOMATOES",
+      "supplier": "supplier-f",
+      "cost": 110,
+      "raw_row_text": "5x6.. West Coast @ 110.00",
+      "rationale": "Cheapest 5x6 lister supplier-n is shorted ('No tomatoes' on Apr 21); supplier-f at $110 is the next cheapest and team has been actively buying 5x6 from them (earlier quality concern was explained as a variety mismatch and resolved).",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 34966
+      }
+    },
+    {
+      "item": {
+        "id": 19,
+        "name": "Tomato Beefsteak Hot House",
+        "description": "15 lb",
+        "quantity": 5,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "TOMATOES",
+      "supplier": "supplier-e",
+      "cost": 55,
+      "raw_row_text": "Hot House (15lb) – 55.00",
+      "rationale": "Supplier-e is the only offering matching the exact item (Hot House) and pack size (15 lb), with no quality or short issues in recent chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23670
+      }
+    },
+    {
+      "item": {
+        "id": 20,
+        "name": "Mushroom Portobello Local",
+        "description": "5 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "MUSHROOMS",
+      "supplier": "supplier-l",
+      "cost": 15.5,
+      "raw_row_text": "MUSHROOM BROWN 5LBS,,15.5,UNIONVILLE",
+      "rationale": "Cheapest local 5lb brown/portobello cap match (Unionville); recent chat confirms 'Mushroom Brown Caps Local 5 lb $15.50' was bought at this exact price with no quality issues, while white-mushroom rows aren't portobello and other brown options are pricier or wrong pack.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 37524
+      }
+    },
+    {
+      "item": {
+        "id": 21,
+        "name": "Spring Mix Heritage",
+        "description": "3 lb",
+        "quantity": 12,
+        "n_orders": 3
+      },
+      "decision": "pick",
+      "commodity": "HERITAGE BLEND",
+      "supplier": "supplier-m",
+      "cost": 12,
+      "raw_row_text": "Heritage Blend 3lb 12.00 TAYLOR FARMS",
+      "rationale": "Only supplier offering the exact 3 lb Heritage Blend pack at $12; consistent supply history with supplier-m for this item (one isolated short on Apr 17, but orders since have been fine).",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 29075
+      }
+    },
+    {
+      "item": {
+        "id": 22,
+        "name": "Coriander / Cilantro",
+        "description": "60 bunches",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "CILANTRO",
+      "supplier": "supplier-p",
+      "cost": 56,
+      "raw_row_text": "CILANTRO/CORRIANDER MRS LEAF 60 CT 56.00",
+      "rationale": "Supplier-p offers a matching 60ct pack at $56, $2 cheaper than the only other 60ct option (supplier-q at $58), with no cilantro-related shorts or complaints in recent chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 22951
+      }
+    },
+    {
+      "item": {
+        "id": 25,
+        "name": "Ginger Root",
+        "description": "30 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "GINGER",
+      "supplier": "supplier-n",
+      "cost": 24,
+      "raw_row_text": "VE130 LARGE. 30 LB.CARTON. 25.00 * 24.00 * GINGER (CHINESE)",
+      "rationale": "Supplier-n offers Ginger Root in the requested 30 lb carton at $24 — cheapest at that pack size, recently ordered without issue, and already on the Apr 23 order with no shorts or quality complaints in chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 28810
+      }
+    },
+    {
+      "item": {
+        "id": 26,
+        "name": "Tomato 6x7",
+        "description": "25 lb",
+        "quantity": 4,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "TOMATOES",
+      "supplier": "supplier-f",
+      "cost": 90,
+      "raw_row_text": "5x6.. West Coast @ 110.00",
+      "rationale": "Supplier-f's offering sheet only captured a 5x6 row, but recent chats (Apr 21, 22, 23) show them actively delivering Tomato 6x7 25 lb at $90/case (Crimson RGR variety) — cheaper than any field-tomato alternative; supplier-n said 'No tomatoes' on Apr 21, and the prior quality issue was on 5x6 Vine Ripe, not 6x7.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 96803
+      }
+    },
+    {
+      "item": {
+        "id": 27,
+        "name": "Broccoli Crown",
+        "description": "20 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BROCCOLI",
+      "supplier": "supplier-f",
+      "cost": 40,
+      "raw_row_text": "Misc Veg.. Broccoli Crowns @ 40.00",
+      "rationale": "supplier-f is cheapest at $40 for Broccoli Crowns and recent chats show no broccoli quality issues or shorts.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 18855
+      }
+    },
+    {
+      "item": {
+        "id": 28,
+        "name": "Lettuce Green Leaf",
+        "description": "24 heads",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "LEAF LETTUCE",
+      "supplier": "supplier-m",
+      "cost": 48,
+      "raw_row_text": "Leaf Green 24ct 48.00",
+      "rationale": "Sole priced offering at a stable $48/24ct, and recent supplier-m chats show no shorts or quality issues on green leaf lettuce.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 17882
+      }
+    },
+    {
+      "item": {
+        "id": 29,
+        "name": "Spring Mix Mesclun",
+        "description": "3 lb",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "SPRING MIX",
+      "supplier": "supplier-i",
+      "cost": 20.5,
+      "raw_row_text": "LETTUCE SPRING MIX CDN 3X1LB 20.50",
+      "rationale": "Supplier-i's 3X1LB pack matches the 3 lb pack size exactly, is cheaper than supplier-m's 8x5oz alternative, and recent chats show no quality or short issues on Spring Mix Mesclun (ordered routinely on Apr 21 and Apr 23).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 26967
+      }
+    },
+    {
+      "item": {
+        "id": 30,
+        "name": "Romaine Heart 6 Pack",
+        "description": "7 packs",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ROMAINE HEARTS",
+      "supplier": "supplier-g",
+      "cost": 59,
+      "raw_row_text": "4420 Romaine Hearts 7x6 33 lb US $ 59.00",
+      "rationale": "Supplier-g is the only offering in the ROMAINE HEARTS bucket and is the regular supplier of this exact item (Romaine Heart 6 Pack, 7 packs) with no quality issues in recent chats.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 33167
+      }
+    },
+    {
+      "item": {
+        "id": 31,
+        "name": "Tomato Roma",
+        "description": "25 lb",
+        "quantity": 11,
+        "n_orders": 7
+      },
+      "decision": "pick",
+      "commodity": "ROMA TOMATOES",
+      "supplier": "supplier-f",
+      "cost": 80,
+      "raw_row_text": "Roma.. Crimson @ 80.00",
+      "rationale": "Only priced offering for Roma tomatoes; recent supplier chats show the mush quality issue was on 5x6 vine ripe (different variety), not Roma, so no active blocker.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 21669
+      }
+    },
+    {
+      "item": {
+        "id": 32,
+        "name": "Cantaloupe Jumbo",
+        "description": "9 pieces",
+        "quantity": 4,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "CANTALOUPE",
+      "supplier": "supplier-p",
+      "cost": 28,
+      "raw_row_text": "CANTALOUPE DEL LAGO 9 CT 28.00",
+      "rationale": "Cheapest 9-count offering at $28 vs $30-$36 from other 9ct suppliers; recent chats show consistent $28 cantaloupe pricing with no shorts or quality issues on this item.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 24647
+      }
+    },
+    {
+      "item": {
+        "id": 33,
+        "name": "Onion Spanish Jumbo",
+        "description": "50 lb",
+        "quantity": 3,
+        "n_orders": 3
+      },
+      "decision": "pick",
+      "commodity": "ONIONS",
+      "supplier": "supplier-f",
+      "cost": 30,
+      "raw_row_text": "Onions.. Super Colossal Spanish @ 30.00",
+      "rationale": "Cheapest Spanish onion offering at $30 (Super Colossal is a like-or-better grade vs Jumbo, Spanish onions ship in standard 50 lb sacks); supplier-f chats show no onion issues.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 66299
+      }
+    },
+    {
+      "item": {
+        "id": 35,
+        "name": "Mushroom Brown Caps Local",
+        "description": "5 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "MUSHROOMS",
+      "supplier": "supplier-l",
+      "cost": 15.5,
+      "raw_row_text": "MUSHROOM BROWN 5LBS,,15.5,UNIONVILLE",
+      "rationale": "Cheapest brown 5lb match; supplier-a/c are white (wrong variety) and supplier-l confirmed this exact item at $15.50 in recent chats with no quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23691
+      }
+    },
+    {
+      "item": {
+        "id": 36,
+        "name": "Mushroom White Local",
+        "description": "5 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "MUSHROOMS",
+      "supplier": "supplier-a",
+      "cost": 11,
+      "raw_row_text": "Mushroom White - Choice - 5 lb per case - $11.00",
+      "rationale": "Supplier-a is cheapest at $11 vs next white 5lb at $13.50, with consistent daily deliveries of this exact item and no recent shorts or quality issues in chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23884
+      }
+    },
+    {
+      "item": {
+        "id": 37,
+        "name": "Pineapple",
+        "description": "6 pieces",
+        "quantity": 3,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "PINEAPPLES",
+      "supplier": "supplier-k",
+      "cost": 24,
+      "raw_row_text": "PINEAPPLE \"Dole\" 5-6-7 24.00",
+      "rationale": "Supplier-k is the cheapest priced offering and recent chats show they have consistently supplied size-6 pineapples on Apr 14/16/21 with no quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 32227
+      }
+    },
+    {
+      "item": {
+        "id": 38,
+        "name": "Melon Honeydew Jumbo",
+        "description": "5 pieces",
+        "quantity": 4,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "HONEYDEW",
+      "supplier": "supplier-c",
+      "cost": 26,
+      "raw_row_text": "GTM/HDR 4J Honeydew SOL $26.00",
+      "rationale": "Supplier-c is the cheapest priced offering and chats confirm an already-placed Apr 23 order of 4x Melon Honeydew Jumbo 5pc with no quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 32615
+      }
+    },
+    {
+      "item": {
+        "id": 39,
+        "name": "Spinach Baby",
+        "description": "2 x 2 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BABY SPINACH",
+      "supplier": "supplier-k",
+      "cost": 16,
+      "raw_row_text": "SALADS 4lb Spinach 16.00",
+      "rationale": "supplier-k carries the matching 4lb (2x2lb) baby spinach pack and Jitto has been ordering Spinach Baby 2 x 2 lb from them weekly without quality issues; no other supplier offers this exact pack.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 34373
+      }
+    },
+    {
+      "item": {
+        "id": 41,
+        "name": "Apple Red Delicious",
+        "description": "100 pieces",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "APPLES",
+      "supplier": "supplier-d-pt1",
+      "cost": 52,
+      "raw_row_text": "RED DELS Superfresh 80 $52.00",
+      "rationale": "supplier-d-pt1 is the cheapest Red Delicious offering at $52/80ct ($0.65/piece) vs supplier-q's Red Del 72ct at $56 ($0.78/piece), with no chat issues on file.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 26110
+      }
+    },
+    {
+      "item": {
+        "id": 42,
+        "name": "Coleslaw Mix",
+        "description": "4 x 5 lb",
+        "quantity": 5,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "COLESLAW",
+      "supplier": "supplier-k",
+      "cost": 27,
+      "raw_row_text": "SALADS Separate Coleslaw 4x5lb 27.00",
+      "rationale": "Only priced 4x5lb coleslaw offering; recent quality issue was credited and supplier moved to new growing area, team continued buying 7 cases on Apr 21 at $26 so issue is acknowledged/managed, not active unresolved.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 35576
+      }
+    },
+    {
+      "item": {
+        "id": 43,
+        "name": "Garlic Peeled",
+        "description": "6 x 3 lb",
+        "quantity": 5,
+        "n_orders": 5
+      },
+      "decision": "pick",
+      "commodity": "GARLIC",
+      "supplier": "supplier-k",
+      "cost": 25,
+      "raw_row_text": "Peel Garlic 6x3 25.00",
+      "rationale": "Supplier-k is the only offering that matches the requested 6x3 lb peeled garlic pack size, with no issues in recent chats (cheaper rows are different pack sizes or paste).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23034
+      }
+    },
+    {
+      "item": {
+        "id": 45,
+        "name": "Mint",
+        "description": "12 bunches",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "MINT",
+      "supplier": "supplier-i",
+      "cost": 6,
+      "raw_row_text": "MINT 6 6.00",
+      "rationale": "Supplier-i is our regular mint supplier (recurring 12-bunch orders billed cleanly Apr 14/15/16/23 with no quality issues) and offers the lowest priced row at $6.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 32575
+      }
+    },
+    {
+      "item": {
+        "id": 46,
+        "name": "Tomato Heirloom",
+        "description": "10 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "TOMATOES",
+      "supplier": "supplier-h",
+      "cost": 35,
+      "raw_row_text": "Heirloom $35",
+      "rationale": "Supplier-h offers heirloom 10 lb at $35, $1 cheaper than supplier-j's $36, and recent chats show clean fulfillment with an Apr 24 heirloom order already placed at the same price.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 18492
+      }
+    },
+    {
+      "item": {
+        "id": 47,
+        "name": "Cabbage Red",
+        "description": "16 heads",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CABBAGE",
+      "supplier": "supplier-b",
+      "cost": 25,
+      "raw_row_text": "16 Size Red $25.00",
+      "rationale": "Supplier-b is the cheapest red 16-head option at $25 vs $28-$34 from peers, and chats confirm they've reliably delivered this exact line including a confirmed Apr 23 order with no shorts or quality issues.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 38337
+      }
+    },
+    {
+      "item": {
+        "id": 48,
+        "name": "Beans Fine French",
+        "description": "14 x 400 g",
+        "quantity": 8,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BEANS",
+      "supplier": "supplier-p",
+      "cost": 48,
+      "raw_row_text": "BEANS FRENCH BAG BORN 14X400 g 48.00",
+      "rationale": "supplier-p is the only offering that exactly matches Fine French beans in the 14x400g pack size; cheaper options are different specs (bulk green beans, wirebound crates) and not interchangeable.",
+      "trace": {
+        "tool_calls": 3,
+        "duration_ms": 18521
+      }
+    },
+    {
+      "item": {
+        "id": 50,
+        "name": "Orange Juicing",
+        "description": "113 pieces",
+        "quantity": 4,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ORANGES",
+      "supplier": "supplier-p",
+      "cost": 24,
+      "raw_row_text": "ORANGES 113CT JANA FRESH 15 KG 24.00",
+      "rationale": "Supplier-p is cheapest at $24 with an exact 113ct match for juicing oranges, and recent chats show consistent successful deliveries of this exact item with no shorts.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 21927
+      }
+    },
+    {
+      "item": {
+        "id": 51,
+        "name": "Romaine Lettuce",
+        "description": "24 pieces",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "ROMAINE LETTUCE",
+      "supplier": "supplier-g",
+      "cost": 45,
+      "raw_row_text": "4401 Romaine - Andy Boy 24 24 lb US $ 45.00",
+      "rationale": "Cheapest true 24ct match (supplier-i $26 is a different pack: 8x113g crispy hearts); we just bought the same Andy Boy 24-piece romaine from supplier-g on Apr 21 at $43 with no quality issues, so $45 is the best $/quality fit.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 28168
+      }
+    },
+    {
+      "item": {
+        "id": 52,
+        "name": "Lime",
+        "description": "54 pieces",
+        "quantity": 5,
+        "n_orders": 5
+      },
+      "decision": "pick",
+      "commodity": "LIMES",
+      "supplier": "supplier-e",
+      "cost": 28,
+      "raw_row_text": "Limes (10lb) – 28.00",
+      "rationale": "Supplier-e's $28 lime pack matches the 54-piece spec exactly (chats confirm '5 Lime 54 pieces $28.00' billed Apr 23); other suppliers only offer 175ct cartons.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 26724
+      }
+    },
+    {
+      "item": {
+        "id": 54,
+        "name": "Ginger Root",
+        "description": "10 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "GINGER",
+      "supplier": "supplier-i",
+      "cost": 13,
+      "raw_row_text": "GINGER CH 10LBS 13.00",
+      "rationale": "Supplier-i offers the exact 10 lb pack at $13 — cheapest in absolute terms, matches pack size, and chats show this line has been delivered reliably with no shorts or quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 24130
+      }
+    },
+    {
+      "item": {
+        "id": 56,
+        "name": "Parsley Curly",
+        "description": "12 x 40 g",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "PARSLEY",
+      "supplier": "supplier-i",
+      "cost": 6.75,
+      "raw_row_text": "PARSLEY, CURLY 6 6.75*",
+      "rationale": "Cheapest priced offering and supplier-i has a clean recent track record on curly parsley (delivered 12x40g at $12.25 on Apr 22/23 with no shorts or complaints).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 44536
+      }
+    },
+    {
+      "item": {
+        "id": 57,
+        "name": "Lemon",
+        "description": "88 pieces",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "LEMONS",
+      "supplier": "supplier-l",
+      "cost": 35,
+      "raw_row_text": "LEMON 100 15KG,PLU,35,DOWN SOUTH",
+      "rationale": "Supplier-l is tied for cheapest at $35 and recent chats show they regularly fulfill the 88ct lemon line with no quality issues or shorts; closest size match in the cheapest tier (supplier-n's $35 alternative is only 75ct).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 42514
+      }
+    },
+    {
+      "item": {
+        "id": 59,
+        "name": "Orange Navel",
+        "description": "50 pieces",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ORANGES",
+      "supplier": "supplier-k",
+      "cost": 44,
+      "raw_row_text": "ORANGE (Cal) Navel Fancy Heirloom Open 48-72 44.00",
+      "rationale": "Only listing matching both Navel variety and the 50-piece pack spec (48-72 bracket); chats show no recent issues with supplier-k on oranges.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 40409
+      }
+    },
+    {
+      "item": {
+        "id": 60,
+        "name": "Tomato Tomatillo",
+        "description": "35 lb",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "TOMATILLOS",
+      "supplier": "supplier-q",
+      "cost": 68,
+      "raw_row_text": "TOMATILLO Husk- $68",
+      "rationale": "Supplier-q is the cheapest priced option ($68 vs $85 at supplier-d-pt2) with no tomatillo-related issues in recent chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 23093
+      }
+    },
+    {
+      "item": {
+        "id": 61,
+        "name": "Romaine Heart 3 Pack Andy Boy",
+        "description": "12 packs",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ROMAINE HEARTS",
+      "supplier": "supplier-n",
+      "cost": 50,
+      "raw_row_text": "LE050 12 X 3 CARTON 51.00 * 50.00 * ROMAINE HEARTS",
+      "rationale": "Supplier-n is the only offering matching the 12x3 (12-pack) carton spec at $50, with no unresolved issues in recent chats.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 39476
+      }
+    },
+    {
+      "item": {
+        "id": 62,
+        "name": "Mushroom White Choice Local",
+        "description": "5 lb",
+        "quantity": 15,
+        "n_orders": 5
+      },
+      "decision": "pick",
+      "commodity": "MUSHROOMS",
+      "supplier": "supplier-a",
+      "cost": 11,
+      "raw_row_text": "Mushroom White - Choice - 5 lb per case - $11.00",
+      "rationale": "Supplier-a is the cheapest at $11/case for an exact match (Mushroom White Choice Local 5 lb), is the regular weekly source with no shorts/quality issues in recent chats, and confirmed 'all good' on the Apr 23 delivery of this same item.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 24958
+      }
+    },
+    {
+      "item": {
+        "id": 63,
+        "name": "Mushroom White Stuffers Local",
+        "description": "5 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "MUSHROOMS",
+      "supplier": "supplier-a",
+      "cost": 11,
+      "raw_row_text": "Mushroom White - Choice - 5 lb per case - $11.00",
+      "rationale": "Supplier-a is cheapest white 5lb option ($11 vs $13.50 from supplier-c) and recent chats show they're our regular supplier for Mushroom White Stuffers Local with no active issues — Apr 23 delivery confirmed 'all good'.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 51382
+      }
+    },
+    {
+      "item": {
+        "id": 65,
+        "name": "Mint",
+        "description": "24 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "MINT",
+      "supplier": "supplier-l",
+      "cost": 22,
+      "raw_row_text": "MINT 24,,22,J.D. FRESH HERBS",
+      "rationale": "Supplier-l's offering matches the 24-bunch pack size at $22; supplier-i's $6 row is a 6-bunch pack (chat confirms their 12-bunch is $11.50) and supplier-q's pack size is unspecified.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 36603
+      }
+    },
+    {
+      "item": {
+        "id": 66,
+        "name": "Lettuce Red Leaf",
+        "description": "24 heads",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "LEAF LETTUCE",
+      "supplier": "supplier-m",
+      "cost": 48,
+      "raw_row_text": "Leaf Red 24ct 48.00",
+      "rationale": "Supplier-m is the only supplier with leaf lettuce and price history confirms Red Leaf 24ct steady at $48.00 through delivery date with no chat issues on red leaf.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 27669
+      }
+    },
+    {
+      "item": {
+        "id": 67,
+        "name": "Rosemary",
+        "description": "12 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "ROSEMARY",
+      "supplier": "supplier-l",
+      "cost": 11,
+      "raw_row_text": "ROSEMARY,,11,BONCHEFF",
+      "rationale": "Supplier-l (Boncheff) is the cheapest priced offering at $11 vs $11.75, with no rosemary-related issues in recent chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 19048
+      }
+    },
+    {
+      "item": {
+        "id": 68,
+        "name": "Chives",
+        "description": "12 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CHIVES",
+      "supplier": "supplier-i",
+      "cost": 105,
+      "raw_row_text": "CHIVES CH 25LBS 105.00*",
+      "rationale": "Supplier-i is the only supplier with a priced chives offering, and recent chats show consistent chives fulfillment (12 bunches @ $13.25 on Apr 16 and Apr 23) with no shorts or quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 31323
+      }
+    },
+    {
+      "item": {
+        "id": 69,
+        "name": "Dill Weed",
+        "description": "12 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "DILL",
+      "supplier": "supplier-i",
+      "cost": 14,
+      "raw_row_text": "DILLWEED 6 14.00*",
+      "rationale": "Supplier-i is the cheapest priced offering and chats show they're an active, reliable dill weed supplier (just delivered 12 bunches on Apr 23) with no quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 52184
+      }
+    },
+    {
+      "item": {
+        "id": 70,
+        "name": "Thyme",
+        "description": "12 bunches",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "THYME",
+      "supplier": "supplier-i",
+      "cost": 11.75,
+      "raw_row_text": "THYME 12 11.75",
+      "rationale": "Supplier-i is cheaper ($11.75 vs $12.00) and recent chats confirm thyme has been delivered reliably with no shorts or quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 16409
+      }
+    },
+    {
+      "item": {
+        "id": 71,
+        "name": "Cucumber Medium Choice",
+        "description": "14 pieces",
+        "quantity": 40,
+        "n_orders": 13
+      },
+      "decision": "pick",
+      "commodity": "CUCUMBERS",
+      "supplier": "supplier-q",
+      "cost": 12,
+      "raw_row_text": "ENGLISH CUCUMBER MED 12ct :flag-ca:- $12",
+      "rationale": "Best match for 'Medium Choice' spec — medium-grade Canadian cucumber at $12 (cheaper alternatives are #2/utility grade or small/mini packs, and supplier-q chats show no recent quality or short issues).",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 55082
+      }
+    },
+    {
+      "item": {
+        "id": 72,
+        "name": "Carrot Baby Peeled with Top",
+        "description": "5 lb",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "CARROTS",
+      "supplier": "supplier-i",
+      "cost": 53.5,
+      "raw_row_text": "CARROTS BABY PEELED US 15X2LBS 53.50*",
+      "rationale": "Supplier-i is the cheapest baby peeled carrot offering ($53.50 vs supplier-l at $80) and recent chats show consistent supply with no carrot-related shorts or quality issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 27492
+      }
+    },
+    {
+      "item": {
+        "id": 74,
+        "name": "Pea Shoots Living Local",
+        "description": "6 packs",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "PEA SHOOTS",
+      "supplier": "supplier-m",
+      "cost": 4,
+      "raw_row_text": "Pea Shoots -Emerald 227g 4.00 WILLIAM'S SPOUTS",
+      "rationale": "Supplier-m is the only priced offering for pea shoots at $4.00/227g pack and recent chats show no pea shoot issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 18360
+      }
+    },
+    {
+      "item": {
+        "id": 75,
+        "name": "Onion Green Iced",
+        "description": "48 bunches",
+        "quantity": 2,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "GREEN ONIONS",
+      "supplier": "supplier-n",
+      "cost": 34,
+      "raw_row_text": "VE101 48 SIZE CARTON 35.00 * 34.00 *",
+      "rationale": "Supplier-n is the cheapest priced option at $34 for matching 48-count carton, regularly supplies us green onions with no recent shorts or quality issues, and was already confirmed for an Apr 23 order at this price.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 19991
+      }
+    },
+    {
+      "item": {
+        "id": 77,
+        "name": "Basil Thai",
+        "description": "12 bunches",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "BASIL",
+      "supplier": "supplier-l",
+      "cost": 11,
+      "raw_row_text": "BASIL 12,,11,BONCHEFF",
+      "rationale": "Supplier-l is cheapest at $11 for 12 bunches (vs $11.75 at supplier-i) with no recent basil-related issues in chats.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 20001
+      }
+    },
+    {
+      "item": {
+        "id": 78,
+        "name": "Bok Choy Shanghai Local",
+        "description": "30 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "pick",
+      "commodity": "BOK CHOY",
+      "supplier": "supplier-o",
+      "cost": 44,
+      "raw_row_text": "Bok Choy Shanghai 25lbs 2860 $44.00",
+      "rationale": "Supplier-o is the only Local (Ontario) Shanghai bok choy on offer and the cheapest at $44; recent chats show no bok choy issues.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 32433
+      }
+    },
+    {
+      "item": {
+        "id": 80,
+        "name": "Turnip",
+        "description": "25 lb",
+        "quantity": 5,
+        "n_orders": 2
+      },
+      "decision": "pick",
+      "commodity": "TURNIP",
+      "supplier": "supplier-q",
+      "cost": 28,
+      "raw_row_text": "TURNIP- $28",
+      "rationale": "Supplier-q is cheapest at $28 with no chat issues; the Apr 23 order list already confirms 5 Turnip 25 lb @ $28 with no shorts or quality complaints.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 20405
+      }
+    }
+  ],
+  "deferred": [
+    {
+      "item": {
+        "id": 12,
+        "name": "Lettuce Iceberg",
+        "description": "24 heads",
+        "quantity": 6,
+        "n_orders": 5
+      },
+      "decision": "defer",
+      "commodity": "ICEBERG LETTUCE",
+      "rationale": "The only priced offering is supplier-i's #2 grade ($10.25), but on Apr 14 we sent back #2 iceberg from supplier-i for poor quality — buying #2 again would repeat the problem; the fresh QV grade isn't priced in offerings.",
+      "supplier_question": "Hey Supplier I Rep 1 — do you have fresh QV Iceberg Lettuce 24ct available for Apr 23 delivery, and what's the price? We need 6 cases but want to avoid the #2 grade after last week's quality issue.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 25444
+      }
+    },
+    {
+      "item": {
+        "id": 23,
+        "name": "Pepper Yellow",
+        "description": "25 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "PEPPERS",
+      "rationale": "No supplier currently lists Yellow Peppers in any pack size — offerings are red, green, chili, hot, or tri-color only, so there is no priced match for the 25 lb yellow line.",
+      "supplier_question": "Do you have Yellow Peppers (25 lb / XL) available for 2026-04-23 delivery, and what's the price?",
+      "trace": {
+        "tool_calls": 3,
+        "duration_ms": 19665
+      }
+    },
+    {
+      "item": {
+        "id": 24,
+        "name": "Lettuce Iceberg Shredded",
+        "description": "4 x 5 lb",
+        "quantity": 6,
+        "n_orders": 2
+      },
+      "decision": "defer",
+      "commodity": "SHREDDED LETTUCE",
+      "rationale": "Only one offering exists (supplier-m / Taylor Farms 1/4 shred 4x5lb) and it is PTF with no priced quote for the 2026-04-23 delivery.",
+      "supplier_question": "Can you confirm price and availability on 1/4 Shred Lettuce 4x5lb (Taylor Farms) for delivery Thursday 4/23? We need 6 cases.",
+      "trace": {
+        "tool_calls": 3,
+        "duration_ms": 15092
+      }
+    },
+    {
+      "item": {
+        "id": 34,
+        "name": "Potato Yukon Mini",
+        "description": "50 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "POTATOES",
+      "rationale": "No offering matches Yukon Mini 50 lb specifically — supplier-p has Red Mini 50 lb ($80, wrong variety), supplier-d-pt1/k have Yukon but not in 50 lb mini pack, and the MINIS bucket entries are 20 lb or Mexican mini.",
+      "supplier_question": "Do you have Yukon Mini potatoes in a 50 lb box for Apr 23 delivery, and what's the price?",
+      "trace": {
+        "tool_calls": 6,
+        "duration_ms": 52707
+      }
+    },
+    {
+      "item": {
+        "id": 40,
+        "name": "Apple Granny Smith",
+        "description": "113 pieces",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "APPLES",
+      "rationale": "No supplier on today's APPLES list is offering Granny Smith (varieties available are Idared, Ambrosia, Red Delicious, Cosmic Crisp, Envy) and no row matches the 113ct pack size requested.",
+      "supplier_question": "Do you have Granny Smith apples available for 2026-04-23 delivery, ideally 113ct? If so, what's the price?",
+      "trace": {
+        "tool_calls": 3,
+        "duration_ms": 21061
+      }
+    },
+    {
+      "item": {
+        "id": 44,
+        "name": "Tomato 6x6",
+        "description": "25 lb",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "TOMATOES",
+      "rationale": "No supplier currently lists Tomato 6x6 25 lb; supplier-n had it at $105 on Apr 20 but said 'No tomatoes' on Apr 21, and the other priced offerings are 5x6 size or different varieties (cherry/grape/heirloom/hothouse).",
+      "supplier_question": "Hi Supplier N — do you have Tomato 6x6 25 lb available for Apr 23 delivery, and what's the price? If not, when do you expect them back in?",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 36409
+      }
+    },
+    {
+      "item": {
+        "id": 49,
+        "name": "Zucchini Yellow",
+        "description": "20 lb",
+        "quantity": 2,
+        "n_orders": 2
+      },
+      "decision": "defer",
+      "commodity": "ZUCCHINI",
+      "rationale": "Order is specifically for Yellow Zucchini; the only matching offering (supplier-g) is PTF, and all priced offerings are Green or unspecified Fancy zucchini.",
+      "supplier_question": "Hi - do you have a price today on the Zucchini Yellow Medium 25 lb (#9303)? Need 2 cases for Apr 23 delivery.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 27044
+      }
+    },
+    {
+      "item": {
+        "id": 53,
+        "name": "Mushroom Sliced Local",
+        "description": "5 lb",
+        "quantity": 3,
+        "n_orders": 2
+      },
+      "decision": "defer",
+      "commodity": "MUSHROOMS",
+      "rationale": "No supplier offering in the priced list matches 'Sliced' specifically (all five rows are white/brown whole or cello packs); supplier-a's chats show they regularly deliver Mushroom Sliced Local 5lb at $14 but it isn't on the official offering sheet, so confirm before committing.",
+      "supplier_question": "Hi — can you confirm Mushroom Sliced Local 5 lb is available for Apr 23 delivery and that pricing is still $14.00/case? Need 3 cases.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 51806
+      }
+    },
+    {
+      "item": {
+        "id": 55,
+        "name": "Parsley Flat",
+        "description": "12 x 40 g",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "PARSLEY",
+      "supplier": "supplier-n",
+      "raw_row_text": "VE228 5 DOZEN CARTON 39.00 * 38.00 * PLAIN PARSLEY",
+      "rationale": "Only supplier-n carries flat (plain) parsley, but Apr 22 chat shows the $38 list price is stale — rep quoted $54 (Little Bear) — and their pack is 60 x 40 g, not the requested 12 x 40 g.",
+      "supplier_question": "Hi — for Apr 23 delivery, do you have Parsley Flat in a 12 x 40 g pack, and what's today's price? You mentioned $54 Little Bear yesterday — is that still the only option?",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 36560
+      }
+    },
+    {
+      "item": {
+        "id": 58,
+        "name": "Parsley Flat",
+        "description": "60 x 40 g",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "PARSLEY",
+      "rationale": "Supplier-n is the only one with PLAIN/flat parsley in 60ct (listed $38), but their Apr 22 chat replied 'Parsley is $54 it's little bear' — an unresolved price hike and brand swap on the day before delivery; other suppliers list curly parsley only.",
+      "supplier_question": "Hi — for Apr 23 we need 1x Parsley Flat 60 x 40 g. Can you confirm: is it still $54 and Little Bear brand, or is the $38 plain parsley available? Want to lock pricing before we add it to the order.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 41022
+      }
+    },
+    {
+      "item": {
+        "id": 64,
+        "name": "Lime",
+        "description": "230 pieces",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "LIMES",
+      "rationale": "Order specifies 230-piece pack; only supplier-m lists 230s and supplier-d-pt2 lists 200s, both PTF/null-priced, and supplier-m's chats show repeated lime shorts (Apr 17 230s short, Apr 21 limes short) so we can't confirm supply or price.",
+      "supplier_question": "Hi — can you confirm availability and price on Lime 230 pieces for delivery Apr 23? You were short on 230s on Apr 17 and out of limes on Apr 21, want to make sure before we book.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 33102
+      }
+    },
+    {
+      "item": {
+        "id": 73,
+        "name": "Carrot Red",
+        "description": "25 lb",
+        "quantity": 6,
+        "n_orders": 2
+      },
+      "decision": "defer",
+      "commodity": "CARROTS",
+      "rationale": "No supplier currently offers a red carrot variety in a 25 lb pack — all priced offerings are jumbo orange carrots (22/50 lb) or baby peeled, and the only 25 lb match (supplier-m juice carrot) is PTF and wrong variety.",
+      "supplier_question": "Do you carry Red Carrots in a 25 lb pack for Apr 23 delivery? If yes, please share price and availability.",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 29863
+      }
+    },
+    {
+      "item": {
+        "id": 76,
+        "name": "Bean Sprouts Local",
+        "description": "20 lb",
+        "quantity": 4,
+        "n_orders": 3
+      },
+      "decision": "defer",
+      "commodity": "SPROUTS",
+      "rationale": "No supplier currently offers bean sprouts in a 20 lb pack — the only SPROUTS row is alfalfa/onion sprouts in 12x120g, and the BEANS commodity has no bean-sprout SKUs.",
+      "supplier_question": "Do you have Local Bean Sprouts available in a 20 lb case for Thursday 4/23 delivery? If yes, please send price and pack.",
+      "trace": {
+        "tool_calls": 5,
+        "duration_ms": 21665
+      }
+    },
+    {
+      "item": {
+        "id": 79,
+        "name": "Avocado Bagged 6 Pack",
+        "description": "14 bags",
+        "quantity": 1,
+        "n_orders": 1
+      },
+      "decision": "defer",
+      "commodity": "AVOCADOS",
+      "rationale": "Supplier-n is the only offering matching the bagged 6-pack/14-bag format ($42), but on 2026-04-22 they confirmed 'No bagged avocados' for the Apr 23 delivery; all other priced offerings are loose-count cases (12/16/32/36/48/60ct or 14x5), not the bagged 6-pack SKU.",
+      "supplier_question": "Hi Supplier N — any update on Avocado Bagged 6 Pack (14 bags) for the Apr 23 delivery? You mentioned none yesterday — when do you expect to have them back in, and at what price?",
+      "trace": {
+        "tool_calls": 4,
+        "duration_ms": 25978
+      }
+    }
+  ],
+  "drafts": [
+    {
+      "supplier": "(open)",
+      "picks": [],
+      "questions": [
+        {
+          "item_id": 12,
+          "question": "Hey Supplier I Rep 1 — do you have fresh QV Iceberg Lettuce 24ct available for Apr 23 delivery, and what's the price? We need 6 cases but want to avoid the #2 grade after last week's quality issue."
+        },
+        {
+          "item_id": 23,
+          "question": "Do you have Yellow Peppers (25 lb / XL) available for 2026-04-23 delivery, and what's the price?"
+        },
+        {
+          "item_id": 24,
+          "question": "Can you confirm price and availability on 1/4 Shred Lettuce 4x5lb (Taylor Farms) for delivery Thursday 4/23? We need 6 cases."
+        },
+        {
+          "item_id": 34,
+          "question": "Do you have Yukon Mini potatoes in a 50 lb box for Apr 23 delivery, and what's the price?"
+        },
+        {
+          "item_id": 40,
+          "question": "Do you have Granny Smith apples available for 2026-04-23 delivery, ideally 113ct? If so, what's the price?"
+        },
+        {
+          "item_id": 44,
+          "question": "Hi Supplier N — do you have Tomato 6x6 25 lb available for Apr 23 delivery, and what's the price? If not, when do you expect them back in?"
+        },
+        {
+          "item_id": 49,
+          "question": "Hi - do you have a price today on the Zucchini Yellow Medium 25 lb (#9303)? Need 2 cases for Apr 23 delivery."
+        },
+        {
+          "item_id": 53,
+          "question": "Hi — can you confirm Mushroom Sliced Local 5 lb is available for Apr 23 delivery and that pricing is still $14.00/case? Need 3 cases."
+        },
+        {
+          "item_id": 58,
+          "question": "Hi — for Apr 23 we need 1x Parsley Flat 60 x 40 g. Can you confirm: is it still $54 and Little Bear brand, or is the $38 plain parsley available? Want to lock pricing before we add it to the order."
+        },
+        {
+          "item_id": 64,
+          "question": "Hi — can you confirm availability and price on Lime 230 pieces for delivery Apr 23? You were short on 230s on Apr 17 and out of limes on Apr 21, want to make sure before we book."
+        },
+        {
+          "item_id": 73,
+          "question": "Do you carry Red Carrots in a 25 lb pack for Apr 23 delivery? If yes, please share price and availability."
+        },
+        {
+          "item_id": 76,
+          "question": "Do you have Local Bean Sprouts available in a 20 lb case for Thursday 4/23 delivery? If yes, please send price and pack."
+        },
+        {
+          "item_id": 79,
+          "question": "Hi Supplier N — any update on Avocado Bagged 6 Pack (14 bags) for the Apr 23 delivery? You mentioned none yesterday — when do you expect to have them back in, and at what price?"
+        }
+      ],
+      "message": "[item #12] Hey Supplier I Rep 1 — do you have fresh QV Iceberg Lettuce 24ct available for Apr 23 delivery, and what's the price? We need 6 cases but want to avoid the #2 grade after last week's quality issue.\n[item #23] Do you have Yellow Peppers (25 lb / XL) available for 2026-04-23 delivery, and what's the price?\n[item #24] Can you confirm price and availability on 1/4 Shred Lettuce 4x5lb (Taylor Farms) for delivery Thursday 4/23? We need 6 cases.\n[item #34] Do you have Yukon Mini potatoes in a 50 lb box for Apr 23 delivery, and what's the price?\n[item #40] Do you have Granny Smith apples available for 2026-04-23 delivery, ideally 113ct? If so, what's the price?\n[item #44] Hi Supplier N — do you have Tomato 6x6 25 lb available for Apr 23 delivery, and what's the price? If not, when do you expect them back in?\n[item #49] Hi - do you have a price today on the Zucchini Yellow Medium 25 lb (#9303)? Need 2 cases for Apr 23 delivery.\n[item #53] Hi — can you confirm Mushroom Sliced Local 5 lb is available for Apr 23 delivery and that pricing is still $14.00/case? Need 3 cases.\n[item #58] Hi — for Apr 23 we need 1x Parsley Flat 60 x 40 g. Can you confirm: is it still $54 and Little Bear brand, or is the $38 plain parsley available? Want to lock pricing before we add it to the order.\n[item #64] Hi — can you confirm availability and price on Lime 230 pieces for delivery Apr 23? You were short on 230s on Apr 17 and out of limes on Apr 21, want to make sure before we book.\n[item #73] Do you carry Red Carrots in a 25 lb pack for Apr 23 delivery? If yes, please share price and availability.\n[item #76] Do you have Local Bean Sprouts available in a 20 lb case for Thursday 4/23 delivery? If yes, please send price and pack.\n[item #79] Hi Supplier N — any update on Avocado Bagged 6 Pack (14 bags) for the Apr 23 delivery? You mentioned none yesterday — when do you expect to have them back in, and at what price?"
+    },
+    {
+      "supplier": "supplier-a",
+      "picks": [
+        {
+          "item_id": 16,
+          "description": "Pepper Red",
+          "qty": 2,
+          "pkg": "25 lb",
+          "cost": 30
+        },
+        {
+          "item_id": 36,
+          "description": "Mushroom White Local",
+          "qty": 1,
+          "pkg": "5 lb",
+          "cost": 11
+        },
+        {
+          "item_id": 62,
+          "description": "Mushroom White Choice Local",
+          "qty": 15,
+          "pkg": "5 lb",
+          "cost": 11
+        },
+        {
+          "item_id": 63,
+          "description": "Mushroom White Stuffers Local",
+          "qty": 1,
+          "pkg": "5 lb",
+          "cost": 11
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER A —\nOrder for April 23 delivery:\n\n• 2 × Pepper Red (25 lb) @ $30.00\n• 1 × Mushroom White Local (5 lb) @ $11.00\n• 15 × Mushroom White Choice Local (5 lb) @ $11.00\n• 1 × Mushroom White Stuffers Local (5 lb) @ $11.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-b",
+      "picks": [
+        {
+          "item_id": 3,
+          "description": "Carrot",
+          "qty": 6,
+          "pkg": "50 lb",
+          "cost": 35
+        },
+        {
+          "item_id": 47,
+          "description": "Cabbage Red",
+          "qty": 1,
+          "pkg": "16 heads",
+          "cost": 25
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER B —\nOrder for April 23 delivery:\n\n• 6 × Carrot (50 lb) @ $35.00\n• 1 × Cabbage Red (16 heads) @ $25.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-c",
+      "picks": [
+        {
+          "item_id": 38,
+          "description": "Melon Honeydew Jumbo",
+          "qty": 4,
+          "pkg": "5 pieces",
+          "cost": 26
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER C —\nOrder for April 23 delivery:\n\n• 4 × Melon Honeydew Jumbo (5 pieces) @ $26.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-d-pt1",
+      "picks": [
+        {
+          "item_id": 41,
+          "description": "Apple Red Delicious",
+          "qty": 1,
+          "pkg": "100 pieces",
+          "cost": 52
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER D-PT1 —\nOrder for April 23 delivery:\n\n• 1 × Apple Red Delicious (100 pieces) @ $52.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-e",
+      "picks": [
+        {
+          "item_id": 1,
+          "description": "Banana Turning",
+          "qty": 1,
+          "pkg": "40 lb",
+          "cost": 29
+        },
+        {
+          "item_id": 19,
+          "description": "Tomato Beefsteak Hot House",
+          "qty": 5,
+          "pkg": "15 lb",
+          "cost": 55
+        },
+        {
+          "item_id": 52,
+          "description": "Lime",
+          "qty": 5,
+          "pkg": "54 pieces",
+          "cost": 28
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER E —\nOrder for April 23 delivery:\n\n• 1 × Banana Turning (40 lb) @ $29.00\n• 5 × Tomato Beefsteak Hot House (15 lb) @ $55.00\n• 5 × Lime (54 pieces) @ $28.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-f",
+      "picks": [
+        {
+          "item_id": 8,
+          "description": "Tomato Grape Cherry",
+          "qty": 2,
+          "pkg": "12 x 1 lb",
+          "cost": 36
+        },
+        {
+          "item_id": 18,
+          "description": "Tomato 5x6",
+          "qty": 2,
+          "pkg": "25 lb",
+          "cost": 110
+        },
+        {
+          "item_id": 26,
+          "description": "Tomato 6x7",
+          "qty": 4,
+          "pkg": "25 lb",
+          "cost": 90
+        },
+        {
+          "item_id": 27,
+          "description": "Broccoli Crown",
+          "qty": 1,
+          "pkg": "20 lb",
+          "cost": 40
+        },
+        {
+          "item_id": 31,
+          "description": "Tomato Roma",
+          "qty": 11,
+          "pkg": "25 lb",
+          "cost": 80
+        },
+        {
+          "item_id": 33,
+          "description": "Onion Spanish Jumbo",
+          "qty": 3,
+          "pkg": "50 lb",
+          "cost": 30
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER F —\nOrder for April 23 delivery:\n\n• 2 × Tomato Grape Cherry (12 x 1 lb) @ $36.00\n• 2 × Tomato 5x6 (25 lb) @ $110.00\n• 4 × Tomato 6x7 (25 lb) @ $90.00\n• 1 × Broccoli Crown (20 lb) @ $40.00\n• 11 × Tomato Roma (25 lb) @ $80.00\n• 3 × Onion Spanish Jumbo (50 lb) @ $30.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-g",
+      "picks": [
+        {
+          "item_id": 5,
+          "description": "Coriander / Cilantro",
+          "qty": 1,
+          "pkg": "24 bunches",
+          "cost": 28
+        },
+        {
+          "item_id": 30,
+          "description": "Romaine Heart 6 Pack",
+          "qty": 1,
+          "pkg": "7 packs",
+          "cost": 59
+        },
+        {
+          "item_id": 51,
+          "description": "Romaine Lettuce",
+          "qty": 2,
+          "pkg": "24 pieces",
+          "cost": 45
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER G —\nOrder for April 23 delivery:\n\n• 1 × Coriander / Cilantro (24 bunches) @ $28.00\n• 1 × Romaine Heart 6 Pack (7 packs) @ $59.00\n• 2 × Romaine Lettuce (24 pieces) @ $45.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-h",
+      "picks": [
+        {
+          "item_id": 7,
+          "description": "Cucumber Large",
+          "qty": 2,
+          "pkg": "12 pieces",
+          "cost": 14
+        },
+        {
+          "item_id": 46,
+          "description": "Tomato Heirloom",
+          "qty": 1,
+          "pkg": "10 lb",
+          "cost": 35
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER H —\nOrder for April 23 delivery:\n\n• 2 × Cucumber Large (12 pieces) @ $14.00\n• 1 × Tomato Heirloom (10 lb) @ $35.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-i",
+      "picks": [
+        {
+          "item_id": 29,
+          "description": "Spring Mix Mesclun",
+          "qty": 2,
+          "pkg": "3 lb",
+          "cost": 20.5
+        },
+        {
+          "item_id": 45,
+          "description": "Mint",
+          "qty": 2,
+          "pkg": "12 bunches",
+          "cost": 6
+        },
+        {
+          "item_id": 54,
+          "description": "Ginger Root",
+          "qty": 1,
+          "pkg": "10 lb",
+          "cost": 13
+        },
+        {
+          "item_id": 56,
+          "description": "Parsley Curly",
+          "qty": 1,
+          "pkg": "12 x 40 g",
+          "cost": 6.75
+        },
+        {
+          "item_id": 68,
+          "description": "Chives",
+          "qty": 1,
+          "pkg": "12 bunches",
+          "cost": 105
+        },
+        {
+          "item_id": 69,
+          "description": "Dill Weed",
+          "qty": 1,
+          "pkg": "12 bunches",
+          "cost": 14
+        },
+        {
+          "item_id": 70,
+          "description": "Thyme",
+          "qty": 1,
+          "pkg": "12 bunches",
+          "cost": 11.75
+        },
+        {
+          "item_id": 72,
+          "description": "Carrot Baby Peeled with Top",
+          "qty": 2,
+          "pkg": "5 lb",
+          "cost": 53.5
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER I —\nOrder for April 23 delivery:\n\n• 2 × Spring Mix Mesclun (3 lb) @ $20.50\n• 2 × Mint (12 bunches) @ $6.00\n• 1 × Ginger Root (10 lb) @ $13.00\n• 1 × Parsley Curly (12 x 40 g) @ $6.75\n• 1 × Chives (12 bunches) @ $105.00\n• 1 × Dill Weed (12 bunches) @ $14.00\n• 1 × Thyme (12 bunches) @ $11.75\n• 2 × Carrot Baby Peeled with Top (5 lb) @ $53.50\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-k",
+      "picks": [
+        {
+          "item_id": 10,
+          "description": "Pepper Green Jumbo",
+          "qty": 6,
+          "pkg": "22 lb",
+          "cost": 55
+        },
+        {
+          "item_id": 37,
+          "description": "Pineapple",
+          "qty": 3,
+          "pkg": "6 pieces",
+          "cost": 24
+        },
+        {
+          "item_id": 39,
+          "description": "Spinach Baby",
+          "qty": 1,
+          "pkg": "2 x 2 lb",
+          "cost": 16
+        },
+        {
+          "item_id": 42,
+          "description": "Coleslaw Mix",
+          "qty": 5,
+          "pkg": "4 x 5 lb",
+          "cost": 27
+        },
+        {
+          "item_id": 43,
+          "description": "Garlic Peeled",
+          "qty": 5,
+          "pkg": "6 x 3 lb",
+          "cost": 25
+        },
+        {
+          "item_id": 59,
+          "description": "Orange Navel",
+          "qty": 2,
+          "pkg": "50 pieces",
+          "cost": 44
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER K —\nOrder for April 23 delivery:\n\n• 6 × Pepper Green Jumbo (22 lb) @ $55.00\n• 3 × Pineapple (6 pieces) @ $24.00\n• 1 × Spinach Baby (2 x 2 lb) @ $16.00\n• 5 × Coleslaw Mix (4 x 5 lb) @ $27.00\n• 5 × Garlic Peeled (6 x 3 lb) @ $25.00\n• 2 × Orange Navel (50 pieces) @ $44.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-l",
+      "picks": [
+        {
+          "item_id": 11,
+          "description": "Lemon",
+          "qty": 3,
+          "pkg": "113 pieces",
+          "cost": 35
+        },
+        {
+          "item_id": 15,
+          "description": "Pepper Orange",
+          "qty": 1,
+          "pkg": "25 lb",
+          "cost": 20
+        },
+        {
+          "item_id": 17,
+          "description": "Strawberries",
+          "qty": 10,
+          "pkg": "8 x 1 lb",
+          "cost": 12
+        },
+        {
+          "item_id": 20,
+          "description": "Mushroom Portobello Local",
+          "qty": 1,
+          "pkg": "5 lb",
+          "cost": 15.5
+        },
+        {
+          "item_id": 35,
+          "description": "Mushroom Brown Caps Local",
+          "qty": 1,
+          "pkg": "5 lb",
+          "cost": 15.5
+        },
+        {
+          "item_id": 57,
+          "description": "Lemon",
+          "qty": 1,
+          "pkg": "88 pieces",
+          "cost": 35
+        },
+        {
+          "item_id": 65,
+          "description": "Mint",
+          "qty": 1,
+          "pkg": "24 bunches",
+          "cost": 22
+        },
+        {
+          "item_id": 67,
+          "description": "Rosemary",
+          "qty": 1,
+          "pkg": "12 bunches",
+          "cost": 11
+        },
+        {
+          "item_id": 77,
+          "description": "Basil Thai",
+          "qty": 2,
+          "pkg": "12 bunches",
+          "cost": 11
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER L —\nOrder for April 23 delivery:\n\n• 3 × Lemon (113 pieces) @ $35.00\n• 1 × Pepper Orange (25 lb) @ $20.00\n• 10 × Strawberries (8 x 1 lb) @ $12.00\n• 1 × Mushroom Portobello Local (5 lb) @ $15.50\n• 1 × Mushroom Brown Caps Local (5 lb) @ $15.50\n• 1 × Lemon (88 pieces) @ $35.00\n• 1 × Mint (24 bunches) @ $22.00\n• 1 × Rosemary (12 bunches) @ $11.00\n• 2 × Basil Thai (12 bunches) @ $11.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-m",
+      "picks": [
+        {
+          "item_id": 21,
+          "description": "Spring Mix Heritage",
+          "qty": 12,
+          "pkg": "3 lb",
+          "cost": 12
+        },
+        {
+          "item_id": 28,
+          "description": "Lettuce Green Leaf",
+          "qty": 1,
+          "pkg": "24 heads",
+          "cost": 48
+        },
+        {
+          "item_id": 66,
+          "description": "Lettuce Red Leaf",
+          "qty": 1,
+          "pkg": "24 heads",
+          "cost": 48
+        },
+        {
+          "item_id": 74,
+          "description": "Pea Shoots Living Local",
+          "qty": 2,
+          "pkg": "6 packs",
+          "cost": 4
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER M —\nOrder for April 23 delivery:\n\n• 12 × Spring Mix Heritage (3 lb) @ $12.00\n• 1 × Lettuce Green Leaf (24 heads) @ $48.00\n• 1 × Lettuce Red Leaf (24 heads) @ $48.00\n• 2 × Pea Shoots Living Local (6 packs) @ $4.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-n",
+      "picks": [
+        {
+          "item_id": 2,
+          "description": "Brussels Sprouts",
+          "qty": 1,
+          "pkg": "25 lb",
+          "cost": 50
+        },
+        {
+          "item_id": 9,
+          "description": "Onion Green",
+          "qty": 4,
+          "pkg": "48 bunches",
+          "cost": 34
+        },
+        {
+          "item_id": 14,
+          "description": "Onion Cooking Medium",
+          "qty": 1,
+          "pkg": "50 lb",
+          "cost": 19
+        },
+        {
+          "item_id": 25,
+          "description": "Ginger Root",
+          "qty": 1,
+          "pkg": "30 lb",
+          "cost": 24
+        },
+        {
+          "item_id": 61,
+          "description": "Romaine Heart 3 Pack Andy Boy",
+          "qty": 1,
+          "pkg": "12 packs",
+          "cost": 50
+        },
+        {
+          "item_id": 75,
+          "description": "Onion Green Iced",
+          "qty": 2,
+          "pkg": "48 bunches",
+          "cost": 34
+        }
+      ],
+      "questions": [
+        {
+          "item_id": 55,
+          "question": "Hi — for Apr 23 delivery, do you have Parsley Flat in a 12 x 40 g pack, and what's today's price? You mentioned $54 Little Bear yesterday — is that still the only option?"
+        }
+      ],
+      "message": "Hi SUPPLIER N —\nOrder for April 23 delivery:\n\n• 1 × Brussels Sprouts (25 lb) @ $50.00\n• 4 × Onion Green (48 bunches) @ $34.00\n• 1 × Onion Cooking Medium (50 lb) @ $19.00\n• 1 × Ginger Root (30 lb) @ $24.00\n• 1 × Romaine Heart 3 Pack Andy Boy (12 packs) @ $50.00\n• 2 × Onion Green Iced (48 bunches) @ $34.00\n\nAlso — Hi — for Apr 23 delivery, do you have Parsley Flat in a 12 x 40 g pack, and what's today's price? You mentioned $54 Little Bear yesterday — is that still the only option?\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-o",
+      "picks": [
+        {
+          "item_id": 4,
+          "description": "Celery Stalks",
+          "qty": 4,
+          "pkg": "24 stalks",
+          "cost": 48
+        },
+        {
+          "item_id": 78,
+          "description": "Bok Choy Shanghai Local",
+          "qty": 1,
+          "pkg": "30 lb",
+          "cost": 44
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER O —\nOrder for April 23 delivery:\n\n• 4 × Celery Stalks (24 stalks) @ $48.00\n• 1 × Bok Choy Shanghai Local (30 lb) @ $44.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-p",
+      "picks": [
+        {
+          "item_id": 13,
+          "description": "Onion Red Large",
+          "qty": 8,
+          "pkg": "25 lb",
+          "cost": 20
+        },
+        {
+          "item_id": 22,
+          "description": "Coriander / Cilantro",
+          "qty": 2,
+          "pkg": "60 bunches",
+          "cost": 56
+        },
+        {
+          "item_id": 32,
+          "description": "Cantaloupe Jumbo",
+          "qty": 4,
+          "pkg": "9 pieces",
+          "cost": 28
+        },
+        {
+          "item_id": 48,
+          "description": "Beans Fine French",
+          "qty": 8,
+          "pkg": "14 x 400 g",
+          "cost": 48
+        },
+        {
+          "item_id": 50,
+          "description": "Orange Juicing",
+          "qty": 4,
+          "pkg": "113 pieces",
+          "cost": 24
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER P —\nOrder for April 23 delivery:\n\n• 8 × Onion Red Large (25 lb) @ $20.00\n• 2 × Coriander / Cilantro (60 bunches) @ $56.00\n• 4 × Cantaloupe Jumbo (9 pieces) @ $28.00\n• 8 × Beans Fine French (14 x 400 g) @ $48.00\n• 4 × Orange Juicing (113 pieces) @ $24.00\n\nPlease confirm availability and final pricing. Thanks!"
+    },
+    {
+      "supplier": "supplier-q",
+      "picks": [
+        {
+          "item_id": 6,
+          "description": "Cucumber Medium",
+          "qty": 2,
+          "pkg": "12 pieces",
+          "cost": 12
+        },
+        {
+          "item_id": 60,
+          "description": "Tomato Tomatillo",
+          "qty": 2,
+          "pkg": "35 lb",
+          "cost": 68
+        },
+        {
+          "item_id": 71,
+          "description": "Cucumber Medium Choice",
+          "qty": 40,
+          "pkg": "14 pieces",
+          "cost": 12
+        },
+        {
+          "item_id": 80,
+          "description": "Turnip",
+          "qty": 5,
+          "pkg": "25 lb",
+          "cost": 28
+        }
+      ],
+      "questions": [],
+      "message": "Hi SUPPLIER Q —\nOrder for April 23 delivery:\n\n• 2 × Cucumber Medium (12 pieces) @ $12.00\n• 2 × Tomato Tomatillo (35 lb) @ $68.00\n• 40 × Cucumber Medium Choice (14 pieces) @ $12.00\n• 5 × Turnip (25 lb) @ $28.00\n\nPlease confirm availability and final pricing. Thanks!"
+    }
+  ],
+  "summary": {
+    "total_items": 80,
+    "picked": 66,
+    "deferred": 14,
+    "estimated_total_cost": 6901.5,
+    "total_duration_ms": 642122
+  }
+}
