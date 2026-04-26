@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Price List Extraction Pipeline</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --surface: #ffffff;
+    --surface-2: #f5f5f0;
+    --ink: #0f172a;
+    --ink-soft: #475569;
+    --ink-muted: #94a3b8;
+    --rule: #e2e8f0;
+
+    --code: #475569;        /* slate */
+    --opus: #2563eb;        /* blue */
+    --agent: #d97706;       /* amber */
+    --vision: #7c3aed;      /* purple */
+    --tool: #0d9488;        /* teal */
+    --cache: #16a34a;       /* green */
+    --skill: #be185d;       /* rose */
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter",
+                 system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  main {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 56px 32px 96px;
+  }
+
+  /* ---------- header ---------- */
+  .page-header {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 28px;
+    margin-bottom: 48px;
+  }
+  .page-header h1 {
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .page-header .subtitle {
+    color: var(--ink-soft);
+    font-size: 16px;
+    margin: 0;
+    max-width: 700px;
+  }
+  .page-header .meta {
+    color: var(--ink-muted);
+    font-size: 12px;
+    margin-top: 16px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+
+  h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 56px 0 20px;
+    letter-spacing: -0.005em;
+  }
+  h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 24px 0 8px;
+    color: var(--ink);
+  }
+  p { margin: 0 0 12px; }
+  p.lead { color: var(--ink-soft); margin-bottom: 24px; max-width: 720px; }
+
+  /* ---------- concept grid ---------- */
+  .concept-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+  }
+  .concept {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 16px 18px;
+    border-left-width: 3px;
+  }
+  .concept .name {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .concept .desc {
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+  }
+  .concept.opus  { border-left-color: var(--opus); }
+  .concept.vision{ border-left-color: var(--vision); }
+  .concept.agent { border-left-color: var(--agent); }
+  .concept.tool  { border-left-color: var(--tool); }
+  .concept.code  { border-left-color: var(--code); }
+  .concept.skill { border-left-color: var(--skill); }
+
+  /* ---------- badges ---------- */
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: var(--surface-2);
+    color: var(--ink-soft);
+    border: 1px solid var(--rule);
+    line-height: 1;
+    white-space: nowrap;
+  }
+  .badge.opus   { background: #dbeafe; color: #1e40af; border-color: #bfdbfe; }
+  .badge.agent  { background: #fef3c7; color: #92400e; border-color: #fde68a; }
+  .badge.code   { background: #e2e8f0; color: #334155; border-color: #cbd5e1; }
+  .badge.vision { background: #ede9fe; color: #5b21b6; border-color: #ddd6fe; }
+  .badge.tool   { background: #ccfbf1; color: #115e59; border-color: #99f6e4; }
+  .badge.cache  { background: #dcfce7; color: #166534; border-color: #bbf7d0; }
+  .badge.skill  { background: #fce7f3; color: #9d174d; border-color: #fbcfe8; }
+  .badge.parallel { background: #f1f5f9; color: #475569; border-color: #cbd5e1; }
+  .badge.cond   { background: #fffbeb; color: #92400e; border-color: #fde68a; }
+
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dot.opus   { background: var(--opus); }
+  .dot.agent  { background: var(--agent); }
+  .dot.code   { background: var(--code); }
+  .dot.vision { background: var(--vision); }
+  .dot.tool   { background: var(--tool); }
+  .dot.skill  { background: var(--skill); }
+
+  /* ---------- flow ---------- */
+  .flow {
+    margin-top: 8px;
+  }
+  .step {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 16px 18px;
+    border-left-width: 4px;
+    position: relative;
+  }
+  .step.code   { border-left-color: var(--code); }
+  .step.opus   { border-left-color: var(--opus); }
+  .step.agent  { border-left-color: var(--agent); }
+  .step.entry  { border-left-color: var(--ink-muted); border-style: dashed; }
+
+  .step-head {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .step-title {
+    font-weight: 600;
+    font-size: 15px;
+    margin-right: auto;
+  }
+  .step-num {
+    color: var(--ink-muted);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    margin-right: 2px;
+  }
+  .step-desc {
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    margin: 4px 0 0;
+  }
+  .step-io {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 4px 10px;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .step-io .label {
+    color: var(--ink-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 10.5px;
+    padding-top: 2px;
+  }
+
+  /* arrows between steps */
+  .arrow {
+    height: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--ink-muted);
+  }
+  .arrow::before {
+    content: "↓";
+    font-size: 18px;
+    line-height: 1;
+  }
+
+  /* parallel block */
+  .parallel-wrap {
+    background: var(--surface-2);
+    border: 1px dashed var(--rule);
+    border-radius: 10px;
+    padding: 14px;
+    position: relative;
+  }
+  .parallel-tag {
+    position: absolute;
+    top: -10px;
+    left: 16px;
+    background: var(--bg);
+    padding: 0 8px;
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+  }
+  .parallel-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  @media (max-width: 720px) {
+    .parallel-grid { grid-template-columns: 1fr; }
+  }
+
+  /* conditional sidebar */
+  .conditional {
+    background: var(--surface);
+    border: 1px dashed var(--agent);
+    border-left: 4px dashed var(--agent);
+    border-radius: 10px;
+    padding: 14px 18px;
+  }
+  .conditional .step-title { color: var(--agent); }
+  .conditional-tag {
+    font-size: 10.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--agent);
+    margin-bottom: 4px;
+  }
+
+  /* decision diamond-ish */
+  .decision {
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: 10px;
+    padding: 16px 18px;
+  }
+  .decision .step-title { color: #92400e; }
+  .decision .branches {
+    margin-top: 10px;
+    display: grid;
+    gap: 6px;
+    font-size: 13.5px;
+  }
+  .decision .branch {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 12px;
+    color: var(--ink-soft);
+  }
+  .decision .branch .cond {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--ink);
+    background: var(--surface-2);
+    padding: 2px 6px;
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  .stage-divider {
+    margin: 32px 0 20px;
+    text-align: center;
+    color: var(--ink-muted);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    position: relative;
+  }
+  .stage-divider::before, .stage-divider::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    width: 30%;
+    height: 1px;
+    background: var(--rule);
+  }
+  .stage-divider::before { left: 0; }
+  .stage-divider::after  { right: 0; }
+
+  /* audit + skills sections */
+  .audit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  .audit-card {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 13px;
+  }
+  .audit-card .title {
+    font-weight: 600;
+    font-size: 12.5px;
+    margin-bottom: 4px;
+    color: var(--ink);
+  }
+  .audit-card .desc {
+    color: var(--ink-soft);
+    font-size: 12.5px;
+  }
+  .audit-card .who {
+    display: inline-block;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: var(--code);
+    margin-top: 6px;
+  }
+
+  /* skills note */
+  .skills-note {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--skill);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-top: 16px;
+  }
+  .skills-note ul { margin: 8px 0 0; padding-left: 20px; }
+  .skills-note li { margin-bottom: 4px; color: var(--ink-soft); font-size: 14px; }
+
+  /* footer */
+  footer {
+    margin-top: 80px;
+    padding-top: 24px;
+    border-top: 1px solid var(--rule);
+    color: var(--ink-muted);
+    font-size: 12px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+
+  /* print styling */
+  @media print {
+    body { background: white; }
+    main { padding: 24px; }
+    .step, .concept, .audit-card, .conditional, .decision, .parallel-wrap, .skills-note {
+      break-inside: avoid;
+    }
+  }
+
+  code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 90%;
+    background: var(--surface-2);
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: var(--ink);
+  }
+</style>
+</head>
+<body>
+<main>
+
+  <header class="page-header">
+    <h1>Price List Extraction Pipeline</h1>
+    <p class="subtitle">From a supplier file to canonical, audit-traced rows. This page shows where Opus 4.7, vision, agents, tools, skills, and deterministic code each fit — and where they explicitly do not.</p>
+    <p class="meta">per-document workflow · evaluator–optimizer pattern · code orchestration with LLM leaf decisions</p>
+  </header>
+
+  <!-- ============================================================ -->
+  <!-- THE SIX CONCEPTS                                              -->
+  <!-- ============================================================ -->
+  <section>
+    <h2>The six things you are looking at</h2>
+    <p class="lead">Every box in the flow below is one of these. The colored stripe on the left of each box tells you which.</p>
+
+    <div class="concept-grid">
+
+      <div class="concept opus">
+        <div class="name"><span class="dot opus"></span>Opus 4.7</div>
+        <div class="desc">The model. Every LLM call in this pipeline is Opus 4.7 (1M context). Used in three roles: <b>generator</b> (extractor, normalizer), <b>validator</b> (adversarial), and <b>tiebreaker</b> (final automated arbiter). Same weights, different system prompts and tools.</div>
+      </div>
+
+      <div class="concept vision">
+        <div class="name"><span class="dot vision"></span>Vision</div>
+        <div class="desc">Page images sent as input. Used for Stage 1 extraction and the validators / tiebreakers that ground claims against the page. <b>Not used downstream</b>: once Stage 1's rows have been pixel-verified, that text is the authority for Stage 2.</div>
+      </div>
+
+      <div class="concept agent">
+        <div class="name"><span class="dot agent"></span>Agents</div>
+        <div class="desc">Bounded, role-specific Opus calls with adversarial system prompts. Validators are scoped to ≤100 rows each. Tiebreakers are scoped to one dispute at a time. Each has a separate prompt and tool schema from the generator. They run in parallel and are stateless.</div>
+      </div>
+
+      <div class="concept tool">
+        <div class="name"><span class="dot tool"></span>Tools</div>
+        <div class="desc">Tool-use schemas binding strict JSON output. <code>tool_choice</code> is set to a specific tool, so the model must fill the schema. One tool per role: <code>submit_extraction</code>, <code>submit_pixel_verdicts</code>, <code>submit_completeness_verdict</code>, <code>submit_normalization</code>, <code>submit_blind_matches</code>, <code>submit_justification_verdicts</code>, <code>submit_stage1_tiebreaker_decision</code>, <code>submit_stage2_tiebreaker_decision</code>.</div>
+      </div>
+
+      <div class="concept code">
+        <div class="name"><span class="dot code"></span>Deterministic code</div>
+        <div class="desc">Python orchestration. Format detect, page rendering, chunking, validator dispatch, verdict aggregation, dispute detection, repair distillation, audit-record assembly, commit. <b>All control flow lives here.</b> No LLM decides what step runs next.</div>
+      </div>
+
+      <div class="concept skill">
+        <div class="name"><span class="dot skill"></span>Skills</div>
+        <div class="desc">User-installable capability extensions in Claude Code / Agent SDK. <b>Not central to this pipeline.</b> If you deploy on Claude Code or Agent SDK, the orchestrator can be exposed as a slash command (e.g., <code>/process_pricelist</code>). For pure Anthropic API deployment, skills don't apply. See the note at the bottom for the legitimate places they fit.</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============================================================ -->
+  <!-- PIPELINE FLOW                                                 -->
+  <!-- ============================================================ -->
+  <section class="flow">
+    <h2>Pipeline (per document)</h2>
+    <p class="lead">Top to bottom. Each box names its category; the badges name the modalities and contracts in play. Loops and conditional escalations are called out at their decision points.</p>
+
+    <!-- step 0: file arrives -->
+    <div class="step entry">
+      <div class="step-head">
+        <span class="step-num">00 ·</span>
+        <span class="step-title">File arrives</span>
+      </div>
+      <p class="step-desc">PDF or image (xlsx out of scope per current decision). Filename is preserved as a signal.</p>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 1: preprocess -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">01 ·</span>
+        <span class="step-title">Format detect &amp; preprocess</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Detect MIME, render PDF pages to images at vision-quality DPI, hash inputs, register replay pointers.</p>
+      <div class="step-io">
+        <span class="label">in</span><span>file bytes, filename</span>
+        <span class="label">out</span><span>page images, content_hash, document_id</span>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 2: stage 1 extract -->
+    <div class="step opus">
+      <div class="step-head">
+        <span class="step-num">02 ·</span>
+        <span class="step-title">Stage 1 — Extract</span>
+        <span class="badge opus">Opus 4.7</span>
+        <span class="badge vision">+ Vision</span>
+        <span class="badge tool">Tool</span>
+        <span class="badge cache">Cached</span>
+      </div>
+      <p class="step-desc">Generator role. Reads page images, identifies supplier and effective dates, extracts every line item verbatim. No catalog awareness. Layout-describe pass first, then extraction.</p>
+      <div class="step-io">
+        <span class="label">in</span><span>page images (cached), filename, today</span>
+        <span class="label">tool</span><span>submit_extraction</span>
+        <span class="label">out</span><span>supplier, effective_dates, dates_found, layout_description, items[], uncertainties[]</span>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 3: chunk for validators -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">03 ·</span>
+        <span class="step-title">Chunk for validators</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Slice extracted rows into chunks of ≤100 for Validator A. Slice pages (or page regions) for Validator B. Same item_ids across both so verdicts join cleanly.</p>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 4: parallel validators A + B -->
+    <div class="parallel-wrap">
+      <span class="parallel-tag">04 · Parallel</span>
+      <div class="parallel-grid">
+
+        <div class="step agent">
+          <div class="step-head">
+            <span class="step-title">Validator A — Pixel verification</span>
+            <span class="badge agent">Agent</span>
+            <span class="badge vision">+ Vision</span>
+            <span class="badge tool">Tool</span>
+          </div>
+          <p class="step-desc">Adversarial. For each extracted row, locate it on the page and confirm every field is literally printed there. Catches hallucinations and inferred-not-extracted fields.</p>
+          <div class="step-io">
+            <span class="label">in</span><span>page images, ≤100 row chunk</span>
+            <span class="label">tool</span><span>submit_pixel_verdicts</span>
+            <span class="label">out</span><span>per-row verdict + page_quote</span>
+          </div>
+        </div>
+
+        <div class="step agent">
+          <div class="step-head">
+            <span class="step-title">Validator B — Completeness audit</span>
+            <span class="badge agent">Agent</span>
+            <span class="badge vision">+ Vision</span>
+            <span class="badge tool">Tool</span>
+          </div>
+          <p class="step-desc">Adversarial. Independently scans the page; reports rows visible but not extracted, rows extracted that are actually section headers, missed sold-out flags, and supplier/date corrections.</p>
+          <div class="step-io">
+            <span class="label">in</span><span>page (or region) image, raw_row_text list</span>
+            <span class="label">tool</span><span>submit_completeness_verdict</span>
+            <span class="label">out</span><span>missed_rows, misclassified_rows, missing_flags, supplier_check, dates_check</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 5: aggregate verdicts -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">05 ·</span>
+        <span class="step-title">Aggregate verdicts &amp; detect disputes</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Join A and B by item_id. Compute pass/fail per pass criteria. Detect tiebreaker triggers: <code>S1-HALLUCINATION</code>, <code>S1-PHANTOM_MISS</code>, <code>S1-FIELD_DISPUTE</code>.</p>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 6: stage 1 tiebreaker (conditional) -->
+    <div class="conditional">
+      <div class="conditional-tag">06 · Conditional — only on disputes</div>
+      <div class="step-head">
+        <span class="step-title">Stage 1 Tiebreaker</span>
+        <span class="badge agent">Agent</span>
+        <span class="badge vision">+ Vision</span>
+        <span class="badge tool">Tool</span>
+      </div>
+      <p class="step-desc">Re-derives from the page from scratch, then picks a verdict. Cap: if &gt;15% of rows trigger tiebreakers, the document escalates to human review without further calls.</p>
+      <div class="step-io">
+        <span class="label">in</span><span>page images, dispute pattern, all party positions</span>
+        <span class="label">tool</span><span>submit_stage1_tiebreaker_decision</span>
+        <span class="label">out</span><span>decision (KEEP / DROP / ADD / FIX / INCONCLUSIVE)</span>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 7: decide -->
+    <div class="decision">
+      <div class="step-head">
+        <span class="step-num">07 ·</span>
+        <span class="step-title">Decide</span>
+        <span class="badge code">Code</span>
+      </div>
+      <div class="branches">
+        <div class="branch"><span class="cond">pass</span><span>continue to inter-stage gate (08)</span></div>
+        <div class="branch"><span class="cond">repair</span><span>distill issues → loop back to 02 with <code>&lt;prior_issues&gt;</code> (max 2 repair iterations)</span></div>
+        <div class="branch"><span class="cond">human</span><span>exit to review queue; audit record marked <code>needs_human_review</code></span></div>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 8: inter-stage gate -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">08 ·</span>
+        <span class="step-title">Inter-stage gate</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Apply supplier glossary expansions to raw rows. Run heuristic checks (typical-row-count for this supplier, etc.). Surface concerns into <code>pre_stage2_warnings</code>.</p>
+    </div>
+
+    <div class="stage-divider">Stage 2 boundary — vision is no longer the source of truth</div>
+
+    <!-- step 9: stage 2 normalize -->
+    <div class="step opus">
+      <div class="step-head">
+        <span class="step-num">09 ·</span>
+        <span class="step-title">Stage 2 — Normalize against catalog</span>
+        <span class="badge opus">Opus 4.7</span>
+        <span class="badge tool">Tool</span>
+        <span class="badge cache">Catalog cached</span>
+      </div>
+      <p class="step-desc">Generator role. Maps each verbatim raw row to a canonical product_id (or null). Catalog (717 rows) lives in the cached system block — written once, hit free thereafter.</p>
+      <div class="step-io">
+        <span class="label">in</span><span>catalog (cached), raw rows from accepted Stage 1 iteration</span>
+        <span class="label">tool</span><span>submit_normalization</span>
+        <span class="label">out</span><span>per-row mapping, confidence, reasoning, alternatives</span>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 10: chunk for stage 2 validators -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">10 ·</span>
+        <span class="step-title">Chunk for normalization validators</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Slice mappings into chunks of ≤100. Same chunks feed C and D so their verdicts can be joined per item_id.</p>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 11: parallel validators C + D -->
+    <div class="parallel-wrap">
+      <span class="parallel-tag">11 · Parallel</span>
+      <div class="parallel-grid">
+
+        <div class="step agent">
+          <div class="step-head">
+            <span class="step-title">Validator C — Blind re-match</span>
+            <span class="badge agent">Agent</span>
+            <span class="badge tool">Tool</span>
+            <span class="badge cache">Catalog cached</span>
+          </div>
+          <p class="step-desc">Adversarial. Independently picks the best catalog match for each raw row, <b>without seeing Stage 2's answer</b>. Code compares afterward; agreement vs disagreement drives next step.</p>
+          <div class="step-io">
+            <span class="label">in</span><span>catalog (cached), ≤100 raw rows</span>
+            <span class="label">tool</span><span>submit_blind_matches</span>
+            <span class="label">out</span><span>independent best_product_id + ranked alternatives</span>
+          </div>
+        </div>
+
+        <div class="step agent">
+          <div class="step-head">
+            <span class="step-title">Validator D — Justification audit</span>
+            <span class="badge agent">Agent</span>
+            <span class="badge tool">Tool</span>
+            <span class="badge cache">Catalog cached</span>
+          </div>
+          <p class="step-desc">Adversarial. Sees Stage 2's pick and argues against it: checks commodity, variety, and pack/size alignment independently. Catches "right answer for wrong reason."</p>
+          <div class="step-io">
+            <span class="label">in</span><span>catalog (cached), ≤100 mappings</span>
+            <span class="label">tool</span><span>submit_justification_verdicts</span>
+            <span class="label">out</span><span>verdict + dimension_checks + argument_against</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 12: aggregate -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">12 ·</span>
+        <span class="step-title">Aggregate verdicts &amp; detect disputes</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Join Stage 2, C, and D by item_id. Detect tiebreaker triggers: <code>S2-MATCH_DISAGREEMENT</code>, <code>S2-DIMENSION_FAILURE</code>, <code>S2-NULL_DISPUTE</code>.</p>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 13: stage 2 tiebreaker -->
+    <div class="conditional">
+      <div class="conditional-tag">13 · Conditional — only on disputes</div>
+      <div class="step-head">
+        <span class="step-title">Stage 2 Tiebreaker</span>
+        <span class="badge agent">Agent</span>
+        <span class="badge tool">Tool</span>
+        <span class="badge vision">+ Vision (escalation)</span>
+      </div>
+      <p class="step-desc">Re-derives the catalog match from scratch. Optional page-region image attached for ambiguous pack/size cases. Batched up to ~50 disputes per call (catalog stays cached).</p>
+      <div class="step-io">
+        <span class="label">in</span><span>catalog (cached), disputes, optional page region</span>
+        <span class="label">tool</span><span>submit_stage2_tiebreaker_decision</span>
+        <span class="label">out</span><span>decision (ADOPT_STAGE2 / ADOPT_C / ADOPT_D / NEW_PICK / NULL / INCONCLUSIVE)</span>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 14: decide -->
+    <div class="decision">
+      <div class="step-head">
+        <span class="step-num">14 ·</span>
+        <span class="step-title">Decide</span>
+        <span class="badge code">Code</span>
+      </div>
+      <div class="branches">
+        <div class="branch"><span class="cond">pass</span><span>continue to commit (15)</span></div>
+        <div class="branch"><span class="cond">repair</span><span>distill issues → loop back to 09 with <code>&lt;prior_issues&gt;</code> (max 2 repair iterations)</span></div>
+        <div class="branch"><span class="cond">human</span><span>exit to review queue</span></div>
+      </div>
+    </div>
+
+    <div class="arrow"></div>
+
+    <!-- step 15: assemble + commit -->
+    <div class="step code">
+      <div class="step-head">
+        <span class="step-num">15 ·</span>
+        <span class="step-title">Assemble final output &amp; commit</span>
+        <span class="badge code">Code</span>
+      </div>
+      <p class="step-desc">Build <code>final.canonical_rows[]</code> with full provenance per row (extracted_in_iter, validator_a verdict, validator_b coverage, normalized_in_iter, validator_c agreement, validator_d verdict, tiebreaker reference). Persist audit record. Set <code>status</code>.</p>
+      <div class="step-io">
+        <span class="label">out</span><span>committed audit record + canonical rows ready for downstream consumers</span>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- ============================================================ -->
+  <!-- AUDIT RECORD                                                  -->
+  <!-- ============================================================ -->
+  <section>
+    <h2>Audit record (written by code throughout)</h2>
+    <p class="lead">Every box in the flow above appends to the per-document audit record. The orchestrator owns this record; LLMs never write to it directly. It is append-only, content-addressed, and replayable.</p>
+
+    <div class="audit-grid">
+      <div class="audit-card">
+        <div class="title">A · Identity &amp; versions</div>
+        <div class="desc">audit_id, document_id, content_hash, schema/pipeline/prompt versions, models per role.</div>
+        <div class="who">written at: 00–01</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">B · Preprocessing</div>
+        <div class="desc">Page image hashes, paths, warnings, preprocessing latency.</div>
+        <div class="who">written at: 01</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">C · Stage 1 iterations</div>
+        <div class="desc">Per iteration: prompt_hash, full request_blob, raw response, validator A/B runs, aggregated verdict, repair feedback.</div>
+        <div class="who">written at: 02–07</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">D · Inter-stage</div>
+        <div class="desc">Glossary applied, heuristic concerns surfaced.</div>
+        <div class="who">written at: 08</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">E · Stage 2 iterations</div>
+        <div class="desc">Catalog version, per-iteration prompts/responses, validator C/D runs, aggregated verdict.</div>
+        <div class="who">written at: 09–14</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">F · Tiebreakers</div>
+        <div class="desc">Each tiebreaker invocation: trigger, party positions, decision, cost.</div>
+        <div class="who">written at: 06, 13</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">G · Final output</div>
+        <div class="desc">canonical_rows with per-row provenance chain back to page region.</div>
+        <div class="who">written at: 15</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">H · Metrics</div>
+        <div class="desc">Total cost, tokens (incl. cache read/write), API call count, iteration count, row counts, wall clock.</div>
+        <div class="who">written at: 15</div>
+      </div>
+      <div class="audit-card">
+        <div class="title">I · Lifecycle</div>
+        <div class="desc">status, committed_at/by, human_overrides[], replay_pointers.</div>
+        <div class="who">written at: 15+</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ -->
+  <!-- WHERE SKILLS FIT                                              -->
+  <!-- ============================================================ -->
+  <section>
+    <h2>Where skills fit (and don't)</h2>
+    <div class="skills-note">
+      <p><b>Skills are not in the pipeline above.</b> The pipeline is a deterministic Python workflow that calls the Anthropic Messages API. Skills are a Claude Code / Agent SDK concept — user-installable capability extensions exposed as slash commands or model-discoverable abilities.</p>
+      <p>Three legitimate places where skills <i>could</i> attach if you deploy the orchestrator inside Claude Code or the Agent SDK:</p>
+      <ul>
+        <li><b>Operator-facing entry point</b> — the orchestrator exposed as <code>/process_pricelist &lt;file-or-folder&gt;</code> so a buyer can trigger a run from a Claude Code session.</li>
+        <li><b>Supplier glossary maintenance</b> — <code>/glossary add</code>, <code>/glossary review</code> for human-curated abbreviation expansions that feed Stage 2.</li>
+        <li><b>Audit-record exploration</b> — <code>/audit show &lt;document_id&gt;</code> to surface a record for review.</li>
+      </ul>
+      <p style="margin-top: 12px;">For a pure API deployment (FastAPI worker, Lambda, cron job), skills don't apply at all — the orchestrator is your Python code, not a skill.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div>per-document workflow · evaluator–optimizer pattern · code orchestration with LLM leaf decisions · all calls Opus 4.7 (1M context)</div>
+  </footer>
+
+</main>
+</body>
+</html>
