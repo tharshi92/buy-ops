@@ -228,7 +228,10 @@ async function decideOneItem(item: OrderLine, deliveryDate: string): Promise<Ite
           if (block.type === "text") txt += block.text;
           if (block.type === "tool_use") tool_calls++;
         }
-        if (txt.trim().length > 0) lastText = txt;
+        // accumulate rather than overwrite — final assistant turn is sometimes
+        // a confirmation ("Done.") after the JSON-bearing turn, which would
+        // otherwise clobber the parseable output
+        if (txt.trim().length > 0) lastText += (lastText ? "\n" : "") + txt;
       }
       if (msg.type === "result") {
         success = msg.subtype === "success";
